@@ -1,0 +1,48 @@
+2025-03-08 20:20:18,782 - INFO - Starting SpaceTextCorpus text processing
+2025-03-08 20:20:28,402 - INFO - NLTK resources downloaded successfully
+2025-03-08 20:20:43,753 - INFO - Starting SpaceTextCorpus text processing
+2025-03-08 20:20:44,482 - INFO - NLTK resources downloaded successfully
+2025-03-08 20:20:44,484 - INFO - Processing category: amateur_astronomy
+2025-03-08 20:21:06,187 - INFO - Starting SpaceTextCorpus text processing
+2025-03-08 20:21:06,224 - INFO - NLTK resources downloaded successfully
+2025-03-08 20:21:06,226 - INFO - Processing category: amateur_astronomy
+2025-03-08 20:21:08,711 - INFO - Processed 19 articles for category: amateur_astronomy
+2025-03-08 20:21:08,712 - INFO - Processing category: asteroids_comets
+2025-03-08 20:21:09,069 - INFO - Processed 19 articles for category: asteroids_comets
+2025-03-08 20:21:09,069 - INFO - Processing category: astrobiology_seti
+2025-03-08 20:21:09,179 - INFO - Processed 14 articles for category: astrobiology_seti
+2025-03-08 20:21:09,179 - INFO - Processing category: astrophysics
+2025-03-08 20:21:09,534 - INFO - Processed 36 articles for category: astrophysics
+2025-03-08 20:21:09,534 - INFO - Processing category: black_holes
+2025-03-08 20:21:10,188 - INFO - Processed 42 articles for category: black_holes
+2025-03-08 20:21:10,189 - INFO - Processing category: cosmology
+2025-03-08 20:21:10,329 - INFO - Processed 13 articles for category: cosmology
+2025-03-08 20:21:10,329 - INFO - Processing category: dark_matter_energy
+2025-03-08 20:21:10,466 - INFO - Processed 11 articles for category: dark_matter_energy
+2025-03-08 20:21:10,466 - INFO - Processing category: exoplanets
+2025-03-08 20:21:10,673 - INFO - Processed 18 articles for category: exoplanets
+2025-03-08 20:21:10,674 - INFO - Processing category: galaxies
+2025-03-08 20:21:10,685 - INFO - Processed 3 articles for category: galaxies
+2025-03-08 20:21:10,687 - INFO - Processing category: gravitational_waves
+2025-03-08 20:21:10,874 - INFO - Processed 19 articles for category: gravitational_waves
+2025-03-08 20:21:10,874 - INFO - Processing category: planetary_science
+2025-03-08 20:21:11,066 - INFO - Processed 20 articles for category: planetary_science
+2025-03-08 20:21:11,066 - INFO - Processing category: space_agencies
+2025-03-08 20:21:11,158 - INFO - Processed 13 articles for category: space_agencies
+2025-03-08 20:21:11,158 - INFO - Processing category: space_exploration
+2025-03-08 20:21:11,830 - INFO - Processed 47 articles for category: space_exploration
+2025-03-08 20:21:11,831 - INFO - Processing category: space_history
+2025-03-08 20:21:11,930 - INFO - Processed 6 articles for category: space_history
+2025-03-08 20:21:11,930 - INFO - Processing category: space_news
+2025-03-08 20:21:12,379 - INFO - Processed 30 articles for category: space_news
+2025-03-08 20:21:12,380 - INFO - Processing category: space_physics
+2025-03-08 20:21:12,525 - INFO - Processed 19 articles for category: space_physics
+2025-03-08 20:21:12,526 - INFO - Processing category: space_technology
+2025-03-08 20:21:12,614 - INFO - Processed 12 articles for category: space_technology
+2025-03-08 20:21:12,615 - INFO - Processing category: space_weather
+2025-03-08 20:21:12,725 - INFO - Processed 18 articles for category: space_weather
+2025-03-08 20:21:12,726 - INFO - Processing category: stars_stellar_evolution
+2025-03-08 20:21:13,157 - INFO - Processed 28 articles for category: stars_stellar_evolution
+2025-03-08 20:21:13,157 - INFO - Processing category: telescopes_observatories
+2025-03-08 20:21:13,201 - INFO - Processed 5 articles for category: telescopes_observatories
+2025-03-08 20:21:13,201 - INFO - SpaceTextCorpus text processing completed

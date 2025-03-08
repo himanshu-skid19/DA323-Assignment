@@ -1,0 +1,1183 @@
+2025-03-08 19:24:19,355 - INFO - Starting SpaceTextCorpus crawler
+2025-03-08 19:24:21,620 - WARNING - Website https://www.planetary.org/ does not allow crawling according to robots.txt. Skipping.
+2025-03-08 19:24:22,632 - WARNING - Website https://www.universetoday.com/category/planets/ does not allow crawling according to robots.txt. Skipping.
+2025-03-08 19:24:33,985 - WARNING - Website https://physicsworld.com/c/astronomy-space/astrophysics/ does not allow crawling according to robots.txt. Skipping.
+2025-03-08 19:24:53,505 - WARNING - Website https://www.spaceweatherlive.com/ does not allow crawling according to robots.txt. Skipping.
+2025-03-08 19:25:23,622 - WARNING - Website https://skyandtelescope.org/ does not allow crawling according to robots.txt. Skipping.
+2025-03-08 19:25:25,502 - WARNING - Website https://stargazerslounge.com/ does not allow crawling according to robots.txt. Skipping.
+2025-03-08 19:25:26,457 - WARNING - Website https://physicsworld.com/c/astronomy-space/space-physics/ does not allow crawling according to robots.txt. Skipping.
+2025-03-08 19:25:27,395 - WARNING - Website https://agu.org/space-physics does not allow crawling according to robots.txt. Skipping.
+2025-03-08 19:25:32,597 - WARNING - Website https://spaceflightnow.com/ does not allow crawling according to robots.txt. Skipping.
+2025-03-08 19:25:34,189 - INFO - Starting crawl for category: planetary_science
+2025-03-08 19:25:34,189 - INFO - Crawling https://solarsystem.nasa.gov/ for category: planetary_science
+2025-03-08 19:25:38,536 - INFO - Found 0 article links for https://solarsystem.nasa.gov/
+2025-03-08 19:25:38,537 - WARNING - No articles found for category: planetary_science
+2025-03-08 19:25:38,538 - INFO - Completed crawl for category: planetary_science
+2025-03-08 19:25:38,538 - INFO - Starting crawl for category: space_exploration
+2025-03-08 19:25:38,538 - INFO - Crawling https://www.nasa.gov/ for category: space_exploration
+2025-03-08 19:25:39,816 - INFO - Found 20 article links for https://www.nasa.gov/
+2025-03-08 19:25:39,817 - INFO - Processing article: https://www.nasa.gov/gallery/moon/
+2025-03-08 19:25:42,672 - INFO - Successfully extracted article: Earth’s Moon
+2025-03-08 19:25:42,673 - INFO - Processing article: https://www.nasa.gov/image-of-the-day/
+2025-03-08 19:25:45,592 - INFO - Successfully extracted article: Image of the Day
+2025-03-08 19:25:45,593 - INFO - Processing article: https://www.nasa.gov/humans-in-space/living-in-space/
+2025-03-08 19:25:48,704 - INFO - Successfully extracted article: Living in Space
+2025-03-08 19:25:48,704 - INFO - Processing article: https://www.nasa.gov/news/all-news/
+2025-03-08 19:25:52,215 - INFO - Processing article: https://www.nasa.gov/technology/
+2025-03-08 19:25:54,880 - INFO - Successfully extracted article: Technology Drives Exploration
+2025-03-08 19:25:54,880 - INFO - Processing article: https://www.nasa.gov/gallery/earth/
+2025-03-08 19:25:57,384 - INFO - Successfully extracted article: Earth
+2025-03-08 19:25:57,384 - INFO - Processing article: https://www.nasa.gov/blogs/missions/2025/03/06/intuitive-machines-mission-lands-near-south-pole-carrying-nasa-science/
+2025-03-08 19:25:59,820 - INFO - Successfully extracted article: Intuitive Machines Mission Lands Near South Pole Carrying NASA Science
+2025-03-08 19:25:59,820 - INFO - Processing article: https://www.nasa.gov/news-release/nasa-invites-creators-to-design-mascot-for-artemis-moon-mission/
+2025-03-08 19:26:02,325 - INFO - Successfully extracted article: NASA Invites Creators to Design Mascot for Artemis Moon Mission
+2025-03-08 19:26:02,325 - INFO - Processing article: https://www.nasa.gov/privacy/
+2025-03-08 19:26:04,797 - INFO - Successfully extracted article: NASA Web Privacy Policy & Important Notices
+2025-03-08 19:26:04,798 - INFO - Processing article: https://www.nasa.gov/wp-content/uploads/2025/03/nhq202503050025orig.jpg
+2025-03-08 19:26:20,364 - INFO - Processing article: https://www.nasa.gov/universe/nasas-spherex-space-telescope-will-seek-lifes-ingredients/
+2025-03-08 19:26:22,874 - INFO - Successfully extracted article: NASA’s SPHEREx Space Telescope Will Seek Life’s Ingredients
+2025-03-08 19:26:22,874 - INFO - Processing article: https://www.nasa.gov/missions/station/iss-research/nasas-spacex-crew-9-scientific-mission-on-space-station-concludes/
+2025-03-08 19:26:25,713 - INFO - Successfully extracted article: Ahead of Crew Return, NASA’s Crew-9 Concludes Science Mission
+2025-03-08 19:26:25,714 - INFO - Processing article: https://www.nasa.gov/humans-in-space/commercial-space/low-earth-orbit-economy/
+2025-03-08 19:26:28,228 - INFO - Successfully extracted article: Low Earth Orbit Economy
+2025-03-08 19:26:28,229 - INFO - Processing article: https://www.nasa.gov/blogs/watch-the-skies/2025/03/07/dont-sleep-on-this-total-lunar-eclipse-will-bring-blood-moon-march-13-14/
+2025-03-08 19:26:30,732 - INFO - Successfully extracted article: Don’t Sleep on This: Total Lunar Eclipse will Bring Blood Moon March 13-14
+2025-03-08 19:26:30,733 - INFO - Processing article: https://www.nasa.gov/image-detail/expedition-71-astronauts-visit-elsie-whitlow-stokes-cfpcs/
+2025-03-08 19:26:33,184 - INFO - Successfully extracted article: NASA Astronaut Tracy Dyson Speaks to Students
+2025-03-08 19:26:33,184 - INFO - Processing article: https://www.nasa.gov/nasa-missions/
+2025-03-08 19:26:35,670 - INFO - Successfully extracted article: Missions
+2025-03-08 19:26:35,670 - INFO - Processing article: https://www.nasa.gov/gallery/sun/
+2025-03-08 19:26:38,159 - INFO - Successfully extracted article: Sun
+2025-03-08 19:26:38,159 - INFO - Processing article: https://www.nasa.gov/humans-in-space/commercial-space/
+2025-03-08 19:26:40,782 - INFO - Successfully extracted article: Commercial Space
+2025-03-08 19:26:40,783 - INFO - Processing article: https://www.nasa.gov/humans-in-space/
+2025-03-08 19:26:43,335 - INFO - Successfully extracted article: Humans in Space
+2025-03-08 19:26:43,336 - INFO - Processing article: https://www.nasa.gov/image-article/engineers-install-orion-solar-array-wings-for-artemis-ii/
+2025-03-08 19:26:45,839 - INFO - Successfully extracted article: Engineers Install Orion Solar Array Wings for Artemis II
+2025-03-08 19:26:45,840 - INFO - Crawling https://www.space.com/space-exploration for category: space_exploration
+2025-03-08 19:26:47,746 - INFO - Found 20 article links for https://www.space.com/space-exploration
+2025-03-08 19:26:47,746 - INFO - Processing article: https://www.space.com/space-exploration/private-spaceflight/hope-is-all-but-lost-for-private-asteroid-probe-in-deep-space-the-chance-of-talking-with-odin-is-minimal
+2025-03-08 19:26:51,207 - INFO - Successfully extracted article: Hope is all but lost for private asteroid probe in deep space — 'the chance of talking with Odin is minimal'
+2025-03-08 19:26:51,207 - INFO - Processing article: https://www.space.com/space-exploration/search-for-life/life-as-we-dont-know-it-some-aliens-may-need-sulfuric-acid-like-we-need-water
+2025-03-08 19:26:54,594 - INFO - Successfully extracted article: Life as we don't know it: Some aliens may need sulfuric acid like we need water
+2025-03-08 19:26:54,594 - INFO - Processing article: https://www.space.com/space-exploration/satellites
+2025-03-08 19:26:58,031 - INFO - Successfully extracted article: Satellites
+2025-03-08 19:26:58,031 - INFO - Processing article: https://www.space.com/space-exploration/launches-spacecraft/spacex-starship-flight-8-launch-what-time
+2025-03-08 19:27:01,630 - INFO - Successfully extracted article: What time is SpaceX's Starship Flight 8 launch today?
+2025-03-08 19:27:01,630 - INFO - Processing article: https://www.space.com/news/live/spacex-starship-missions-updates
+2025-03-08 19:27:05,345 - INFO - Successfully extracted article: SpaceX Starship Flight 8 launch: Live updates
+2025-03-08 19:27:05,346 - INFO - Processing article: https://www.space.com/space-exploration/missions/james-webb-space-telescope
+2025-03-08 19:27:08,961 - INFO - Successfully extracted article: James Webb Space Telescope
+2025-03-08 19:27:08,961 - INFO - Processing article: https://www.space.com/space-exploration/private-spaceflight
+2025-03-08 19:27:12,477 - INFO - Successfully extracted article: Private spaceflight
+2025-03-08 19:27:12,477 - INFO - Processing article: https://www.space.com/alien-radio-signals-search-empty
+2025-03-08 19:27:15,954 - INFO - Successfully extracted article: I want to believe — but yet another massive search for alien technosignatures just turned up nothing
+2025-03-08 19:27:15,955 - INFO - Processing article: https://www.space.com/space-exploration/private-spaceflight/i-think-we-all-know-that-hope-is-fading-private-odin-asteroid-probe-is-tumbling-in-space
+2025-03-08 19:27:19,681 - INFO - Successfully extracted article: 'I think we all know that hope is fading.' Private Odin asteroid probe is tumbling in space
+2025-03-08 19:27:19,681 - INFO - Processing article: https://www.space.com/space-exploration/human-spaceflight/paralympian-john-mcfall-could-become-1st-astronaut-with-a-disability-on-iss
+2025-03-08 19:27:23,152 - INFO - Successfully extracted article: Paralympian John McFall could become 1st astronaut with a disability on ISS
+2025-03-08 19:27:23,152 - INFO - Processing article: https://www.space.com/space-exploration/private-spaceflight/firefly-blue-ghost-moon-landing-what-time-livestream
+2025-03-08 19:27:26,811 - INFO - Successfully extracted article: What time will the private Blue Ghost probe land on the moon today? How to watch live. [Updated]
+2025-03-08 19:27:26,811 - INFO - Processing article: https://www.space.com/space-exploration/search-for-life/25-space-conspiracy-theories-debunked
+2025-03-08 19:27:30,349 - INFO - Successfully extracted article: 25 biggest space conspiracy theories: Debunked
+2025-03-08 19:27:30,349 - INFO - Processing article: https://www.space.com/space-exploration/search-for-life/nasa-wants-a-super-hubble-space-telescope-to-search-for-life-on-alien-worlds
+2025-03-08 19:27:33,798 - INFO - Successfully extracted article: NASA wants a 'Super-Hubble' space telescope to search for life on alien worlds
+2025-03-08 19:27:33,798 - INFO - Processing article: https://www.space.com/space-exploration/tech
+2025-03-08 19:27:37,225 - INFO - Successfully extracted article: Tech
+2025-03-08 19:27:37,226 - INFO - Processing article: https://www.space.com/starlink-satellite-train-how-to-see-and-track-it
+2025-03-08 19:27:40,690 - INFO - Successfully extracted article: Starlink satellite train: how to see and track it in the night sky
+2025-03-08 19:27:40,690 - INFO - Processing article: https://www.space.com/space-exploration/tech/varda-space-capsule-returns-to-earth-in-1st-commercial-landing-in-australian-outback-photos
+2025-03-08 19:27:44,105 - INFO - Successfully extracted article: Varda space capsule returns to Earth in 1st commercial landing in Australian Outback (photos)
+2025-03-08 19:27:44,106 - INFO - Processing article: https://www.space.com/live/rocket-launch-today
+2025-03-08 19:27:47,866 - INFO - Successfully extracted article: Rocket launch today: Is there a rocket launch and what time?
+2025-03-08 19:27:47,866 - INFO - Processing article: https://www.space.com/space-exploration/page/8
+2025-03-08 19:27:52,740 - INFO - Successfully extracted article: Space Exploration
+2025-03-08 19:27:52,740 - INFO - Processing article: https://www.space.com/space-exploration/tech/the-force-is-strong-with-this-jedi
+2025-03-08 19:27:56,249 - INFO - Successfully extracted article: The force is strong with this JEDI
+2025-03-08 19:27:56,250 - INFO - Processing article: https://www.space.com/space-exploration/page/5
+2025-03-08 19:27:59,636 - INFO - Successfully extracted article: Space Exploration
+2025-03-08 19:27:59,637 - INFO - Crawling https://www.esa.int/ for category: space_exploration
+2025-03-08 19:27:59,941 - INFO - Found 13 article links for https://www.esa.int/
+2025-03-08 19:27:59,941 - INFO - Processing article: https://www.esa.int/(archive)/0
+2025-03-08 19:28:02,395 - INFO - Processing article: https://www.esa.int/ESA_Multimedia/Videos/2024/07/Ariane_6_first_flight_highlights
+2025-03-08 19:28:04,756 - INFO - Processing article: https://www.esa.int/Science_Exploration/Space_Science/Smile/When_two_become_one_engineers_get_Smile_ready_for_launch
+2025-03-08 19:28:07,101 - INFO - Successfully extracted article: When two become one: engineers get Smile ready for launch
+2025-03-08 19:28:07,101 - INFO - Processing article: https://www.esa.int/ESA_Multimedia/Images/2023/11/Euclid_s_view_of_the_Horsehead_Nebula
+2025-03-08 19:28:09,746 - INFO - Processing article: https://www.esa.int/About_Us/Exhibitions/Discover_ESA_Live_a_gateway_to_ESA_s_universe_for_schools
+2025-03-08 19:28:12,481 - INFO - Successfully extracted article: Discover ESA Live: a gateway to ESA’s universe for schools
+2025-03-08 19:28:12,482 - INFO - Processing article: https://www.esa.int/Applications/Observing_the_Earth/Devastating_floods_in_Spain_witnessed_by_satellites
+2025-03-08 19:28:14,803 - INFO - Successfully extracted article: Devastating floods in Spain witnessed by satellites
+2025-03-08 19:28:14,803 - INFO - Processing article: https://www.esa.int/Applications/Connectivity_and_Secure_Communications/ESA_and_GSMA_Foundry_empower_industry_to_achieve_seamless_global_connectivity
+2025-03-08 19:28:17,121 - INFO - Successfully extracted article: ESA and GSMA Foundry empower industry to achieve seamless global connectivity
+2025-03-08 19:28:17,121 - INFO - Processing article: https://www.esa.int/Applications/Observing_the_Earth/FutureEO/Nord_Stream_methane_leak_far_bigger_than_estimated
+2025-03-08 19:28:19,739 - INFO - Successfully extracted article: Nord Stream methane leak far bigger than estimated
+2025-03-08 19:28:19,739 - INFO - Processing article: https://www.esa.int/About_Us/Exhibitions/Striking_images_tell_the_story_of_space_weather
+2025-03-08 19:28:22,182 - INFO - Successfully extracted article: Striking images tell the story of space weather
+2025-03-08 19:28:22,182 - INFO - Processing article: https://www.esa.int/About_Us/Week_in_images/Week_in_images_03-07_March_2025
+2025-03-08 19:28:25,194 - INFO - Processing article: https://www.esa.int/About_Us/Careers_at_ESA/Five_reasons_to_join_the_European_Space_Agency
+2025-03-08 19:28:27,660 - INFO - Successfully extracted article: Five reasons to join the European Space Agency!
+2025-03-08 19:28:27,660 - INFO - Processing article: https://www.esa.int/Enabling_Support/Space_Transportation/Ariane_6_takes_flight_for_the_second_time
+2025-03-08 19:28:29,846 - INFO - Successfully extracted article: Ariane 6 takes flight for the second time
+2025-03-08 19:28:29,846 - INFO - Processing article: https://www.esa.int/Space_Safety/Planetary_Defence/First_CubeSat_joins_ESA_s_Ramses_mission_to_asteroid_Apophis
+2025-03-08 19:28:32,614 - INFO - Successfully extracted article: First CubeSat joins ESA's Ramses mission to asteroid Apophis
+2025-03-08 19:28:32,619 - INFO - Saved 47 articles for category space_exploration to space_text_corpus\raw\space_exploration.json
+2025-03-08 19:28:32,619 - INFO - Completed crawl for category: space_exploration
+2025-03-08 19:28:32,619 - INFO - Starting crawl for category: astrophysics
+2025-03-08 19:28:32,620 - INFO - Crawling https://science.nasa.gov/astrophysics/ for category: astrophysics
+2025-03-08 19:28:33,319 - INFO - Found 20 article links for https://science.nasa.gov/astrophysics/
+2025-03-08 19:28:33,319 - INFO - Processing article: https://science.nasa.gov/wp-content/uploads/2010/07/astro-fleet-spiral-2024-10-21.jpg
+2025-03-08 19:28:37,824 - INFO - Processing article: https://science.nasa.gov/mission/chandra/
+2025-03-08 19:28:40,859 - INFO - Successfully extracted article: Chandra
+2025-03-08 19:28:40,859 - INFO - Processing article: https://science.nasa.gov/technology/
+2025-03-08 19:28:44,206 - INFO - Successfully extracted article: Science-enabling Technology
+2025-03-08 19:28:44,206 - INFO - Processing article: https://science.nasa.gov/astrophysics/programs/astrophysics-division-technology/
+2025-03-08 19:28:47,174 - INFO - Successfully extracted article: Astrophysics Division Technology
+2025-03-08 19:28:47,174 - INFO - Processing article: https://science.nasa.gov/missions/webb/nasa-webb-wows-with-incredible-detail-in-actively-forming-star-system/
+2025-03-08 19:28:49,690 - INFO - Successfully extracted article: NASA Webb Wows With Incredible Detail in Actively Forming Star System
+2025-03-08 19:28:49,691 - INFO - Processing article: https://science.nasa.gov/astrophysics/resources/decadal-survey/2020-decadal-survey/apd-responses-to-decadal/
+2025-03-08 19:28:52,717 - INFO - Successfully extracted article: APD Responses to Decadal
+2025-03-08 19:28:52,717 - INFO - Processing article: https://science.nasa.gov/planetary-science/
+2025-03-08 19:28:55,998 - INFO - Successfully extracted article: NASA Planetary Science
+2025-03-08 19:28:55,999 - INFO - Processing article: https://science.nasa.gov/universe/black-holes/
+2025-03-08 19:28:59,163 - INFO - Successfully extracted article: Black Hole Basics
+2025-03-08 19:28:59,163 - INFO - Processing article: https://science.nasa.gov/universe/galaxies/
+2025-03-08 19:29:02,233 - INFO - Successfully extracted article: Galaxy Basics
+2025-03-08 19:29:02,233 - INFO - Processing article: https://science.nasa.gov/astrophysics-6/programs/
+2025-03-08 19:29:05,041 - ERROR - Request error for https://science.nasa.gov/astrophysics-6/programs/: 404 Client Error: Not Found for url: https://science.nasa.gov/astrophysics-6/programs/
+2025-03-08 19:29:05,042 - INFO - Processing article: https://science.nasa.gov/astrophysics/programs/astrophysics-research/
+2025-03-08 19:29:08,029 - INFO - Successfully extracted article: Astrophysics Research
+2025-03-08 19:29:08,030 - INFO - Processing article: https://science.nasa.gov/mission/fermi/
+2025-03-08 19:29:11,261 - INFO - Successfully extracted article: Fermi
+2025-03-08 19:29:11,262 - INFO - Processing article: https://science.nasa.gov/astrophysics/stories/
+2025-03-08 19:29:14,531 - INFO - Successfully extracted article: Astrophysics Stories
+2025-03-08 19:29:14,531 - INFO - Processing article: https://science.nasa.gov/astrophysics/science-questions/how-did-universe-originate-and-evolve-produce-galaxies-stars-and-planets-we-see-today/
+2025-03-08 19:29:17,556 - INFO - Successfully extracted article: How did we get here?
+2025-03-08 19:29:17,556 - INFO - Processing article: https://science.nasa.gov/
+2025-03-08 19:29:20,752 - INFO - Successfully extracted article: NASA Science
+2025-03-08 19:29:20,753 - INFO - Processing article: https://science.nasa.gov/mission/nustar/
+2025-03-08 19:29:24,761 - INFO - Successfully extracted article: NuSTAR
+2025-03-08 19:29:24,761 - INFO - Processing article: https://science.nasa.gov/astrophysics/programs/research-programs/
+2025-03-08 19:29:27,768 - INFO - Successfully extracted article: Research Programs
+2025-03-08 19:29:27,769 - INFO - Processing article: https://science.nasa.gov/universe/dark-matter-dark-energy/
+2025-03-08 19:29:30,761 - INFO - Successfully extracted article: Dark Matter
+2025-03-08 19:29:30,761 - INFO - Processing article: https://science.nasa.gov/exoplanets/
+2025-03-08 19:29:33,220 - INFO - Successfully extracted article: Exoplanets
+2025-03-08 19:29:33,221 - INFO - Processing article: https://science.nasa.gov/astrophysics/science-questions/
+2025-03-08 19:29:36,181 - INFO - Successfully extracted article: Big Questions
+2025-03-08 19:29:36,182 - INFO - Crawling https://astronomy.com/tags/astrophysics for category: astrophysics
+2025-03-08 19:29:37,711 - INFO - Found 18 article links for https://astronomy.com/tags/astrophysics
+2025-03-08 19:29:37,711 - INFO - Processing article: https://www.astronomy.com/science/
+2025-03-08 19:29:40,274 - INFO - Successfully extracted article: Science
+2025-03-08 19:29:40,274 - INFO - Processing article: https://www.astronomy.com/science/sun-like-stars-experience-superflares-roughly-once-per-century/
+2025-03-08 19:29:43,311 - INFO - Successfully extracted article: Sun-like stars experience superflares roughly once per century
+2025-03-08 19:29:43,311 - INFO - Processing article: https://www.astronomy.com/science/underwater-detector-spots-the-most-energetic-neutrino-yet/
+2025-03-08 19:29:45,702 - INFO - Successfully extracted article: Underwater detector spots the most energetic neutrino yet
+2025-03-08 19:29:45,702 - INFO - Processing article: https://www.astronomy.com/science/starmus-la-palma-announces-artist-lineup-and-program-structure/
+2025-03-08 19:29:48,252 - INFO - Successfully extracted article: Starmus La Palma announces first round of artists lineup and program structure
+2025-03-08 19:29:48,252 - INFO - Processing article: https://www.astronomy.com/science/renaming-the-hubble-constant/
+2025-03-08 19:29:51,165 - INFO - Successfully extracted article: Is it time to rename the Hubble constant?
+2025-03-08 19:29:51,167 - INFO - Processing article: https://www.astronomy.com/science/the-spike-nebula-how-an-educated-artistic-guess-was-fulfilled/
+2025-03-08 19:29:53,678 - INFO - Successfully extracted article: The Spike Nebula: How an educated artistic guess was fulfilled
+2025-03-08 19:29:53,679 - INFO - Processing article: https://www.astronomy.com/science/stars/
+2025-03-08 19:29:56,211 - INFO - Successfully extracted article: Stars
+2025-03-08 19:29:56,212 - INFO - Processing article: https://www.astronomy.com/science/milky-way/
+2025-03-08 19:29:58,745 - INFO - Successfully extracted article: Milky Way
+2025-03-08 19:29:58,745 - INFO - Processing article: https://www.astronomy.com/science/binary-star-system-finally-discovered-near-milky-way-center/
+2025-03-08 19:30:01,219 - INFO - Successfully extracted article: Binary star system finally discovered near Milky Way center
+2025-03-08 19:30:01,219 - INFO - Processing article: https://www.astronomy.com/science/solar-system/
+2025-03-08 19:30:03,557 - INFO - Successfully extracted article: Solar System
+2025-03-08 19:30:03,557 - INFO - Processing article: https://www.astronomy.com/science/this-black-hole-is-gulping-material-40-times-faster-than-the-theoretical-limit/
+2025-03-08 19:30:06,508 - INFO - Successfully extracted article: This black hole is gulping material 40 times faster than the theoretical limit
+2025-03-08 19:30:06,508 - INFO - Processing article: https://www.astronomy.com/science/exotic-objects/
+2025-03-08 19:30:09,511 - INFO - Successfully extracted article: Exotic Objects
+2025-03-08 19:30:09,511 - INFO - Processing article: https://www.astronomy.com/science/40-cosmic-questions-answered/
+2025-03-08 19:30:12,032 - INFO - Successfully extracted article: 40 cosmic questions and answers
+2025-03-08 19:30:12,033 - INFO - Processing article: https://www.astronomy.com/science/what-are-lagrangian-points/
+2025-03-08 19:30:15,037 - INFO - Successfully extracted article: What are Lagrangian points?
+2025-03-08 19:30:15,037 - INFO - Processing article: https://www.astronomy.com/science/top-10-space-stories-of-2024/
+2025-03-08 19:30:18,049 - INFO - Successfully extracted article: Top 10 space stories of 2024
+2025-03-08 19:30:18,049 - INFO - Processing article: https://www.astronomy.com/science/cosmology/
+2025-03-08 19:30:21,067 - INFO - Successfully extracted article: Cosmology
+2025-03-08 19:30:21,067 - INFO - Processing article: https://www.astronomy.com/science/does-dark-matter-affect-our-solar-system/
+2025-03-08 19:30:23,610 - INFO - Successfully extracted article: Does dark matter affect our solar system?
+2025-03-08 19:30:23,610 - INFO - Processing article: https://www.astronomy.com/science/how-sonification-turns-data-into-sound/
+2025-03-08 19:30:26,134 - INFO - Successfully extracted article: Listen to the universe: How sonification turns data into sound
+2025-03-08 19:30:26,137 - INFO - Saved 36 articles for category astrophysics to space_text_corpus\raw\astrophysics.json
+2025-03-08 19:30:26,139 - INFO - Completed crawl for category: astrophysics
+2025-03-08 19:30:26,139 - INFO - Starting crawl for category: cosmology
+2025-03-08 19:30:26,139 - INFO - Crawling https://science.nasa.gov/cosmic-origins/ for category: cosmology
+2025-03-08 19:30:27,330 - ERROR - Request error for https://science.nasa.gov/cosmic-origins/: 404 Client Error: Not Found for url: https://science.nasa.gov/cosmic-origins/
+2025-03-08 19:30:27,331 - INFO - Crawling https://astronomy.com/tags/cosmology for category: cosmology
+2025-03-08 19:30:28,739 - INFO - Found 18 article links for https://astronomy.com/tags/cosmology
+2025-03-08 19:30:28,741 - INFO - Processing article: https://www.astronomy.com/space-exploration/robotic-spaceflight/
+2025-03-08 19:30:31,340 - INFO - Successfully extracted article: Robotic Spaceflight
+2025-03-08 19:30:31,340 - INFO - Processing article: https://www.astronomy.com/science/string-theory-is-not-dead-yet/
+2025-03-08 19:30:33,867 - INFO - Successfully extracted article: String theory is not dead yet
+2025-03-08 19:30:33,867 - INFO - Processing article: https://www.astronomy.com/science/when-everything-in-the-universe-changed/
+2025-03-08 19:30:36,822 - INFO - Successfully extracted article: When everything in the universe changed
+2025-03-08 19:30:36,822 - INFO - Processing article: https://www.astronomy.com/science/jwst-spots-more-light-than-expected-in-the-early-universe/
+2025-03-08 19:30:39,778 - INFO - Successfully extracted article: JWST spots more light than expected in the early universe
+2025-03-08 19:30:39,778 - INFO - Processing article: https://www.astronomy.com/science/what-is-dark-energy/
+2025-03-08 19:30:42,919 - INFO - Successfully extracted article: What is dark energy?
+2025-03-08 19:30:42,919 - INFO - Processing article: https://www.astronomy.com/science/what-is-the-universe-expanding-into/
+2025-03-08 19:30:45,525 - INFO - Successfully extracted article: What is the universe expanding into?
+2025-03-08 19:30:45,526 - INFO - Processing article: https://www.astronomy.com/science/newfound-galaxy-gives-glimpse-into-the-milky-ways-past/
+2025-03-08 19:30:48,384 - INFO - Successfully extracted article: Newfound galaxy gives glimpse into the Milky Way’s past
+2025-03-08 19:30:48,384 - INFO - Processing article: https://www.astronomy.com/science/scientists-discover-significant-missing-matter-in-the-gas-between-galaxy-clusters/
+2025-03-08 19:30:51,223 - INFO - Successfully extracted article: Scientists discover significant ‘missing matter’ in the gas between galaxy clusters
+2025-03-08 19:30:51,223 - INFO - Processing article: https://www.astronomy.com/science/alien-life/
+2025-03-08 19:30:53,687 - INFO - Processing article: https://www.astronomy.com/space-exploration/spherex-launches-this-week-to-conduct-a-cosmic-census/
+2025-03-08 19:30:56,421 - INFO - Successfully extracted article: SPHEREx launches this week to conduct a cosmic census
+2025-03-08 19:30:56,421 - INFO - Processing article: https://www.astronomy.com/science/little-red-dots-are-still-a-big-mystery/
+2025-03-08 19:30:58,867 - INFO - Successfully extracted article: The early universe’s ‘Little Red Dots’ are still a big mystery
+2025-03-08 19:30:58,867 - INFO - Processing article: https://www.astronomy.com/science/dark-energy-sheds-light-on-life-in-the-cosmos/
+2025-03-08 19:31:01,311 - INFO - Successfully extracted article: Dark energy sheds light on life in the cosmos
+2025-03-08 19:31:01,312 - INFO - Processing article: https://www.astronomy.com/science/astronomers-find-the-most-distant-supernova-yet/
+2025-03-08 19:31:03,776 - INFO - Successfully extracted article: Astronomers find the most distant supernova yet
+2025-03-08 19:31:03,776 - INFO - Processing article: https://www.astronomy.com/science/galaxies/
+2025-03-08 19:31:06,268 - INFO - Successfully extracted article: Galaxies
+2025-03-08 19:31:06,269 - INFO - Crawling https://www.space.com/cosmology for category: cosmology
+2025-03-08 19:31:08,406 - ERROR - Request error for https://www.space.com/cosmology: 404 Client Error: Not Found for url: https://www.space.com/cosmology
+2025-03-08 19:31:08,409 - INFO - Saved 13 articles for category cosmology to space_text_corpus\raw\cosmology.json
+2025-03-08 19:31:08,409 - INFO - Completed crawl for category: cosmology
+2025-03-08 19:31:08,409 - INFO - Starting crawl for category: black_holes
+2025-03-08 19:31:08,409 - INFO - Crawling https://science.nasa.gov/astrophysics/focus-areas/black-holes/ for category: black_holes
+2025-03-08 19:31:09,512 - INFO - Found 20 article links for https://science.nasa.gov/astrophysics/focus-areas/black-holes/
+2025-03-08 19:31:09,513 - INFO - Processing article: https://science.nasa.gov/universe/stars/types/
+2025-03-08 19:31:12,134 - INFO - Successfully extracted article: Star Types
+2025-03-08 19:31:12,135 - INFO - Processing article: https://science.nasa.gov/universe/overview/building-blocks/
+2025-03-08 19:31:15,160 - INFO - Successfully extracted article: Building Blocks
+2025-03-08 19:31:15,160 - INFO - Processing article: https://science.nasa.gov/universe/stories/deep-dives/
+2025-03-08 19:31:18,609 - INFO - Successfully extracted article: Deep Dives
+2025-03-08 19:31:18,609 - INFO - Processing article: https://science.nasa.gov/universe/overview/
+2025-03-08 19:31:21,130 - INFO - Successfully extracted article: Cosmic History
+2025-03-08 19:31:21,130 - INFO - Processing article: https://science.nasa.gov/universe/overview/forces/
+2025-03-08 19:31:24,326 - INFO - Successfully extracted article: Four Forces
+2025-03-08 19:31:24,326 - INFO - Processing article: https://science.nasa.gov/universe/black-holes/anatomy/
+2025-03-08 19:31:27,387 - INFO - Successfully extracted article: Black Hole Anatomy
+2025-03-08 19:31:27,388 - INFO - Processing article: https://science.nasa.gov/universe/stars/multiple-star-systems/
+2025-03-08 19:31:30,415 - INFO - Successfully extracted article: Multiple Star Systems
+2025-03-08 19:31:30,415 - INFO - Processing article: https://science.nasa.gov/universe/galaxies/large-scale-structures/
+2025-03-08 19:31:33,465 - INFO - Successfully extracted article: Large Scale Structures
+2025-03-08 19:31:33,465 - INFO - Processing article: https://science.nasa.gov/missions/webb/newfound-galaxy-class-may-indicate-early-black-hole-growth-webb-finds/
+2025-03-08 19:31:36,583 - INFO - Successfully extracted article: Newfound Galaxy Class May Indicate Early Black Hole Growth, Webb Finds
+2025-03-08 19:31:36,583 - INFO - Processing article: https://science.nasa.gov/universe/
+2025-03-08 19:31:39,104 - INFO - Successfully extracted article: Welcome to the Universe
+2025-03-08 19:31:39,104 - INFO - Processing article: https://science.nasa.gov/universe/stories/quick-reads/
+2025-03-08 19:31:42,252 - INFO - Successfully extracted article: Quick Reads
+2025-03-08 19:31:42,252 - INFO - Processing article: https://science.nasa.gov/universe/stars/planetary-system/
+2025-03-08 19:31:45,246 - INFO - Successfully extracted article: Planetary Systems
+2025-03-08 19:31:45,246 - INFO - Processing article: https://science.nasa.gov/universe/glossary/a-g/
+2025-03-08 19:31:48,391 - INFO - Successfully extracted article: Universe Glossary A-G
+2025-03-08 19:31:48,391 - INFO - Processing article: https://science.nasa.gov/universe/galaxies/types/
+2025-03-08 19:31:51,521 - INFO - Successfully extracted article: Galaxy Types
+2025-03-08 19:31:51,522 - INFO - Processing article: https://science.nasa.gov/universe/observatories/
+2025-03-08 19:31:54,206 - INFO - Successfully extracted article: Observatories
+2025-03-08 19:31:54,206 - INFO - Processing article: https://science.nasa.gov/universe/graphics/
+2025-03-08 19:31:57,529 - INFO - Successfully extracted article: Graphics
+2025-03-08 19:31:57,529 - INFO - Processing article: https://science.nasa.gov/universe/galaxies/evolution/
+2025-03-08 19:32:00,519 - INFO - Successfully extracted article: Galaxy Evolution
+2025-03-08 19:32:00,520 - INFO - Crawling https://www.space.com/black-holes for category: black_holes
+2025-03-08 19:32:02,398 - INFO - Found 20 article links for https://www.space.com/black-holes
+2025-03-08 19:32:02,399 - INFO - Processing article: https://www.space.com/space-exploration/search-for-life/dna-busting-radiation-from-star-killing-supernova-could-have-influenced-evolution-on-earth
+2025-03-08 19:32:05,852 - INFO - Successfully extracted article: DNA-busting radiation from star-killing supernova could have influenced evolution on Earth
+2025-03-08 19:32:05,853 - INFO - Processing article: https://www.space.com/the-universe/mars/mars-may-have-a-solid-inner-core-just-like-earth
+2025-03-08 19:32:09,306 - INFO - Successfully extracted article: Mars may have a solid inner core just like Earth
+2025-03-08 19:32:09,306 - INFO - Processing article: https://www.reddit.com/submit?url=https://www.space.com/black-holes-as-wormholes-gamma-ray-flashes&title=Are%20some%20black%20holes%20wormholes%20in%20disguise?%20Gamma-ray%20blasts%20may%20shed%20clues.
+2025-03-08 19:32:12,392 - INFO - Processing article: https://www.space.com/the-universe/moon/private-blue-ghost-lander-spotted-on-the-moon-by-nasa-lunar-orbiter-photo
+2025-03-08 19:32:15,796 - INFO - Successfully extracted article: Private Blue Ghost lander spotted on the moon by NASA lunar orbiter (photo)
+2025-03-08 19:32:15,796 - INFO - Processing article: https://www.facebook.com/sharer/sharer.php?u=https://www.space.com/black-holes-as-wormholes-gamma-ray-flashes
+2025-03-08 19:32:18,121 - ERROR - Request error for https://www.facebook.com/sharer/sharer.php?u=https://www.space.com/black-holes-as-wormholes-gamma-ray-flashes: 400 Client Error: Bad Request for url: https://www.facebook.com/sharer/sharer.php?u=https://www.space.com/black-holes-as-wormholes-gamma-ray-flashes
+2025-03-08 19:32:18,122 - INFO - Processing article: https://www.space.com/space-exploration/private-spaceflight/spacex-loses-starship-upper-stage-again-but-catches-giant-super-heavy-booster-during-flight-8-launch-video
+2025-03-08 19:32:21,577 - INFO - Successfully extracted article: SpaceX loses Starship rocket stage again, but catches giant Super Heavy booster during Flight 8 launch (video)
+2025-03-08 19:32:21,578 - INFO - Processing article: https://www.space.com/space-exploration/missions/nasa-lunar-trailblazer-moon-probe-spinning-low-power-future-looks-grim
+2025-03-08 19:32:25,454 - INFO - Successfully extracted article: Low on power and spinning out of control, NASA's Lunar Trailblazer moon probe's future looks grim
+2025-03-08 19:32:25,455 - INFO - Processing article: https://www.space.com/the-universe
+2025-03-08 19:32:28,998 - INFO - Successfully extracted article: The universe
+2025-03-08 19:32:28,999 - INFO - Processing article: https://www.space.com/galactic-center-vr-black-hole-visualization.html
+2025-03-08 19:32:32,632 - INFO - Successfully extracted article: Visit the Milky Way's supermassive black hole with 'Galactic Center VR' visualization (video)
+2025-03-08 19:32:32,632 - INFO - Processing article: https://www.space.com/nasa-switches-off-voyager-instruments-to-extend-life-of-the-two-interstellar-spacecraft
+2025-03-08 19:32:36,063 - INFO - Successfully extracted article: NASA switches off Voyager instruments to extend life of the two interstellar spacecraft 'Every day could be our last.'
+2025-03-08 19:32:36,063 - INFO - Processing article: https://www.space.com/15421-black-holes-facts-formation-discovery-sdcmp.html
+2025-03-08 19:32:39,714 - INFO - Successfully extracted article: Black holes: Everything you need to know
+2025-03-08 19:32:39,715 - INFO - Processing article: https://www.space.com/17661-theory-general-relativity.html
+2025-03-08 19:32:43,377 - INFO - Successfully extracted article: What is the theory of general relativity? Understanding Einstein's space-time revolution
+2025-03-08 19:32:43,377 - INFO - Processing article: https://www.space.com/20881-wormholes.html
+2025-03-08 19:32:46,854 - INFO - Successfully extracted article: What are wormholes?
+2025-03-08 19:32:46,854 - INFO - Processing article: https://www.space.com/41146-neutrino-source-blazar-cosmic-rays.html
+2025-03-08 19:32:50,294 - INFO - Successfully extracted article: High-Energy 'Ghost Particle' Traced to Distant Galaxy in Astronomy Breakthrough
+2025-03-08 19:32:50,294 - INFO - Processing article: https://pinterest.com/pin/create/button/?url=https://www.space.com/black-holes-as-wormholes-gamma-ray-flashes&media=https://cdn.mos.cms.futurecdn.net/9iy8m3D9hLsJQNfaszJx8k-1200-80.jpg
+2025-03-08 19:32:54,238 - INFO - Processing article: https://www.space.com/15830-light-speed.html
+2025-03-08 19:32:57,841 - INFO - Successfully extracted article: What is the speed of light?
+2025-03-08 19:32:57,842 - INFO - Processing article: https://www.space.com/41418-about-us.html#section-affiliate-advertising-disclosure
+2025-03-08 19:33:01,532 - INFO - Successfully extracted article: About Space.com: Who we are and how to contact us
+2025-03-08 19:33:01,532 - INFO - Processing article: https://www.space.com/the-universe/moon/lunar-outposts-mapp-rover-set-for-lunar-south-pole-landing-and-groundbreaking-resource-sale
+2025-03-08 19:33:04,931 - INFO - Successfully extracted article: 1st American robotic lunar rover set to land on the moon today
+2025-03-08 19:33:04,931 - INFO - Processing article: https://www.space.com/author/charles-q-choi
+2025-03-08 19:33:08,355 - INFO - Successfully extracted article: Charles Q. Choi
+2025-03-08 19:33:08,356 - INFO - Crawling https://astronomy.com/tags/black-holes for category: black_holes
+2025-03-08 19:33:09,816 - INFO - Found 18 article links for https://astronomy.com/tags/black-holes
+2025-03-08 19:33:09,817 - INFO - Processing article: https://www.astronomy.com/science/this-famous-black-hole-system-is-actually-a-triple/
+2025-03-08 19:33:12,793 - INFO - Successfully extracted article: This famous black hole system is actually a triple
+2025-03-08 19:33:12,793 - INFO - Processing article: https://www.astronomy.com/science/jwst-just-found-a-black-hole-starving-its-host-galaxy-to-death/
+2025-03-08 19:33:15,272 - INFO - Successfully extracted article: JWST just found a black hole starving its host galaxy to death
+2025-03-08 19:33:15,272 - INFO - Processing article: https://www.astronomy.com/science/is-this-black-hole-jet-making-stars-explode/
+2025-03-08 19:33:18,132 - INFO - Successfully extracted article: Is this black hole jet making stars explode?
+2025-03-08 19:33:18,133 - INFO - Processing article: https://www.astronomy.com/science/unusual-spiral-quasar-seen-dancing-with-a-companion/
+2025-03-08 19:33:20,956 - INFO - Successfully extracted article: Unusual spiral quasar seen dancing with a companion
+2025-03-08 19:33:20,956 - INFO - Processing article: https://www.astronomy.com/science/how-some-black-holes-maintain-long-distance-relationships/
+2025-03-08 19:33:23,775 - INFO - Successfully extracted article: How some black holes maintain long-distance relationships
+2025-03-08 19:33:23,775 - INFO - Processing article: https://www.astronomy.com/science/could-black-holes-create-dark-energy/
+2025-03-08 19:33:26,183 - INFO - Successfully extracted article: Could black holes create dark energy?
+2025-03-08 19:33:26,183 - INFO - Processing article: https://www.astronomy.com/science/supermassive-black-hole-births-jets-hosts-orbiting-white-dwarf-while-astronomers-watch/
+2025-03-08 19:33:28,719 - INFO - Successfully extracted article: Supermassive black hole births jets, hosts orbiting white dwarf, all while astronomers watch
+2025-03-08 19:33:28,720 - INFO - Processing article: https://www.astronomy.com/science/want-to-find-a-black-hole-pick-up-a-rock/
+2025-03-08 19:33:31,154 - INFO - Successfully extracted article: Want to find a black hole? Pick up a rock
+2025-03-08 19:33:31,154 - INFO - Processing article: https://www.astronomy.com/science/astronomers-find-a-mini-black-hole/
+2025-03-08 19:33:33,577 - INFO - Successfully extracted article: Astronomers find a mini black hole
+2025-03-08 19:33:33,582 - INFO - Saved 42 articles for category black_holes to space_text_corpus\raw\black_holes.json
+2025-03-08 19:33:33,582 - INFO - Completed crawl for category: black_holes
+2025-03-08 19:33:33,582 - INFO - Starting crawl for category: exoplanets
+2025-03-08 19:33:33,582 - INFO - Crawling https://exoplanets.nasa.gov/ for category: exoplanets
+2025-03-08 19:33:35,247 - INFO - Found 4 article links for https://exoplanets.nasa.gov/
+2025-03-08 19:33:35,247 - INFO - Processing article: https://exoplanets.nasa.gov/alien-worlds/exoplanet-travel-bureau/?intent=021
+2025-03-08 19:33:38,929 - INFO - Processing article: https://exoplanets.nasa.gov/alien-worlds/the-exoplaneteers/?intent=021
+2025-03-08 19:33:42,519 - INFO - Processing article: https://exoplanets.nasa.gov/exep/
+2025-03-08 19:33:46,407 - INFO - Processing article: https://exoplanets.nasa.gov/alien-worlds/ways-to-find-a-planet/?intent=021
+2025-03-08 19:33:49,840 - INFO - Crawling http://exoplanet.eu/ for category: exoplanets
+2025-03-08 19:33:51,285 - INFO - Found 7 article links for http://exoplanet.eu/
+2025-03-08 19:33:51,285 - INFO - Processing article: http://exoplanet.eu/news/news__726/
+2025-03-08 19:33:55,184 - INFO - Processing article: http://exoplanet.eu/news/news__727/
+2025-03-08 19:33:58,237 - INFO - Processing article: https://exoplanet.eu/planets_binary_circum/
+2025-03-08 19:34:00,905 - INFO - Processing article: https://exoplanet.eu/planets_binary/
+2025-03-08 19:34:03,603 - INFO - Processing article: http://exoplanet.eu/news/news__724/
+2025-03-08 19:34:06,694 - INFO - Processing article: http://exoplanet.eu/news/news__725/
+2025-03-08 19:34:09,745 - INFO - Processing article: http://exoplanet.eu/news/news__728/
+2025-03-08 19:34:12,842 - INFO - Crawling https://www.space.com/exoplanets for category: exoplanets
+2025-03-08 19:34:14,901 - ERROR - Request error for https://www.space.com/exoplanets: 404 Client Error: Not Found for url: https://www.space.com/exoplanets
+2025-03-08 19:34:14,902 - WARNING - No articles found for category: exoplanets
+2025-03-08 19:34:14,902 - INFO - Completed crawl for category: exoplanets
+2025-03-08 19:34:14,902 - INFO - Starting crawl for category: stars_stellar_evolution
+2025-03-08 19:34:14,902 - INFO - Crawling https://science.nasa.gov/astrophysics/focus-areas/how-do-stars-form-and-evolve/ for category: stars_stellar_evolution
+2025-03-08 19:34:16,578 - INFO - Found 20 article links for https://science.nasa.gov/astrophysics/focus-areas/how-do-stars-form-and-evolve/
+2025-03-08 19:34:16,579 - INFO - Processing article: https://science.nasa.gov/mission/hubble/science/universe-uncovered/hubble-star-clusters/
+2025-03-08 19:34:19,799 - INFO - Successfully extracted article: Hubble's Star Clusters
+2025-03-08 19:34:19,799 - INFO - Processing article: https://science.nasa.gov/universe/stars/types/#neutron-stars
+2025-03-08 19:34:22,285 - INFO - Successfully extracted article: Star Types
+2025-03-08 19:34:22,286 - INFO - Processing article: https://assets.science.nasa.gov/dynamicimage/assets/science/astro/universe/internal_resources/496/Sun_Emits_Flare.jpeg?w=1024&h=1024&fit=clip&crop=faces%2Cfocalpoint
+2025-03-08 19:34:24,773 - INFO - Processing article: https://assets.science.nasa.gov/dynamicimage/assets/science/astro/universe/internal_resources/403/Tycho-1.jpeg?w=1041&h=1042&fit=clip&crop=faces%2Cfocalpoint
+2025-03-08 19:34:27,023 - INFO - Processing article: https://science.nasa.gov/missions/hubble/hubble-spies-a-spiral-that-may-be-hiding-an-imposter/
+2025-03-08 19:34:30,336 - INFO - Successfully extracted article: Hubble Spies a Spiral That May Be Hiding an Imposter
+2025-03-08 19:34:30,336 - INFO - Processing article: https://assets.science.nasa.gov/dynamicimage/assets/science/astro/universe/internal_resources/402/Carina_Nebula-1.jpeg?w=1600&h=927&fit=clip&crop=faces%2Cfocalpoint
+2025-03-08 19:34:32,720 - INFO - Crawling https://www.space.com/stars for category: stars_stellar_evolution
+2025-03-08 19:34:35,087 - INFO - Found 20 article links for https://www.space.com/stars
+2025-03-08 19:34:35,087 - INFO - Processing article: https://www.space.com/16014-astronomy.html
+2025-03-08 19:34:38,731 - INFO - Successfully extracted article: Astronomy: Everything you need to know
+2025-03-08 19:34:38,731 - INFO - Processing article: https://www.space.com/33892-cosmic-microwave-background.html
+2025-03-08 19:34:42,147 - INFO - Successfully extracted article: What is the cosmic microwave background?
+2025-03-08 19:34:42,147 - INFO - Processing article: https://www.space.com/dark-stars-first-in-the-universe
+2025-03-08 19:34:45,630 - INFO - Successfully extracted article: Dark stars: The first stars in the universe
+2025-03-08 19:34:45,630 - INFO - Processing article: https://www.space.com/26218-astrophysics.html
+2025-03-08 19:34:49,118 - INFO - Successfully extracted article: What is Astrophysics?
+2025-03-08 19:34:49,119 - INFO - Processing article: https://www.space.com/22509-binary-stars.html
+2025-03-08 19:34:52,720 - INFO - Successfully extracted article: What are binary stars?
+2025-03-08 19:34:52,721 - INFO - Processing article: https://www.space.com/22471-red-giant-stars.html
+2025-03-08 19:34:56,218 - INFO - Successfully extracted article: Red giant stars: Facts, definition & the future of the sun
+2025-03-08 19:34:56,219 - INFO - Processing article: https://www.space.com/author/ailsa-harvey
+2025-03-08 19:34:59,699 - INFO - Successfully extracted article: Ailsa Harvey
+2025-03-08 19:34:59,699 - INFO - Processing article: https://www.space.com/15567-north-star-polaris.html
+2025-03-08 19:35:03,173 - INFO - Successfully extracted article: Polaris: How to find the North Star
+2025-03-08 19:35:03,173 - INFO - Processing article: https://www.space.com/34835-alpha-centauri-new-star-names.html
+2025-03-08 19:35:06,604 - INFO - Successfully extracted article: Alpha Centauri Gets a New Moniker as 227 Star Names Are Clarified
+2025-03-08 19:35:06,605 - INFO - Processing article: https://www.space.com/18090-alpha-centauri-nearest-star-system.html
+2025-03-08 19:35:10,127 - INFO - Successfully extracted article: Alpha Centauri: Facts about the stars next door
+2025-03-08 19:35:10,127 - INFO - Processing article: https://www.space.com/23756-white-dwarf-stars.html
+2025-03-08 19:35:13,561 - INFO - Successfully extracted article: White dwarfs: Facts about the dense stellar remnants
+2025-03-08 19:35:13,562 - INFO - Processing article: https://www.space.com/23772-red-dwarf-stars.html
+2025-03-08 19:35:17,045 - INFO - Successfully extracted article: Red Dwarfs: The Most Common and Longest-Lived Stars
+2025-03-08 19:35:17,045 - INFO - Processing article: https://www.space.com/17160-sun-atmosphere.html
+2025-03-08 19:35:20,557 - INFO - Successfully extracted article: The sun's atmosphere: Photosphere, chromosphere and corona
+2025-03-08 19:35:20,557 - INFO - Processing article: https://www.space.com/52-the-expanding-universe-from-the-big-bang-to-today.html
+2025-03-08 19:35:24,152 - INFO - Successfully extracted article: Our expanding universe: Age, history & other facts
+2025-03-08 19:35:24,152 - INFO - Processing article: https://twitter.com/intent/tweet?text=Stars%3A%20Facts%20about%20stellar%20formation%2C%20history%20and%20classification&url=https://www.space.com/57-stars-formation-classification-and-constellations.html
+2025-03-08 19:35:28,406 - INFO - Crawling https://astronomy.com/tags/stars for category: stars_stellar_evolution
+2025-03-08 19:35:30,152 - INFO - Found 20 article links for https://astronomy.com/tags/stars
+2025-03-08 19:35:30,153 - INFO - Processing article: https://www.astronomy.com/science/after-our-sun-becomes-a-white-dwarf-and-cools-completely-what-will-be-left/
+2025-03-08 19:35:32,634 - INFO - Successfully extracted article: After our Sun becomes a white dwarf and cools completely, what will be left?
+2025-03-08 19:35:32,635 - INFO - Processing article: https://www.astronomy.com/science/the-parker-solar-probe-just-made-its-closest-ever-approach-to-the-sun/
+2025-03-08 19:35:35,607 - INFO - Successfully extracted article: The Parker Solar Probe just made its closest ever approach to the Sun
+2025-03-08 19:35:35,608 - INFO - Processing article: https://www.astronomy.com/observing/upcoming-events/
+2025-03-08 19:35:37,918 - INFO - Successfully extracted article: Upcoming events
+2025-03-08 19:35:37,918 - INFO - Processing article: https://www.astronomy.com/science/the-first-stars-may-have-flooded-the-early-universe-with-water/
+2025-03-08 19:35:40,435 - INFO - Successfully extracted article: The first stars may have flooded the early universe with water
+2025-03-08 19:35:40,435 - INFO - Processing article: https://www.astronomy.com/science/exoplanets/
+2025-03-08 19:35:43,010 - INFO - Successfully extracted article: Exoplanets
+2025-03-08 19:35:43,010 - INFO - Processing article: https://www.astronomy.com/science/nasa-punch-will-study-how-the-sun-influences-space/
+2025-03-08 19:35:45,973 - INFO - Successfully extracted article: NASA will soon launch PUNCH to study how the Sun influences the space around us
+2025-03-08 19:35:45,973 - INFO - Processing article: https://www.astronomy.com/science/unraveling-the-mystery-of-blue-straggler-stars/
+2025-03-08 19:35:48,445 - INFO - Successfully extracted article: ‘Blue straggler’ likely born from a collision of stars
+2025-03-08 19:35:48,445 - INFO - Processing article: https://www.astronomy.com/science/could-planets-orbiting-red-dwarfs-host-life/
+2025-03-08 19:35:50,918 - INFO - Successfully extracted article: Could planets orbiting red dwarfs host life?
+2025-03-08 19:35:50,918 - INFO - Processing article: https://www.astronomy.com/science/galactic-conveyor-belt-circulates-elements-in-and-out-of-galaxies/
+2025-03-08 19:35:53,888 - INFO - Successfully extracted article: Galactic ‘conveyor belt’ circulates elements like carbon in and out of galaxies
+2025-03-08 19:35:53,888 - INFO - Processing article: https://www.astronomy.com/science/a-young-star-forming-region-shines-bright-for-jwst/
+2025-03-08 19:35:56,398 - INFO - Successfully extracted article: A young star-forming region shines bright for JWST
+2025-03-08 19:35:56,398 - INFO - Processing article: https://www.astronomy.com/observing/when-is-t-crb-going-to-explode/
+2025-03-08 19:35:59,424 - INFO - Successfully extracted article: When is T Coronae Borealis going to explode?
+2025-03-08 19:35:59,428 - INFO - Saved 28 articles for category stars_stellar_evolution to space_text_corpus\raw\stars_stellar_evolution.json
+2025-03-08 19:35:59,428 - INFO - Completed crawl for category: stars_stellar_evolution
+2025-03-08 19:35:59,428 - INFO - Starting crawl for category: galaxies
+2025-03-08 19:35:59,428 - INFO - Crawling https://science.nasa.gov/astrophysics/focus-areas/beyond-our-galaxy/ for category: galaxies
+2025-03-08 19:36:00,757 - ERROR - Request error for https://science.nasa.gov/astrophysics/focus-areas/beyond-our-galaxy/: 404 Client Error: Not Found for url: https://science.nasa.gov/astrophysics/focus-areas/beyond-our-galaxy/
+2025-03-08 19:36:00,757 - INFO - Crawling https://www.space.com/galaxies for category: galaxies
+2025-03-08 19:36:02,858 - ERROR - Request error for https://www.space.com/galaxies: 404 Client Error: Not Found for url: https://www.space.com/galaxies
+2025-03-08 19:36:02,860 - INFO - Crawling https://astronomy.com/tags/galaxies for category: galaxies
+2025-03-08 19:36:04,474 - INFO - Found 20 article links for https://astronomy.com/tags/galaxies
+2025-03-08 19:36:04,475 - INFO - Processing article: https://www.astronomy.com/observing/deep-sky-objects/
+2025-03-08 19:36:07,045 - INFO - Successfully extracted article: Deep-Sky Objects
+2025-03-08 19:36:07,045 - INFO - Processing article: https://www.astronomy.com/science/the-sombrero-galaxy-doffs-its-cap-to-the-power-of-jwst/
+2025-03-08 19:36:09,565 - INFO - Successfully extracted article: The Sombrero Galaxy doffs its cap to the power of JWST
+2025-03-08 19:36:09,565 - INFO - Processing article: https://www.astronomy.com/observing/
+2025-03-08 19:36:12,100 - INFO - Successfully extracted article: Observing
+2025-03-08 19:36:12,103 - INFO - Saved 3 articles for category galaxies to space_text_corpus\raw\galaxies.json
+2025-03-08 19:36:12,103 - INFO - Completed crawl for category: galaxies
+2025-03-08 19:36:12,103 - INFO - Starting crawl for category: space_weather
+2025-03-08 19:36:12,103 - INFO - Crawling https://www.swpc.noaa.gov/ for category: space_weather
+2025-03-08 19:36:14,123 - INFO - Found 20 article links for https://www.swpc.noaa.gov/
+2025-03-08 19:36:14,123 - INFO - Processing article: https://www.swpc.noaa.gov/phenomena/earths-magnetosphere
+2025-03-08 19:36:17,499 - INFO - Successfully extracted article: Earth's magnetosphere
+2025-03-08 19:36:17,499 - INFO - Processing article: https://www.swpc.noaa.gov/products/geospace-geomagnetic-activity-plot
+2025-03-08 19:36:21,514 - INFO - Successfully extracted article: Geospace Geomagnetic Activity Plot
+2025-03-08 19:36:21,514 - INFO - Processing article: https://www.swpc.noaa.gov/content/international-organizations
+2025-03-08 19:36:24,857 - INFO - Successfully extracted article: International Organizations
+2025-03-08 19:36:24,857 - INFO - Processing article: https://www.swpc.noaa.gov/news/new-preliminary-coronagraph-images-goes-19
+2025-03-08 19:36:27,475 - INFO - Successfully extracted article: New Preliminary Coronagraph Images from GOES-19
+2025-03-08 19:36:27,475 - INFO - Processing article: https://www.swpc.noaa.gov/phenomena/solar-euv-irradiance
+2025-03-08 19:36:32,068 - INFO - Successfully extracted article: Solar EUV Irradiance
+2025-03-08 19:36:32,069 - INFO - Processing article: https://www.swpc.noaa.gov/products/solar-cycle-progression
+2025-03-08 19:36:35,486 - INFO - Successfully extracted article: Solar Cycle Progression
+2025-03-08 19:36:35,486 - INFO - Processing article: https://www.swpc.noaa.gov/products/usaf-magnetometer-analysis
+2025-03-08 19:36:38,880 - INFO - Successfully extracted article: USAF Magnetometer Analysis
+2025-03-08 19:36:38,880 - INFO - Processing article: https://www.swpc.noaa.gov/phenomena/solar-wind
+2025-03-08 19:36:42,239 - INFO - Successfully extracted article: Solar Wind
+2025-03-08 19:36:42,240 - INFO - Processing article: https://www.swpc.noaa.gov/products/goes-solar-ultraviolet-imager-suvi
+2025-03-08 19:36:45,644 - INFO - Successfully extracted article: GOES Solar Ultraviolet Imager (SUVI)
+2025-03-08 19:36:45,644 - INFO - Processing article: https://www.swpc.noaa.gov/products/27-day-outlook-107-cm-radio-flux-and-geomagnetic-indices
+2025-03-08 19:36:49,055 - INFO - Successfully extracted article: 27-Day Outlook of 10.7 cm Radio Flux and Geomagnetic Indices
+2025-03-08 19:36:49,056 - INFO - Processing article: https://www.swpc.noaa.gov/phenomena/coronal-holes
+2025-03-08 19:36:52,464 - INFO - Successfully extracted article: Coronal Holes
+2025-03-08 19:36:52,464 - INFO - Processing article: https://www.swpc.noaa.gov/content/contact-us
+2025-03-08 19:36:55,790 - INFO - Processing article: https://www.swpc.noaa.gov/products/seaesrt
+2025-03-08 19:36:59,238 - INFO - Successfully extracted article: SEAESRT
+2025-03-08 19:36:59,238 - INFO - Processing article: https://www.swpc.noaa.gov/content/education-and-outreach
+2025-03-08 19:37:02,648 - INFO - Processing article: https://www.swpc.noaa.gov/products/relativistic-electron-forecast-model
+2025-03-08 19:37:06,083 - INFO - Successfully extracted article: Relativistic Electron Forecast Model
+2025-03-08 19:37:06,083 - INFO - Processing article: https://www.swpc.noaa.gov/products/aurora-30-minute-forecast
+2025-03-08 19:37:09,480 - INFO - Successfully extracted article: Aurora - 30 Minute Forecast
+2025-03-08 19:37:09,480 - INFO - Processing article: https://www.swpc.noaa.gov/phenomena/radiation-belts
+2025-03-08 19:37:12,850 - INFO - Successfully extracted article: Radiation Belts
+2025-03-08 19:37:12,850 - INFO - Processing article: https://www.swpc.noaa.gov/products/solar-and-geophysical-event-reports
+2025-03-08 19:37:16,302 - INFO - Successfully extracted article: Solar and Geophysical Event Reports
+2025-03-08 19:37:16,303 - INFO - Processing article: https://www.swpc.noaa.gov/communities/aurora-dashboard-experimental
+2025-03-08 19:37:19,722 - INFO - Successfully extracted article: Aurora Dashboard (Experimental)
+2025-03-08 19:37:19,723 - INFO - Processing article: https://www.swpc.noaa.gov/communities/global-positioning-system-gps-community-dashboard
+2025-03-08 19:37:23,111 - INFO - Successfully extracted article: Global Positioning System (GPS) Community Dashboard
+2025-03-08 19:37:23,111 - INFO - Crawling https://spaceweather.nasa.gov/ for category: space_weather
+2025-03-08 19:37:23,176 - ERROR - Request error for https://spaceweather.nasa.gov/: HTTPSConnectionPool(host='spaceweather.nasa.gov', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x00000182D2129070>: Failed to resolve 'spaceweather.nasa.gov' ([Errno 11001] getaddrinfo failed)"))
+2025-03-08 19:37:23,178 - INFO - Saved 18 articles for category space_weather to space_text_corpus\raw\space_weather.json
+2025-03-08 19:37:23,178 - INFO - Completed crawl for category: space_weather
+2025-03-08 19:37:23,179 - INFO - Starting crawl for category: telescopes_observatories
+2025-03-08 19:37:23,179 - INFO - Crawling https://webb.nasa.gov/ for category: telescopes_observatories
+2025-03-08 19:37:25,575 - INFO - Found 1 article links for https://webb.nasa.gov/
+2025-03-08 19:37:25,575 - INFO - Processing article: https://webb.nasa.gov/science-missions/
+2025-03-08 19:37:29,142 - INFO - Successfully extracted article: James Webb Space Telescope
+2025-03-08 19:37:29,143 - INFO - Crawling https://www.nasa.gov/mission_pages/hubble/ for category: telescopes_observatories
+2025-03-08 19:37:30,530 - ERROR - Request error for https://www.nasa.gov/mission_pages/hubble/: 404 Client Error: Not Found for url: https://www.nasa.gov/mission_pages/hubble/
+2025-03-08 19:37:30,530 - INFO - Crawling https://www.skao.int/ for category: telescopes_observatories
+2025-03-08 19:37:31,678 - INFO - Found 4 article links for https://www.skao.int/
+2025-03-08 19:37:31,678 - INFO - Processing article: https://www.skao.int/en/news/612/un-discusses-satellites-astronomy
+2025-03-08 19:37:34,486 - INFO - Successfully extracted article: UN meeting features satellites’ impact on astronomy
+2025-03-08 19:37:34,486 - INFO - Processing article: https://www.skao.int/en/explore/telescopes
+2025-03-08 19:37:37,333 - INFO - Successfully extracted article: The SKA telescopes
+2025-03-08 19:37:37,333 - INFO - Processing article: https://www.skao.int/en/news/591/skao-stfc-africa-programme
+2025-03-08 19:37:40,177 - INFO - Successfully extracted article: SKAO Africa Programme to broaden human capital development efforts
+2025-03-08 19:37:40,177 - INFO - Processing article: https://www.skao.int/en/news/606/sweden-signs-skao-convention
+2025-03-08 19:37:43,021 - INFO - Successfully extracted article: Sweden signs SKAO Convention to join Observatory
+2025-03-08 19:37:43,024 - INFO - Saved 5 articles for category telescopes_observatories to space_text_corpus\raw\telescopes_observatories.json
+2025-03-08 19:37:43,024 - INFO - Completed crawl for category: telescopes_observatories
+2025-03-08 19:37:43,024 - INFO - Starting crawl for category: astrobiology_seti
+2025-03-08 19:37:43,025 - INFO - Crawling https://astrobiology.nasa.gov/ for category: astrobiology_seti
+2025-03-08 19:37:44,753 - INFO - Found 20 article links for https://astrobiology.nasa.gov/
+2025-03-08 19:37:44,754 - INFO - Processing article: https://astrobiology.nasa.gov/about/faq/
+2025-03-08 19:37:51,022 - INFO - Successfully extracted article: Astrobiology Program FAQ
+2025-03-08 19:37:51,022 - INFO - Processing article: https://astrobiology.nasa.gov/missions/astrobiology-in-missions/
+2025-03-08 19:37:54,511 - INFO - Processing article: https://astrobiology.nasa.gov/research/
+2025-03-08 19:37:58,376 - INFO - Successfully extracted article: Research
+2025-03-08 19:37:58,376 - INFO - Processing article: https://astrobiology.nasa.gov/missions/
+2025-03-08 19:38:02,400 - INFO - Processing article: https://astrobiology.nasa.gov/events/
+2025-03-08 19:38:05,926 - INFO - Processing article: https://astrobiology.nasa.gov/about/
+2025-03-08 19:38:09,645 - INFO - Successfully extracted article: Life, Here and Beyond
+2025-03-08 19:38:09,645 - INFO - Processing article: https://astrobiology.nasa.gov/resources/scicomm-guild/
+2025-03-08 19:38:14,160 - INFO - Successfully extracted article: NASA Astrobiology Science Communication Guild
+2025-03-08 19:38:14,162 - INFO - Processing article: https://astrobiology.nasa.gov/about/astrobiology-strategy/
+2025-03-08 19:38:17,803 - INFO - Successfully extracted article: Astrobiology Strategy
+2025-03-08 19:38:17,803 - INFO - Processing article: https://astrobiology.nasa.gov/events/2025-nasa-planetary-science-summer-school/
+2025-03-08 19:38:21,310 - INFO - Successfully extracted article: 2025 NASA Planetary Science Summer School
+2025-03-08 19:38:21,311 - INFO - Processing article: https://astrobiology.nasa.gov/resources/graphic-histories/
+2025-03-08 19:38:25,187 - INFO - Processing article: https://astrobiology.nasa.gov/news/
+2025-03-08 19:38:28,723 - INFO - Processing article: https://astrobiology.nasa.gov/research-locations/
+2025-03-08 19:38:32,742 - INFO - Processing article: https://astrobiology.nasa.gov/analysis-groups/
+2025-03-08 19:38:36,321 - INFO - Processing article: https://astrobiology.nasa.gov/research/publications/
+2025-03-08 19:38:39,864 - INFO - Processing article: https://astrobiology.nasa.gov/missions/news/
+2025-03-08 19:38:43,438 - INFO - Processing article: https://astrobiology.nasa.gov/contact/
+2025-03-08 19:38:48,188 - INFO - Processing article: https://astrobiology.nasa.gov/ask-an-astrobiologist/
+2025-03-08 19:38:52,857 - INFO - Processing article: https://astrobiology.nasa.gov/about/faq/#Coordinating%20Astrobiology%20Research
+2025-03-08 19:38:59,346 - INFO - Successfully extracted article: Astrobiology Program FAQ
+2025-03-08 19:38:59,347 - INFO - Processing article: https://astrobiology.nasa.gov/classroom-materials/tradingcards/
+2025-03-08 19:39:03,082 - INFO - Successfully extracted article: Life in the Extremes
+2025-03-08 19:39:03,082 - INFO - Processing article: https://astrobiology.nasa.gov/resources/coloring/
+2025-03-08 19:39:06,685 - INFO - Successfully extracted article: Astrobiology Coloring and Drawing Pages
+2025-03-08 19:39:06,685 - INFO - Crawling https://www.seti.org/ for category: astrobiology_seti
+2025-03-08 19:39:08,409 - INFO - Found 6 article links for https://www.seti.org/
+2025-03-08 19:39:08,410 - INFO - Processing article: https://www.seti.org/seti-allen-telescope-array-ata
+2025-03-08 19:39:11,845 - INFO - Successfully extracted article: SETI at the Allen Telescope Array (ATA)
+2025-03-08 19:39:11,845 - INFO - Processing article: https://www.seti.org/space-case-conversation-seti-artist-residence-martin-wilner
+2025-03-08 19:39:15,016 - INFO - Successfully extracted article: Space is the Case: A Conversation with SETI Artist in Residence Martin Wilner
+2025-03-08 19:39:15,016 - INFO - Processing article: https://www.seti.org/asteroids-neon-cats-music-moon-london-becomes-free-cosmic-playground
+2025-03-08 19:39:18,562 - INFO - Successfully extracted article: ASTEROIDS, NEON CATS & MUSIC FROM THE MOON – LONDON BECOMES A FREE COSMIC PLAYGROUND
+2025-03-08 19:39:18,563 - INFO - Processing article: https://www.seti.org/gsstars
+2025-03-08 19:39:21,744 - INFO - Successfully extracted article: Reaching for the Stars: NASA science for Girl Scouts Info
+2025-03-08 19:39:21,745 - INFO - Processing article: https://www.seti.org/research/Exoplanets
+2025-03-08 19:39:24,945 - INFO - Processing article: https://www.seti.org/total-eclipse-moon-coming-americas-night-march-13-14
+2025-03-08 19:39:28,159 - INFO - Successfully extracted article: Total Eclipse of the Moon Coming to the Americas on the Night of March 13-14
+2025-03-08 19:39:28,160 - INFO - Crawling https://astrobio.net/ for category: astrobiology_seti
+2025-03-08 19:39:28,621 - ERROR - Request error for https://astrobio.net/: HTTPSConnectionPool(host='astrobio.net', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x00000182D31EEA50>: Failed to resolve 'astrobio.net' ([Errno 11002] getaddrinfo failed)"))
+2025-03-08 19:39:28,623 - INFO - Saved 14 articles for category astrobiology_seti to space_text_corpus\raw\astrobiology_seti.json
+2025-03-08 19:39:28,623 - INFO - Completed crawl for category: astrobiology_seti
+2025-03-08 19:39:28,623 - INFO - Starting crawl for category: space_technology
+2025-03-08 19:39:28,623 - INFO - Crawling https://technology.nasa.gov/ for category: space_technology
+2025-03-08 19:39:29,827 - INFO - Found 20 article links for https://technology.nasa.gov/
+2025-03-08 19:39:29,827 - INFO - Processing article: https://technology.nasa.gov/blog/NASA-Tech-Transfer-USPTO
+2025-03-08 19:39:32,821 - INFO - Successfully extracted article: NASA Partners with US Patent and Trademark Office to Advance Technology Transfer
+2025-03-08 19:39:32,822 - INFO - Processing article: https://technology.nasa.gov/satellite-servicing
+2025-03-08 19:39:35,823 - INFO - Successfully extracted article: Satellite Servicing Technologies
+2025-03-08 19:39:35,823 - INFO - Processing article: https://technology.nasa.gov/patents
+2025-03-08 19:39:38,913 - INFO - Processing article: https://technology.nasa.gov/t2u
+2025-03-08 19:39:42,340 - INFO - Successfully extracted article: Technology Transfer University
+2025-03-08 19:39:42,340 - INFO - Processing article: https://technology.nasa.gov/network
+2025-03-08 19:39:45,333 - INFO - Successfully extracted article: NASA Technology Transfer Network
+2025-03-08 19:39:45,333 - INFO - Processing article: https://technology.nasa.gov/search
+2025-03-08 19:39:49,385 - INFO - Processing article: https://technology.nasa.gov/virtual-events
+2025-03-08 19:39:52,823 - INFO - Processing article: https://technology.nasa.gov/virtual-event/self-cleaning-seals-webinar
+2025-03-08 19:39:55,854 - INFO - Processing article: https://technology.nasa.gov/virtual-event/t2u-innovation-uc-berkeley-deep-tech-innovation-lab
+2025-03-08 19:39:58,877 - INFO - Processing article: https://technology.nasa.gov/license
+2025-03-08 19:40:01,931 - INFO - Successfully extracted article: Licensing NASA Technology
+2025-03-08 19:40:01,931 - INFO - Processing article: https://technology.nasa.gov/ihof
+2025-03-08 19:40:05,392 - INFO - Processing article: https://technology.nasa.gov/features
+2025-03-08 19:40:08,440 - INFO - Processing article: https://technology.nasa.gov/Spinoff_2025_Release
+2025-03-08 19:40:11,415 - INFO - Successfully extracted article: The 2025 Edition of NASA Spinoff is Here
+2025-03-08 19:40:11,416 - INFO - Processing article: https://technology.nasa.gov/blog
+2025-03-08 19:40:14,460 - INFO - Processing article: https://technology.nasa.gov/
+2025-03-08 19:40:17,552 - INFO - Processing article: https://technology.nasa.gov/t2x
+2025-03-08 19:40:20,481 - ERROR - Request error for https://technology.nasa.gov/t2x: 404 Client Error: Not Found for url: https://technology.nasa.gov/t2x
+2025-03-08 19:40:20,482 - INFO - Processing article: https://technology.nasa.gov/analytics
+2025-03-08 19:40:23,474 - INFO - Processing article: https://technology.nasa.gov/strategic-framework
+2025-03-08 19:40:26,461 - INFO - Successfully extracted article: NASA’s Technology Transfer Program Strategic Framework
+2025-03-08 19:40:26,461 - INFO - Processing article: https://technology.nasa.gov/login
+2025-03-08 19:40:29,417 - INFO - Processing article: https://technology.nasa.gov/Wearable-Technology-Human-Augmentation
+2025-03-08 19:40:32,449 - INFO - Successfully extracted article: NASA Advances Wearable Technology and Human Augmentation
+2025-03-08 19:40:32,450 - INFO - Crawling https://www.space.com/space-tech for category: space_technology
+2025-03-08 19:40:34,764 - ERROR - Request error for https://www.space.com/space-tech: 404 Client Error: Not Found for url: https://www.space.com/space-tech
+2025-03-08 19:40:34,765 - INFO - Crawling https://www.esa.int/Enabling_Support/Space_Engineering_Technology for category: space_technology
+2025-03-08 19:40:35,559 - INFO - Found 11 article links for https://www.esa.int/Enabling_Support/Space_Engineering_Technology
+2025-03-08 19:40:35,560 - INFO - Processing article: https://www.esa.int/spaceinimages/Sets/Technology_image_of_the_week/
+2025-03-08 19:40:40,406 - INFO - Processing article: https://www.esa.int/Enabling_Support/Space_Engineering_Technology/(archive)/0
+2025-03-08 19:40:42,981 - INFO - Processing article: https://www.esa.int/Enabling_Support/Preparing_for_the_Future/Discovery_and_Preparation/ESA_seeks_companies_to_commercialise_inventions
+2025-03-08 19:40:45,301 - INFO - Successfully extracted article: ESA seeks companies to commercialise inventions
+2025-03-08 19:40:45,301 - INFO - Processing article: https://www.esa.int/ESA_Multimedia/Videos/2019/06/Hera_ESA_s_planetary_defence_mission
+2025-03-08 19:40:47,944 - INFO - Processing article: https://www.esa.int/Enabling_Support/Preparing_for_the_Future/Discovery_and_Preparation/Growing_Algae_on_Mars
+2025-03-08 19:40:50,417 - INFO - Successfully extracted article: Growing Algae on Mars
+2025-03-08 19:40:50,417 - INFO - Processing article: https://www.esa.int/ESA_Multimedia/Videos/2019/03/How_do_you_build_a_spaceship
+2025-03-08 19:40:53,093 - INFO - Processing article: https://www.esa.int/ESA_Multimedia/Images/2019/03/1_11_steps_to_make_a_space_mission
+2025-03-08 19:40:55,462 - INFO - Processing article: https://www.esa.int/Enabling_Support
+2025-03-08 19:40:57,829 - INFO - Processing article: https://www.esa.int/Enabling_Support/Space_Engineering_Technology/Proba-3/Proba-3_stargazing_to_warm_up_for_corona_observations
+2025-03-08 19:41:00,280 - INFO - Successfully extracted article: Proba-3 stargazing to warm up for corona observations
+2025-03-08 19:41:00,280 - INFO - Processing article: https://www.esa.int/Enabling_Support/Space_Engineering_Technology/Student_teams_explore_ESA_s_robotics_labs
+2025-03-08 19:41:02,729 - INFO - Successfully extracted article: Student teams explore ESA’s robotics labs
+2025-03-08 19:41:02,732 - INFO - Saved 12 articles for category space_technology to space_text_corpus\raw\space_technology.json
+2025-03-08 19:41:02,732 - INFO - Completed crawl for category: space_technology
+2025-03-08 19:41:02,732 - INFO - Starting crawl for category: space_agencies
+2025-03-08 19:41:02,732 - INFO - Crawling https://www.nasa.gov/missions for category: space_agencies
+2025-03-08 19:41:04,093 - INFO - Found 20 article links for https://www.nasa.gov/missions
+2025-03-08 19:41:04,093 - INFO - Processing article: https://www.nasa.gov/images/
+2025-03-08 19:41:06,638 - INFO - Successfully extracted article: NASA Images
+2025-03-08 19:41:06,639 - INFO - Processing article: https://www.nasa.gov/news/recently-published/
+2025-03-08 19:41:09,254 - INFO - Processing article: https://www.nasa.gov/about/
+2025-03-08 19:41:11,735 - INFO - Successfully extracted article: About NASA
+2025-03-08 19:41:11,735 - INFO - Processing article: https://www.nasa.gov/learning-resources/search/?terms=8058%2C8059%2C8061%2C8062%2C8068
+2025-03-08 19:41:14,392 - INFO - Processing article: https://www.nasa.gov/get-involved/virtual-guest-program/nasa-invites-you-to-share-excitement-of-agencys-spacex-crew-10-launch/
+2025-03-08 19:41:16,820 - INFO - Successfully extracted article: NASA Invites You to Share Excitement of Agency’s SpaceX Crew-10 Launch
+2025-03-08 19:41:16,820 - INFO - Processing article: https://www.nasa.gov/learning-resources/
+2025-03-08 19:41:19,377 - INFO - Successfully extracted article: Space To Learn
+2025-03-08 19:41:19,377 - INFO - Processing article: https://www.nasa.gov/event-type/launch-schedule/
+2025-03-08 19:41:22,138 - INFO - Processing article: https://www.nasa.gov/centers-and-facilities/jpl/university-high-knows-the-answers-at-nasa-jpl-regional-science-bowl/
+2025-03-08 19:41:24,632 - INFO - Successfully extracted article: University High Knows the Answers at NASA JPL Regional Science Bowl
+2025-03-08 19:41:24,632 - INFO - Processing article: https://www.nasa.gov/accessibility/
+2025-03-08 19:41:28,123 - INFO - Successfully extracted article: Accessibility at NASA
+2025-03-08 19:41:28,123 - INFO - Processing article: https://www.nasa.gov/centers-and-facilities/
+2025-03-08 19:41:30,639 - INFO - Successfully extracted article: Centers and Facilities
+2025-03-08 19:41:30,639 - INFO - Processing article: https://www.nasa.gov/communicating-with-missions/
+2025-03-08 19:41:33,228 - INFO - Successfully extracted article: SCaN.Science and exploration, enabled.
+2025-03-08 19:41:33,229 - INFO - Processing article: https://www.nasa.gov/newsletters/
+2025-03-08 19:41:35,713 - INFO - Successfully extracted article: Newsletters
+2025-03-08 19:41:35,713 - INFO - Processing article: https://www.nasa.gov/?search=SpaceX%20Crew-2
+2025-03-08 19:41:38,307 - INFO - Processing article: https://www.nasa.gov/interactives/
+2025-03-08 19:41:40,863 - INFO - Successfully extracted article: Games and Interactives
+2025-03-08 19:41:40,864 - INFO - Processing article: https://www.nasa.gov/requests-for-exhibits-artifacts-or-speakers/
+2025-03-08 19:41:43,397 - INFO - Successfully extracted article: Requests for Exhibits, Artifacts, or Speakers
+2025-03-08 19:41:43,398 - INFO - Processing article: https://www.nasa.gov/events
+2025-03-08 19:41:46,634 - INFO - Processing article: https://www.nasa.gov/humans-in-space/artemis/
+2025-03-08 19:41:49,233 - INFO - Successfully extracted article: Artemis
+2025-03-08 19:41:49,234 - INFO - Processing article: https://www.nasa.gov/news/media-contacts/
+2025-03-08 19:41:51,723 - INFO - Successfully extracted article: NASA Media Contacts
+2025-03-08 19:41:51,723 - INFO - Processing article: https://www.nasa.gov/events/
+2025-03-08 19:41:54,396 - INFO - Crawling https://www.esa.int/Science_Exploration/Space_Science/ESA_s_Space_Science_Programme for category: space_agencies
+2025-03-08 19:41:55,255 - ERROR - Request error for https://www.esa.int/Science_Exploration/Space_Science/ESA_s_Space_Science_Programme: 404 Client Error: Not Found for url: https://www.esa.int/Science_Exploration/Space_Science/ESA_s_Space_Science_Programme
+2025-03-08 19:41:55,256 - INFO - Crawling https://global.jaxa.jp/projects/ for category: space_agencies
+2025-03-08 19:41:56,484 - INFO - Found 20 article links for https://global.jaxa.jp/projects/
+2025-03-08 19:41:56,484 - INFO - Processing article: https://global.jaxa.jp/about/history/index.html
+2025-03-08 19:41:59,351 - INFO - Processing article: https://global.jaxa.jp/projects/db/index.html
+2025-03-08 19:42:02,202 - INFO - Processing article: https://global.jaxa.jp/about/jaxa/index.html
+2025-03-08 19:42:04,976 - INFO - Processing article: https://global.jaxa.jp/area/russia/index.html
+2025-03-08 19:42:07,792 - INFO - Processing article: https://global.jaxa.jp/area/asia/index.html
+2025-03-08 19:42:10,781 - INFO - Processing article: https://global.jaxa.jp/projects/debris/index.html
+2025-03-08 19:42:13,425 - INFO - Processing article: https://global.jaxa.jp/about/transition/index.html
+2025-03-08 19:42:16,275 - INFO - Processing article: https://global.jaxa.jp/area/europe/index.html
+2025-03-08 19:42:19,317 - INFO - Processing article: https://global.jaxa.jp/about/centers/index.html
+2025-03-08 19:42:22,380 - INFO - Processing article: https://global.jaxa.jp/about/philosophy/index.html
+2025-03-08 19:42:25,230 - INFO - Processing article: https://global.jaxa.jp/activity/pr/brochure/index.html
+2025-03-08 19:42:28,019 - INFO - Processing article: https://global.jaxa.jp/area/global/index.html
+2025-03-08 19:42:30,790 - INFO - Processing article: https://global.jaxa.jp/area/middle_east/index.html
+2025-03-08 19:42:33,815 - INFO - Processing article: https://global.jaxa.jp/article/index.html
+2025-03-08 19:42:36,644 - INFO - Processing article: https://global.jaxa.jp/projects/sat/index.html
+2025-03-08 19:42:39,608 - INFO - Processing article: https://global.jaxa.jp/activity/pr/inquiries/index.html
+2025-03-08 19:42:42,392 - INFO - Processing article: https://global.jaxa.jp/press/index.html
+2025-03-08 19:42:45,125 - INFO - Processing article: https://global.jaxa.jp/projects/engineering/index.html
+2025-03-08 19:42:47,967 - INFO - Processing article: https://global.jaxa.jp/area/index.html
+2025-03-08 19:42:50,751 - INFO - Processing article: https://global.jaxa.jp/about/org/index.html
+2025-03-08 19:42:53,393 - INFO - Saved 13 articles for category space_agencies to space_text_corpus\raw\space_agencies.json
+2025-03-08 19:42:53,393 - INFO - Completed crawl for category: space_agencies
+2025-03-08 19:42:53,393 - INFO - Starting crawl for category: gravitational_waves
+2025-03-08 19:42:53,393 - INFO - Crawling https://www.ligo.caltech.edu/ for category: gravitational_waves
+2025-03-08 19:42:54,742 - INFO - Found 20 article links for https://www.ligo.caltech.edu/
+2025-03-08 19:42:54,742 - INFO - Processing article: https://www.ligo.caltech.edu/news/ligo20210629
+2025-03-08 19:42:58,058 - INFO - Successfully extracted article: LIGO-Virgo-KAGRA Finds Elusive Mergers of Black Holes with Neutron Stars
+2025-03-08 19:42:58,058 - INFO - Processing article: https://www.ligo.caltech.edu/page/scientists
+2025-03-08 19:43:01,308 - INFO - Successfully extracted article: For Scientists
+2025-03-08 19:43:01,309 - INFO - Processing article: https://www.ligo.caltech.edu/page/why-detect-gw
+2025-03-08 19:43:04,543 - INFO - Successfully extracted article: Why Detect Them?
+2025-03-08 19:43:04,544 - INFO - Processing article: https://www.ligo.caltech.edu/page/image-use-policy
+2025-03-08 19:43:07,774 - INFO - Successfully extracted article: Image Use Policy
+2025-03-08 19:43:07,775 - INFO - Processing article: https://www.ligo.caltech.edu/page/educational-resources
+2025-03-08 19:43:11,012 - INFO - Successfully extracted article: Educational Resources
+2025-03-08 19:43:11,012 - INFO - Processing article: https://www.ligo.caltech.edu/page/study-work
+2025-03-08 19:43:14,298 - INFO - Successfully extracted article: Study and Careers
+2025-03-08 19:43:14,299 - INFO - Processing article: https://www.ligo.caltech.edu/news/ligo20230417
+2025-03-08 19:43:17,605 - INFO - Successfully extracted article: India Approves Construction of Its Own LIGO
+2025-03-08 19:43:17,605 - INFO - Processing article: https://www.ligo.caltech.edu/news/ligo20231121
+2025-03-08 19:43:20,833 - INFO - Successfully extracted article: Winner of the 2023 Award for Excellence in Detector Characterization and Calibration Announced
+2025-03-08 19:43:20,834 - INFO - Processing article: https://www.ligo.caltech.edu/news/ligo20231004
+2025-03-08 19:43:24,101 - INFO - Successfully extracted article: LIGO Documentary Released
+2025-03-08 19:43:24,102 - INFO - Processing article: https://www.ligo.caltech.edu/page/observing-plans
+2025-03-08 19:43:27,422 - INFO - Successfully extracted article: Observing Plans
+2025-03-08 19:43:27,422 - INFO - Processing article: https://www.ligo.caltech.edu/page/GWPhoneAlerts
+2025-03-08 19:43:30,749 - INFO - Processing article: https://www.ligo.caltech.edu/page/learn-more
+2025-03-08 19:43:33,985 - INFO - Successfully extracted article: Learn More
+2025-03-08 19:43:33,986 - INFO - Processing article: https://www.ligo.caltech.edu/page/contact
+2025-03-08 19:43:37,238 - INFO - Successfully extracted article: Contact
+2025-03-08 19:43:37,239 - INFO - Processing article: https://www.ligo.caltech.edu/news/ligo20231023
+2025-03-08 19:43:40,542 - INFO - Successfully extracted article: LIGO Surpasses the Quantum Limit
+2025-03-08 19:43:40,542 - INFO - Processing article: https://www.ligo.caltech.edu/news/ligo20240405
+2025-03-08 19:43:43,809 - INFO - Successfully extracted article: LIGO-Virgo-KAGRA (LVK) Collaboration Detected a Remarkable Gravitational-Wave Signal
+2025-03-08 19:43:43,810 - INFO - Processing article: https://www.ligo.caltech.edu/page/what-are-gw
+2025-03-08 19:43:47,169 - INFO - Successfully extracted article: What are Gravitational Waves?
+2025-03-08 19:43:47,170 - INFO - Processing article: https://www.ligo.caltech.edu/page/employment
+2025-03-08 19:43:50,481 - INFO - Successfully extracted article: Careers at LIGO Laboratory
+2025-03-08 19:43:50,481 - INFO - Processing article: https://www.ligo.caltech.edu/page/press-release-gw170817
+2025-03-08 19:43:53,727 - INFO - Successfully extracted article: GW170817 Press Release
+2025-03-08 19:43:53,728 - INFO - Processing article: https://www.ligo.caltech.edu/page/privacy-policy
+2025-03-08 19:43:57,004 - INFO - Successfully extracted article: Privacy Policy
+2025-03-08 19:43:57,005 - INFO - Processing article: https://www.ligo.caltech.edu/page/science-impact
+2025-03-08 19:44:00,338 - INFO - Successfully extracted article: LIGO's Impact on Science and Technology
+2025-03-08 19:44:00,338 - INFO - Crawling https://science.nasa.gov/astrophysics/focus-areas/gravitational-waves/ for category: gravitational_waves
+2025-03-08 19:44:01,750 - ERROR - Request error for https://science.nasa.gov/astrophysics/focus-areas/gravitational-waves/: 404 Client Error: Not Found for url: https://science.nasa.gov/astrophysics/focus-areas/gravitational-waves/
+2025-03-08 19:44:01,751 - INFO - Crawling https://www.space.com/gravitational-waves for category: gravitational_waves
+2025-03-08 19:44:03,894 - ERROR - Request error for https://www.space.com/gravitational-waves: 404 Client Error: Not Found for url: https://www.space.com/gravitational-waves
+2025-03-08 19:44:03,896 - INFO - Saved 19 articles for category gravitational_waves to space_text_corpus\raw\gravitational_waves.json
+2025-03-08 19:44:03,896 - INFO - Completed crawl for category: gravitational_waves
+2025-03-08 19:44:03,897 - INFO - Starting crawl for category: asteroids_comets
+2025-03-08 19:44:03,897 - INFO - Crawling https://solarsystem.nasa.gov/small-bodies/ for category: asteroids_comets
+2025-03-08 19:44:07,366 - INFO - Found 0 article links for https://solarsystem.nasa.gov/small-bodies/
+2025-03-08 19:44:07,367 - INFO - Crawling https://www.minorplanetcenter.net/ for category: asteroids_comets
+2025-03-08 19:44:09,025 - INFO - Found 20 article links for https://www.minorplanetcenter.net/
+2025-03-08 19:44:09,025 - INFO - Processing article: https://www.minorplanetcenter.net/mpcops/documentation/identifications/submission-format/
+2025-03-08 19:44:12,161 - INFO - Processing article: https://www.minorplanetcenter.net/mpcops/submissions/identifications/
+2025-03-08 19:44:15,300 - INFO - Processing article: https://www.minorplanetcenter.net/iau/lists/Customize.html
+2025-03-08 19:44:18,392 - INFO - Processing article: https://www.minorplanetcenter.net/mpcops/new/developments/
+2025-03-08 19:44:21,531 - INFO - Processing article: https://www.minorplanetcenter.net/mpec/RecentMPECs.html
+2025-03-08 19:44:24,730 - INFO - Processing article: https://www.minorplanetcenter.net/iau/lists/CometLists.html
+2025-03-08 19:44:27,872 - INFO - Processing article: https://www.minorplanetcenter.net/about
+2025-03-08 19:44:30,968 - INFO - Successfully extracted article: The International Astronomical Union Minor Planet Center
+2025-03-08 19:44:30,968 - INFO - Processing article: https://www.minorplanetcenter.net/mpcops/orbits/no-orbits-astrometry/
+2025-03-08 19:44:34,108 - INFO - Processing article: https://www.minorplanetcenter.net/iau/NEO/TheNEOPage.html
+2025-03-08 19:44:37,249 - INFO - Processing article: https://www.minorplanetcenter.net/iau/info/TechInfo.html
+2025-03-08 19:44:40,386 - INFO - Processing article: https://www.minorplanetcenter.net/iau/ECS/MPCUPDATE/MPCUPDATE.html
+2025-03-08 19:44:43,524 - INFO - Processing article: https://www.minorplanetcenter.net/neocp_followup_reports/
+2025-03-08 19:44:46,358 - WARNING - Access forbidden for https://www.minorplanetcenter.net/neocp_followup_reports/
+2025-03-08 19:44:46,359 - INFO - Processing article: https://www.minorplanetcenter.net/mpcops/orbits/
+2025-03-08 19:44:49,451 - INFO - Processing article: https://www.minorplanetcenter.net/mpcops/new/newsletters/
+2025-03-08 19:44:52,596 - INFO - Processing article: https://www.minorplanetcenter.net/
+2025-03-08 19:44:55,733 - INFO - Successfully extracted article: The International Astronomical Union Minor Planet Center
+2025-03-08 19:44:55,733 - INFO - Processing article: https://www.minorplanetcenter.net/iau/lists/Lists.html
+2025-03-08 19:44:58,824 - INFO - Processing article: https://www.minorplanetcenter.net/iau/lists/ObsCodesF.html
+2025-03-08 19:45:02,556 - INFO - Processing article: https://www.minorplanetcenter.net/iau/Animations/Animations.html
+2025-03-08 19:45:05,657 - INFO - Processing article: https://www.minorplanetcenter.net/iau/mpc.html
+2025-03-08 19:45:08,763 - INFO - Processing article: https://www.minorplanetcenter.net/mpcops/documentation/artificial-satellites/
+2025-03-08 19:45:12,223 - INFO - Crawling https://www.space.com/asteroids for category: asteroids_comets
+2025-03-08 19:45:14,660 - INFO - Found 20 article links for https://www.space.com/asteroids
+2025-03-08 19:45:14,662 - INFO - Processing article: https://www.space.com/meteor-showers-shooting-stars.html
+2025-03-08 19:45:18,134 - INFO - Successfully extracted article: Meteor showers and shooting stars: Formation and history
+2025-03-08 19:45:18,135 - INFO - Processing article: https://www.space.com/dart-asteroid-mission
+2025-03-08 19:45:21,710 - INFO - Successfully extracted article: NASA's DART asteroid-smashing mission: The ultimate guide
+2025-03-08 19:45:21,710 - INFO - Processing article: https://www.space.com/space-exploration/missions/faa-investigating-spacex-starship-flight-8-explosion-that-disrupted-commercial-flights
+2025-03-08 19:45:25,196 - INFO - Successfully extracted article: FAA investigating SpaceX Starship Flight 8 explosion that disrupted commercial flights
+2025-03-08 19:45:25,196 - INFO - Processing article: https://www.facebook.com/sharer/sharer.php?u=https://www.space.com/51-asteroids-formation-discovery-and-exploration.html
+2025-03-08 19:45:27,500 - ERROR - Request error for https://www.facebook.com/sharer/sharer.php?u=https://www.space.com/51-asteroids-formation-discovery-and-exploration.html: 400 Client Error: Bad Request for url: https://www.facebook.com/sharer/sharer.php?u=https://www.space.com/51-asteroids-formation-discovery-and-exploration.html
+2025-03-08 19:45:27,501 - INFO - Processing article: https://www.space.com/nasa-dart-asteroid-impact-orbit-change-success
+2025-03-08 19:45:30,991 - INFO - Successfully extracted article: NASA's DART impact changed asteroid's orbit forever in planetary defense test
+2025-03-08 19:45:30,992 - INFO - Processing article: https://www.space.com/12097-vesta-asteroid-facts-solar-system.html
+2025-03-08 19:45:34,553 - INFO - Successfully extracted article: Vesta: Facts About the Brightest Asteroid
+2025-03-08 19:45:34,554 - INFO - Processing article: https://www.space.com/16105-asteroid-belt.html
+2025-03-08 19:45:37,986 - INFO - Successfully extracted article: Asteroid belt: Facts & formation
+2025-03-08 19:45:37,987 - INFO - Processing article: https://www.space.com/stargazing/astrophotography/hurtigruten-cruises-the-trip-of-a-lifetime-for-astronomy-lovers
+2025-03-08 19:45:41,471 - INFO - Successfully extracted article: Hurtigruten Cruises: The trip of a lifetime for astronomy lovers
+2025-03-08 19:45:41,471 - INFO - Processing article: https://www.space.com/entertainment/new-starman-documentary-shines-light-on-nasa-jpl-legend-gentry-lee
+2025-03-08 19:45:44,901 - INFO - Successfully extracted article: New 'Starman' documentary shines light on NASA JPL legend Gentry Lee
+2025-03-08 19:45:44,902 - INFO - Processing article: https://www.space.com/difference-between-solar-eclipse-lunar-eclipse
+2025-03-08 19:45:48,392 - INFO - Successfully extracted article: What's the difference between a solar eclipse and a lunar eclipse?
+2025-03-08 19:45:48,392 - INFO - Processing article: https://www.space.com/16080-solar-system-planets.html
+2025-03-08 19:45:52,042 - INFO - Successfully extracted article: Solar system planets, order and formation: The ultimate guide
+2025-03-08 19:45:52,042 - INFO - Processing article: https://www.space.com/the-universe/earth/spectacular-photo-from-iss-shows-gigantic-lightning-jet-50-miles-over-new-orleans
+2025-03-08 19:45:55,501 - INFO - Successfully extracted article: Spectacular photo taken from ISS shows 'gigantic jet' of upward-shooting lightning towering 50 miles over New Orleans
+2025-03-08 19:45:55,501 - INFO - Processing article: https://www.space.com/7-jupiter-largest-planet-solar-system.html
+2025-03-08 19:45:59,121 - INFO - Successfully extracted article: Jupiter: A guide to the largest planet in the solar system
+2025-03-08 19:45:59,122 - INFO - Processing article: whatsapp://send?text=What%20are%20asteroids?https://www.space.com/51-asteroids-formation-discovery-and-exploration.html?fwa
+2025-03-08 19:46:01,123 - ERROR - Request error for whatsapp://send?text=What%20are%20asteroids?https://www.space.com/51-asteroids-formation-discovery-and-exploration.html?fwa: No connection adapters were found for 'whatsapp://send?text=What%20are%20asteroids?https://www.space.com/51-asteroids-formation-discovery-and-exploration.html?fwa'
+2025-03-08 19:46:01,124 - INFO - Processing article: https://www.space.com/entertainment/7-romantic-sci-fi-movies-to-cuddle-up-with-on-valentines-day
+2025-03-08 19:46:04,741 - INFO - Successfully extracted article: 7 romantic sci-fi movies to cuddle up with on Valentine's Day
+2025-03-08 19:46:04,741 - INFO - Processing article: https://www.space.com/the-universe/solar-system/asteroids
+2025-03-08 19:46:08,186 - INFO - Successfully extracted article: Asteroids
+2025-03-08 19:46:08,187 - INFO - Processing article: https://www.space.com/22891-ceres-dwarf-planet.html
+2025-03-08 19:46:11,730 - INFO - Successfully extracted article: Ceres: The closest dwarf planet to Earth
+2025-03-08 19:46:11,731 - INFO - Processing article: https://www.space.com/the-universe/solar-system
+2025-03-08 19:46:15,322 - INFO - Successfully extracted article: Solar System
+2025-03-08 19:46:15,323 - INFO - Processing article: https://www.space.com/asteroid-2024yt4-image-feb7
+2025-03-08 19:46:18,861 - INFO - Successfully extracted article: What the asteroid with a 1-in-48 chance of hitting Earth in 2032 looks like (images)
+2025-03-08 19:46:18,864 - INFO - Saved 19 articles for category asteroids_comets to space_text_corpus\raw\asteroids_comets.json
+2025-03-08 19:46:18,864 - INFO - Completed crawl for category: asteroids_comets
+2025-03-08 19:46:18,865 - INFO - Starting crawl for category: space_history
+2025-03-08 19:46:18,865 - INFO - Crawling https://history.nasa.gov/ for category: space_history
+2025-03-08 19:46:20,400 - INFO - Found 1 article links for https://history.nasa.gov/
+2025-03-08 19:46:20,401 - INFO - Processing article: https://history.nasa.gov/nasa-en-espanol/aeronautica-en-espanol/
+2025-03-08 19:46:23,822 - ERROR - Request error for https://history.nasa.gov/nasa-en-espanol/aeronautica-en-espanol/: 404 Client Error: Not Found for url: https://www.nasa.gov/history/nasa-en-espanol/aeronautica-en-espanol/
+2025-03-08 19:46:23,823 - INFO - Crawling https://www.space.com/space-history for category: space_history
+2025-03-08 19:46:25,956 - ERROR - Request error for https://www.space.com/space-history: 404 Client Error: Not Found for url: https://www.space.com/space-history
+2025-03-08 19:46:25,956 - INFO - Crawling https://airandspace.si.edu/ for category: space_history
+2025-03-08 19:46:26,806 - INFO - Found 6 article links for https://airandspace.si.edu/
+2025-03-08 19:46:26,806 - INFO - Processing article: https://airandspace.si.edu/collection-objects/model-starship-enterprise-television-show-star-trek/nasm_A19740668000
+2025-03-08 19:46:29,896 - INFO - Processing article: https://airandspace.si.edu/collection-objects/command-module-apollo-11/nasm_A19700102000
+2025-03-08 19:46:32,611 - INFO - Processing article: https://airandspace.si.edu/collection-objects/orbiter-space-shuttle-ov-103-discovery/nasm_A20120325000
+2025-03-08 19:46:35,787 - INFO - Processing article: https://airandspace.si.edu/collection-objects/lockheed-sr-71-blackbird/nasm_A19920072000
+2025-03-08 19:46:39,001 - INFO - Processing article: https://airandspace.si.edu/collection-objects/helmet-aviator-sally-k-ride/nasm_A20140337000
+2025-03-08 19:46:41,576 - INFO - Processing article: https://airandspace.si.edu/collection-objects/1903-wright-flyer/nasm_A19610048000
+2025-03-08 19:46:44,296 - WARNING - No articles found for category: space_history
+2025-03-08 19:46:44,297 - INFO - Completed crawl for category: space_history
+2025-03-08 19:46:44,297 - INFO - Starting crawl for category: amateur_astronomy
+2025-03-08 19:46:44,297 - INFO - Crawling https://astronomy.com/ for category: amateur_astronomy
+2025-03-08 19:46:46,038 - INFO - Found 20 article links for https://astronomy.com/
+2025-03-08 19:46:46,038 - INFO - Processing article: https://www.astronomy.com/in-the-sky/
+2025-03-08 19:46:49,025 - INFO - Successfully extracted article: In the Sky
+2025-03-08 19:46:49,025 - INFO - Processing article: https://www.astronomy.com/observing/visual-peculiarities-of-lunar-eclipses/
+2025-03-08 19:46:51,393 - INFO - Successfully extracted article: Look for these effects during the next lunar eclipse
+2025-03-08 19:46:51,393 - INFO - Processing article: https://www.astronomy.com/picture-of-the-day/photo/group-photo/
+2025-03-08 19:46:53,939 - INFO - Successfully extracted article: Group photo
+2025-03-08 19:46:53,939 - INFO - Processing article: https://www.astronomy.com/space-exploration/how-to-stream-intuitive-machines-im-2-moon-landing-today/
+2025-03-08 19:46:56,895 - INFO - Successfully extracted article: How to watch Intuitive Machines’ IM-2 Moon landing
+2025-03-08 19:46:56,896 - INFO - Processing article: https://www.astronomy.com/observing/2027-jordan-egypt-13-night-total-solar-eclipse-tour/
+2025-03-08 19:46:59,402 - INFO - Successfully extracted article: 2027 Jordan & Egypt 13-Night Total Solar Eclipse Tour
+2025-03-08 19:46:59,402 - INFO - Processing article: https://www.astronomy.com/observing/the-moon/
+2025-03-08 19:47:01,945 - INFO - Successfully extracted article: The Moon
+2025-03-08 19:47:01,945 - INFO - Processing article: https://www.astronomy.com/observing/dont-miss-this-months-total-lunar-eclipse/
+2025-03-08 19:47:04,420 - INFO - Successfully extracted article: Don’t miss this month’s total lunar eclipse
+2025-03-08 19:47:04,421 - INFO - Processing article: https://www.astronomy.com/observing/attend-the-tucson-astronomy-festival/
+2025-03-08 19:47:07,386 - INFO - Successfully extracted article: Get ready to attend the Tucson Astronomy Festival
+2025-03-08 19:47:07,386 - INFO - Processing article: https://www.astronomy.com/space-exploration/im-2-lands-on-the-moon-but-status-is-uncertain/
+2025-03-08 19:47:09,612 - INFO - Successfully extracted article: IM-2 lands on the Moon but its status is uncertain
+2025-03-08 19:47:09,612 - INFO - Processing article: https://www.astronomy.com/observing/the-beaded-heart-on-the-moon/
+2025-03-08 19:47:12,113 - INFO - Successfully extracted article: See the Moon’s beaded ‘heart’ tonight
+2025-03-08 19:47:12,113 - INFO - Processing article: https://www.astronomy.com/observing/2026-spain-9-night-total-solar-eclipse-tour/
+2025-03-08 19:47:14,584 - INFO - Successfully extracted article: 2026 Spain 9-Night Total Solar Eclipse Tour
+2025-03-08 19:47:14,584 - INFO - Processing article: https://www.astronomy.com/science/explore-30-years-of-exoplanet-discoveries/
+2025-03-08 19:47:16,815 - INFO - Successfully extracted article: Explore 30 years of exoplanet discoveries
+2025-03-08 19:47:16,816 - INFO - Processing article: https://www.astronomy.com/observing/2026-portugal-spain-15-night-total-solar-eclipse-tour/
+2025-03-08 19:47:19,298 - INFO - Successfully extracted article: 2026 Portugal & Spain 15-Night Total Solar Eclipse Tour
+2025-03-08 19:47:19,298 - INFO - Processing article: https://www.astronomy.com/observing/2026-iceland-7-night-total-solar-eclipse-tour/
+2025-03-08 19:47:22,286 - INFO - Successfully extracted article: 2026 Iceland 7-Night Total Solar Eclipse Tour
+2025-03-08 19:47:22,287 - INFO - Processing article: https://www.astronomy.com/observing/the-sky-this-week-from-march-7-to-14-2025/
+2025-03-08 19:47:24,557 - INFO - Successfully extracted article: The Sky This Week from March 7 to 14: A total lunar eclipse
+2025-03-08 19:47:24,557 - INFO - Processing article: https://www.astronomy.com/space-exploration/the-new-golden-age-of-moon-exploration/
+2025-03-08 19:47:27,552 - INFO - Successfully extracted article: The new golden age of Moon exploration
+2025-03-08 19:47:27,552 - INFO - Processing article: https://www.astronomy.com/space-exploration/
+2025-03-08 19:47:30,092 - INFO - Successfully extracted article: Space Exploration
+2025-03-08 19:47:30,092 - INFO - Processing article: https://www.astronomy.com/observing/2027-egypt-8-night-total-solar-eclipse-tour/
+2025-03-08 19:47:32,569 - INFO - Successfully extracted article: 2027 Egypt 8-Night Total Solar Eclipse Tour
+2025-03-08 19:47:32,569 - INFO - Processing article: https://www.astronomy.com/observing/2027-egypt-12-night-total-solar-eclipse-tour-with-nile-cruise/
+2025-03-08 19:47:35,079 - INFO - Successfully extracted article: 2027 Egypt 12-Night Total Solar Eclipse Tour with Nile Cruise
+2025-03-08 19:47:35,081 - INFO - Saved 19 articles for category amateur_astronomy to space_text_corpus\raw\amateur_astronomy.json
+2025-03-08 19:47:35,081 - INFO - Completed crawl for category: amateur_astronomy
+2025-03-08 19:47:35,081 - INFO - Starting crawl for category: space_physics
+2025-03-08 19:47:35,081 - INFO - Crawling https://science.nasa.gov/heliophysics/ for category: space_physics
+2025-03-08 19:47:36,675 - INFO - Found 20 article links for https://science.nasa.gov/heliophysics/
+2025-03-08 19:47:36,675 - INFO - Processing article: https://science.nasa.gov/heliophysics/resources/
+2025-03-08 19:47:39,874 - INFO - Successfully extracted article: Resources
+2025-03-08 19:47:39,874 - INFO - Processing article: https://science.nasa.gov/heliophysics/heliophysics-decadal-survey/
+2025-03-08 19:47:43,918 - INFO - Successfully extracted article: Heliophysics Decadal Survey
+2025-03-08 19:47:43,918 - INFO - Processing article: https://science.nasa.gov/heliophysics/missions/mission-fleet-diagram/
+2025-03-08 19:47:46,961 - INFO - Successfully extracted article: Mission Fleet Chart
+2025-03-08 19:47:46,961 - INFO - Processing article: https://science.nasa.gov/heliophysics/focus-areas/
+2025-03-08 19:47:50,029 - INFO - Successfully extracted article: What We Study
+2025-03-08 19:47:50,030 - INFO - Processing article: https://science.nasa.gov/heliophysics/programs/explorers/
+2025-03-08 19:47:53,044 - INFO - Successfully extracted article: Explorers
+2025-03-08 19:47:53,044 - INFO - Processing article: https://science.nasa.gov/heliophysics/resources/senior-review/
+2025-03-08 19:47:57,024 - INFO - Successfully extracted article: Senior Review Reports
+2025-03-08 19:47:57,024 - INFO - Processing article: https://science.nasa.gov/heliophysics/focus-areas/solar-science/
+2025-03-08 19:48:00,234 - INFO - Successfully extracted article: Solar Science
+2025-03-08 19:48:00,234 - INFO - Processing article: https://science.nasa.gov/heliophysics/science-questions/what-are-the-fundamental-physical-processes-of-the-space-environment/
+2025-03-08 19:48:03,227 - INFO - Successfully extracted article: What drives the changes in the space environment?
+2025-03-08 19:48:03,227 - INFO - Processing article: https://science.nasa.gov/heliophysics/focus-areas/ionosphere_thermosphere_mesosphere/
+2025-03-08 19:48:06,367 - INFO - Successfully extracted article: Ionosphere, Thermosphere & Mesosphere
+2025-03-08 19:48:06,367 - INFO - Processing article: https://science.nasa.gov/heliophysics/programs/living-with-a-star/
+2025-03-08 19:48:09,432 - INFO - Successfully extracted article: Living With a Star
+2025-03-08 19:48:09,433 - INFO - Processing article: https://science.nasa.gov/wp-content/uploads/2020/01/hpd-fleet-chart-jan-2024.jpg
+2025-03-08 19:48:12,014 - INFO - Processing article: https://science.nasa.gov/heliophysics/heliophysics-leadership/
+2025-03-08 19:48:15,019 - INFO - Successfully extracted article: Heliophysics Leadership
+2025-03-08 19:48:15,020 - INFO - Processing article: https://science.nasa.gov/science-research/science-enabling-technology/technology-highlights/unlocking-the-suns-x-rays/
+2025-03-08 19:48:18,065 - INFO - Successfully extracted article: Unlocking the Sun’s X-rays
+2025-03-08 19:48:18,065 - INFO - Processing article: https://science.nasa.gov/heliophysics/focus-areas/space-weather/
+2025-03-08 19:48:20,654 - INFO - Successfully extracted article: Space Weather
+2025-03-08 19:48:20,655 - INFO - Processing article: https://science.nasa.gov/heliophysics/programs/technology/
+2025-03-08 19:48:23,659 - INFO - Successfully extracted article: Heliophysics Technology Program
+2025-03-08 19:48:23,659 - INFO - Processing article: https://science.nasa.gov/heliophysics/focus-areas/magnetosphere-ionosphere/
+2025-03-08 19:48:26,091 - INFO - Successfully extracted article: Magnetospheres
+2025-03-08 19:48:26,091 - INFO - Processing article: https://science.nasa.gov/ems/
+2025-03-08 19:48:29,125 - INFO - Successfully extracted article: The Electromagnetic Spectrum
+2025-03-08 19:48:29,125 - INFO - Processing article: https://science.nasa.gov/science-missions/
+2025-03-08 19:48:32,492 - INFO - Successfully extracted article: NASA Science Missions
+2025-03-08 19:48:32,492 - INFO - Processing article: https://science.nasa.gov/heliophysics/science-questions/
+2025-03-08 19:48:35,476 - INFO - Successfully extracted article: Science Questions
+2025-03-08 19:48:35,477 - INFO - Processing article: https://science.nasa.gov/science-research/heliophysics/nasas-ezie-launching-to-study-magnetic-fingerprints-of-earths-aurora/
+2025-03-08 19:48:38,626 - INFO - Successfully extracted article: NASA’s EZIE Launching to Study Magnetic Fingerprints of Earth’s Aurora
+2025-03-08 19:48:38,628 - INFO - Saved 19 articles for category space_physics to space_text_corpus\raw\space_physics.json
+2025-03-08 19:48:38,628 - INFO - Completed crawl for category: space_physics
+2025-03-08 19:48:38,629 - INFO - Starting crawl for category: dark_matter_energy
+2025-03-08 19:48:38,629 - INFO - Crawling https://science.nasa.gov/astrophysics/focus-areas/dark-energy-dark-matter/ for category: dark_matter_energy
+2025-03-08 19:48:39,874 - ERROR - Request error for https://science.nasa.gov/astrophysics/focus-areas/dark-energy-dark-matter/: 404 Client Error: Not Found for url: https://science.nasa.gov/astrophysics/focus-areas/dark-energy-dark-matter/
+2025-03-08 19:48:39,874 - INFO - Crawling https://www.space.com/dark-matter for category: dark_matter_energy
+2025-03-08 19:48:41,823 - ERROR - Request error for https://www.space.com/dark-matter: 404 Client Error: Not Found for url: https://www.space.com/dark-matter
+2025-03-08 19:48:41,824 - INFO - Crawling https://astronomy.com/tags/dark-matter for category: dark_matter_energy
+2025-03-08 19:48:43,160 - INFO - Found 16 article links for https://astronomy.com/tags/dark-matter
+2025-03-08 19:48:43,160 - INFO - Processing article: https://www.astronomy.com/science/ask-astro-are-neutrinos-dark-matter/
+2025-03-08 19:48:45,698 - INFO - Successfully extracted article: Ask Astro: Are neutrinos dark matter?
+2025-03-08 19:48:45,698 - INFO - Processing article: https://www.astronomy.com/science/researchers-dig-deep-underground-in-hopes-of-finally-observing-dark-matter/
+2025-03-08 19:48:48,620 - INFO - Successfully extracted article: Researchers dig deep underground in hopes of finally observing dark matter
+2025-03-08 19:48:48,620 - INFO - Processing article: https://www.astronomy.com/science/are-the-percentages-of-dark-matter-and-dark-energy-stable/
+2025-03-08 19:48:51,057 - INFO - Successfully extracted article: Are the percentages of dark matter and dark energy stable?
+2025-03-08 19:48:51,058 - INFO - Processing article: https://www.astronomy.com/science/can-cosmology-untangle-the-universes-most-elusive-mysteries/
+2025-03-08 19:48:53,932 - INFO - Successfully extracted article: Can cosmology untangle the universe’s most elusive mysteries?
+2025-03-08 19:48:53,932 - INFO - Processing article: https://www.astronomy.com/science/rising-star-in-astronomy-lina-necib/
+2025-03-08 19:48:56,364 - INFO - Successfully extracted article: Rising star in astronomy: Lina Necib
+2025-03-08 19:48:56,364 - INFO - Processing article: https://www.astronomy.com/science/rising-star-in-astronomy-gopi-mohlabeng/
+2025-03-08 19:48:58,774 - INFO - Successfully extracted article: Rising star in astronomy: Gopi Mohlabeng
+2025-03-08 19:48:58,775 - INFO - Processing article: https://www.astronomy.com/science/how-merging-black-holes-could-reveal-the-nature-of-dark-matter/
+2025-03-08 19:49:01,211 - INFO - Successfully extracted article: How merging black holes could reveal the nature of dark matter
+2025-03-08 19:49:01,212 - INFO - Processing article: https://www.astronomy.com/science/scientists-use-jupiter-to-search-for-dark-matter/
+2025-03-08 19:49:04,147 - INFO - Successfully extracted article: Scientists use Jupiter to search for dark matter
+2025-03-08 19:49:04,147 - INFO - Processing article: https://www.astronomy.com/science/rising-star-in-astronomy-adrian-price-whelan/
+2025-03-08 19:49:07,019 - INFO - Successfully extracted article: Rising star in astronomy: Adrian Price-Whelan
+2025-03-08 19:49:07,020 - INFO - Processing article: https://www.astronomy.com/science/most-distant-dark-matter-ever-found-dates-back-12-billion-years/
+2025-03-08 19:49:09,457 - INFO - Successfully extracted article: Most distant dark matter ever found dates back 12 billion years
+2025-03-08 19:49:09,457 - INFO - Processing article: https://www.astronomy.com/science/the-big-freeze-how-the-universe-will-die/
+2025-03-08 19:49:11,906 - INFO - Successfully extracted article: The Big Freeze: How the universe will die
+2025-03-08 19:49:11,909 - INFO - Saved 11 articles for category dark_matter_energy to space_text_corpus\raw\dark_matter_energy.json
+2025-03-08 19:49:11,909 - INFO - Completed crawl for category: dark_matter_energy
+2025-03-08 19:49:11,909 - INFO - Starting crawl for category: space_news
+2025-03-08 19:49:11,909 - INFO - Crawling https://spacenews.com/ for category: space_news
+2025-03-08 19:49:13,028 - INFO - Found 20 article links for https://spacenews.com/
+2025-03-08 19:49:13,028 - INFO - Processing article: https://spacenews.com/events/
+2025-03-08 19:49:17,345 - INFO - Processing article: https://spacenews.com/startups-see-a-new-market-for-frequent-lower-cost-hypersonics-testing/
+2025-03-08 19:49:19,747 - INFO - Successfully extracted article: US military taps commercial space firms for hypersonic testing program
+2025-03-08 19:49:19,747 - INFO - Processing article: https://spacenews.com/event/farnborough-international-space-show/
+2025-03-08 19:49:23,892 - INFO - Processing article: https://spacenews.com/spacenews-launches-the-spacenews-exchange-a-new-hub-for-jobs-talent-and-connection-in-the-space-industry/
+2025-03-08 19:49:26,094 - ERROR - Request error for https://spacenews.com/spacenews-launches-the-spacenews-exchange-a-new-hub-for-jobs-talent-and-connection-in-the-space-industry/: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2025-03-08 19:49:26,094 - INFO - Processing article: https://spacenews.com/ula-boss-says-vulcan-ready-for-multiple-launches-in-2025/
+2025-03-08 19:49:28,330 - ERROR - Request error for https://spacenews.com/ula-boss-says-vulcan-ready-for-multiple-launches-in-2025/: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2025-03-08 19:49:28,330 - INFO - Processing article: https://spacenews.com/event/space-path-space-business-bootcamp/
+2025-03-08 19:49:32,483 - INFO - Processing article: https://spacenews.com/make-america-test-again-how-rapid-iterative-testing-will-advance-hypersonic-development/
+2025-03-08 19:49:34,883 - INFO - Successfully extracted article: Make America test again: How rapid, iterative testing will advance hypersonic development
+2025-03-08 19:49:34,885 - INFO - Processing article: https://spacenews.com/the-evolving-landscape-of-space-investment-with-tess-hatch/
+2025-03-08 19:49:37,128 - ERROR - Request error for https://spacenews.com/the-evolving-landscape-of-space-investment-with-tess-hatch/: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2025-03-08 19:49:37,129 - INFO - Processing article: https://spacenews.com/patenting-space-promoting-innovations-and-patents-for-exploring-our-final-frontier/
+2025-03-08 19:49:41,526 - INFO - Successfully extracted article: Patenting space: promoting innovations and patents for exploring our final frontier
+2025-03-08 19:49:41,527 - INFO - Processing article: https://spacenews.com/space-force-general-golden-dome-missile-shield-requires-manhattan-project-scale-effort/
+2025-03-08 19:49:43,755 - ERROR - Request error for https://spacenews.com/space-force-general-golden-dome-missile-shield-requires-manhattan-project-scale-effort/: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2025-03-08 19:49:43,755 - INFO - Processing article: https://spacenews.com/event/conference-satellite-2025/
+2025-03-08 19:49:48,143 - INFO - Processing article: https://spacenews.com/regulations-are-in-the-crosshairs-but-which-ones/
+2025-03-08 19:49:50,553 - INFO - Successfully extracted article: Regulations are in the crosshairs. But which ones?
+2025-03-08 19:49:50,553 - INFO - Processing article: https://spacenews.com/frontgrade-qualifies-industrys-first-class-l-gan-dc-dc-converter-and-emi-filter/
+2025-03-08 19:49:53,642 - INFO - Successfully extracted article: Frontgrade Successfully Tests GaN DC-DC Converter and EMI Filter
+2025-03-08 19:49:53,642 - INFO - Processing article: https://spacenews.com/satixfy-gets-uk-funds-to-accelerate-in-orbit-satellite-reconfiguration/
+2025-03-08 19:49:56,268 - INFO - Successfully extracted article: SatixFy gets UK funds to accelerate in-orbit satellite reconfiguration
+2025-03-08 19:49:56,268 - INFO - Processing article: https://spacenews.com/u-s-military-spaceplane-completes-7th-mission-including-advanced-orbital-maneuvers/
+2025-03-08 19:49:58,601 - INFO - Successfully extracted article: U.S. military spaceplane completes 7th mission, including advanced orbital maneuvers
+2025-03-08 19:49:58,601 - INFO - Processing article: https://spacenews.com/fcc-allows-a-power-boost-for-spacexs-direct-to-smartphone-service/
+2025-03-08 19:50:00,838 - ERROR - Request error for https://spacenews.com/fcc-allows-a-power-boost-for-spacexs-direct-to-smartphone-service/: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2025-03-08 19:50:00,839 - INFO - Processing article: https://spacenews.com/space-development-agencys-satellite-program-pushes-launch-timeline/
+2025-03-08 19:50:03,043 - ERROR - Request error for https://spacenews.com/space-development-agencys-satellite-program-pushes-launch-timeline/: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2025-03-08 19:50:03,043 - INFO - Processing article: https://spacenews.com/radiation-as-a-service-how-the-private-sector-can-protect-americas-space-infrastructure/
+2025-03-08 19:50:05,655 - INFO - Successfully extracted article: Radiation as a service: How the private sector can protect America’s space infrastructure
+2025-03-08 19:50:05,655 - INFO - Processing article: https://spacenews.com/section/commercial-archive/
+2025-03-08 19:50:08,270 - INFO - Successfully extracted article: Category: Commercial
+2025-03-08 19:50:08,270 - INFO - Processing article: https://spacenews.com/star-catcher-lands-space-florida-support-for-satellite-power-beaming-tests/
+2025-03-08 19:50:10,631 - INFO - Successfully extracted article: Star Catcher lands Space Florida support for satellite power beaming tests
+2025-03-08 19:50:10,632 - INFO - Crawling https://arstechnica.com/science/space/ for category: space_news
+2025-03-08 19:50:12,876 - INFO - Found 20 article links for https://arstechnica.com/science/space/
+2025-03-08 19:50:12,876 - INFO - Processing article: https://arstechnica.com/science/2025/02/the-moons-next-robotic-visitor-is-lining-up-for-landing-this-weekend/#comments
+2025-03-08 19:50:16,566 - INFO - Successfully extracted article: The Moon’s next robotic visitor is lining up for landing this weekend
+2025-03-08 19:50:16,566 - INFO - Processing article: https://arstechnica.com/space/2025/02/long-time-advocate-of-sls-rocket-says-its-time-to-find-an-off-ramp/
+2025-03-08 19:50:20,393 - INFO - Successfully extracted article: Long-time advocate of SLS rocket says it’s time to find an “off-ramp”
+2025-03-08 19:50:20,394 - INFO - Processing article: https://arstechnica.com/space/2025/03/intuitive-machines-second-attempt-to-land-on-the-moon-also-went-sideways/
+2025-03-08 19:50:23,864 - INFO - Successfully extracted article: Intuitive Machines’ second attempt to land on the Moon also went sideways
+2025-03-08 19:50:23,864 - INFO - Processing article: https://arstechnica.com/space/2025/03/after-skidding-into-the-moon-intuitive-machines-hopes-to-stick-second-landing/#comments
+2025-03-08 19:50:27,802 - INFO - Successfully extracted article: Yes, we are about to be treated to a second lunar landing in a week
+2025-03-08 19:50:27,802 - INFO - Processing article: https://arstechnica.com/science/2025/02/the-moons-next-robotic-visitor-is-lining-up-for-landing-this-weekend/
+2025-03-08 19:50:31,620 - INFO - Successfully extracted article: The Moon’s next robotic visitor is lining up for landing this weekend
+2025-03-08 19:50:31,620 - INFO - Processing article: https://arstechnica.com/space/2025/03/after-flying-higher-than-ever-the-us-militarys-x-37b-spaceplane-is-back-home/#comments
+2025-03-08 19:50:35,124 - INFO - Successfully extracted article: The X-37B spaceplane lands after helping pave the way for “maneuver warfare”
+2025-03-08 19:50:35,125 - INFO - Processing article: https://arstechnica.com/space/2025/03/how-low-can-you-go-firm-near-launch-of-atmosphere-skimming-satellite/#comments
+2025-03-08 19:50:38,563 - INFO - Successfully extracted article: The modern era of low-flying satellites may begin this week
+2025-03-08 19:50:38,563 - INFO - Processing article: https://arstechnica.com/space/2025/02/spacex-readies-a-redo-of-last-months-ill-fated-starship-test-flight/#comments
+2025-03-08 19:50:41,937 - INFO - Successfully extracted article: SpaceX readies a redo of last month’s ill-fated Starship test flight
+2025-03-08 19:50:41,938 - INFO - Processing article: https://arstechnica.com/space/2025/03/jeff-bezos-brings-amazon-work-culture-to-blue-origin/#comments
+2025-03-08 19:50:45,346 - INFO - Successfully extracted article: Jeff Bezos brings Amazon work culture to Blue Origin
+2025-03-08 19:50:45,346 - INFO - Processing article: https://arstechnica.com/space/2025/03/how-low-can-you-go-firm-near-launch-of-atmosphere-skimming-satellite/
+2025-03-08 19:50:48,789 - INFO - Successfully extracted article: The modern era of low-flying satellites may begin this week
+2025-03-08 19:50:48,789 - INFO - Processing article: https://arstechnica.com/space/2025/02/astroscale-aced-the-worlds-first-rendezvous-with-a-piece-of-space-junk/#comments
+2025-03-08 19:50:52,657 - INFO - Successfully extracted article: Astroscale aced the world’s first rendezvous with a piece of space junk
+2025-03-08 19:50:52,657 - INFO - Processing article: https://arstechnica.com/space/2025/02/starships-eighth-test-flight-may-take-place-next-week/#comments
+2025-03-08 19:50:56,634 - INFO - Successfully extracted article: Mere weeks after Starship’s breakup, the vehicle may soon fly again
+2025-03-08 19:50:56,634 - INFO - Processing article: https://arstechnica.com/space/2025/02/the-odds-of-a-city-killer-asteroid-impact-in-2032-keep-rising-should-we-be-worried/
+2025-03-08 19:51:00,139 - INFO - Successfully extracted article: The odds of a city-killer asteroid impact in 2032 keep rising. Should we be worried?
+2025-03-08 19:51:00,140 - INFO - Processing article: https://arstechnica.com/space/2025/03/white-house-may-seek-to-slash-nasas-science-budget-by-50-percent/
+2025-03-08 19:51:03,563 - INFO - Successfully extracted article: White House may seek to slash NASA’s science budget by 50 percent
+2025-03-08 19:51:03,564 - INFO - Processing article: https://arstechnica.com/space/2025/03/after-skidding-into-the-moon-intuitive-machines-hopes-to-stick-second-landing/
+2025-03-08 19:51:07,013 - INFO - Successfully extracted article: Yes, we are about to be treated to a second lunar landing in a week
+2025-03-08 19:51:07,014 - INFO - Processing article: https://arstechnica.com/space/2025/02/spacex-readies-a-redo-of-last-months-ill-fated-starship-test-flight/
+2025-03-08 19:51:10,479 - INFO - Successfully extracted article: SpaceX readies a redo of last month’s ill-fated Starship test flight
+2025-03-08 19:51:10,480 - INFO - Processing article: https://arstechnica.com/space/2025/02/the-odds-of-a-city-killer-asteroid-impact-in-2032-keep-rising-should-we-be-worried/#comments
+2025-03-08 19:51:14,012 - INFO - Successfully extracted article: The odds of a city-killer asteroid impact in 2032 keep rising. Should we be worried?
+2025-03-08 19:51:14,013 - INFO - Processing article: https://arstechnica.com/space/2025/03/after-less-than-a-day-the-athena-lander-is-dead-on-the-moon/
+2025-03-08 19:51:17,494 - INFO - Successfully extracted article: After less than a day, the Athena lander is dead on the Moon
+2025-03-08 19:51:17,494 - INFO - Processing article: https://arstechnica.com/space/2025/02/nasa-nominee-previews-his-vision-for-the-agency-mars-hard-work-inspiration/#comments
+2025-03-08 19:51:21,518 - INFO - Successfully extracted article: NASA nominee previews his vision for the agency: Mars, hard work, inspiration
+2025-03-08 19:51:21,518 - INFO - Processing article: https://arstechnica.com/space/2025/02/asteroid-2024-yr4-may-be-a-dud-but-we-will-soon-find-many-more-threats/#comments
+2025-03-08 19:51:25,324 - INFO - Successfully extracted article: Asteroid 2024 YR4 is going to miss Earth, but the story doesn’t end there
+2025-03-08 19:51:25,341 - INFO - Saved 30 articles for category space_news to space_text_corpus\raw\space_news.json
+2025-03-08 19:51:25,341 - INFO - Completed crawl for category: space_news
+2025-03-08 19:51:25,341 - INFO - SpaceTextCorpus crawler completed
+2025-03-08 20:00:00,122 - INFO - Starting SpaceTextCorpus crawler
+2025-03-08 20:00:02,433 - WARNING - Website https://www.planetary.org/ does not allow crawling according to robots.txt. Skipping.
+2025-03-08 20:00:03,383 - WARNING - Website https://www.universetoday.com/category/planets/ does not allow crawling according to robots.txt. Skipping.
+2025-03-08 20:00:12,312 - INFO - Starting crawl for category: planetary_science
+2025-03-08 20:00:12,312 - INFO - Crawling https://solarsystem.nasa.gov/ for category: planetary_science
+2025-03-08 20:00:13,836 - INFO - Found 0 article links for https://solarsystem.nasa.gov/
+2025-03-08 20:00:13,837 - WARNING - No articles found for category: planetary_science
+2025-03-08 20:00:13,837 - INFO - Completed crawl for category: planetary_science
+2025-03-08 20:00:13,837 - INFO - Starting crawl for category: exoplanets
+2025-03-08 20:00:13,837 - INFO - Crawling https://exoplanets.nasa.gov/ for category: exoplanets
+2025-03-08 20:00:15,473 - INFO - Found 4 article links for https://exoplanets.nasa.gov/
+2025-03-08 20:00:15,474 - INFO - Processing article: https://exoplanets.nasa.gov/alien-worlds/ways-to-find-a-planet/?intent=021
+2025-03-08 20:00:18,937 - INFO - Processing article: https://exoplanets.nasa.gov/alien-worlds/exoplanet-travel-bureau/?intent=021
+2025-03-08 20:00:22,968 - INFO - Processing article: https://exoplanets.nasa.gov/alien-worlds/the-exoplaneteers/?intent=021
+2025-03-08 20:00:26,548 - INFO - Processing article: https://exoplanets.nasa.gov/exep/
+2025-03-08 20:00:30,343 - INFO - Crawling http://exoplanet.eu/ for category: exoplanets
+2025-03-08 20:00:31,787 - INFO - Found 7 article links for http://exoplanet.eu/
+2025-03-08 20:00:31,787 - INFO - Processing article: http://exoplanet.eu/news/news__725/
+2025-03-08 20:00:34,896 - INFO - Processing article: http://exoplanet.eu/news/news__724/
+2025-03-08 20:00:37,971 - INFO - Processing article: http://exoplanet.eu/news/news__727/
+2025-03-08 20:00:41,025 - INFO - Processing article: https://exoplanet.eu/planets_binary_circum/
+2025-03-08 20:00:43,728 - INFO - Processing article: https://exoplanet.eu/planets_binary/
+2025-03-08 20:00:46,834 - INFO - Processing article: http://exoplanet.eu/news/news__726/
+2025-03-08 20:00:49,918 - INFO - Processing article: http://exoplanet.eu/news/news__728/
+2025-03-08 20:00:53,040 - INFO - Crawling https://www.space.com/exoplanets for category: exoplanets
+2025-03-08 20:00:55,132 - ERROR - Request error for https://www.space.com/exoplanets: 404 Client Error: Not Found for url: https://www.space.com/exoplanets
+2025-03-08 20:00:55,132 - WARNING - No articles found for category: exoplanets
+2025-03-08 20:00:55,133 - INFO - Completed crawl for category: exoplanets
+2025-03-08 20:00:55,133 - INFO - Starting crawl for category: space_history
+2025-03-08 20:00:55,133 - INFO - Crawling https://history.nasa.gov/ for category: space_history
+2025-03-08 20:00:55,973 - INFO - Found 1 article links for https://history.nasa.gov/
+2025-03-08 20:00:55,973 - INFO - Processing article: https://history.nasa.gov/nasa-en-espanol/aeronautica-en-espanol/
+2025-03-08 20:00:59,117 - ERROR - Request error for https://history.nasa.gov/nasa-en-espanol/aeronautica-en-espanol/: 404 Client Error: Not Found for url: https://www.nasa.gov/history/nasa-en-espanol/aeronautica-en-espanol/
+2025-03-08 20:00:59,118 - INFO - Crawling https://www.space.com/space-history for category: space_history
+2025-03-08 20:01:01,935 - ERROR - Request error for https://www.space.com/space-history: 404 Client Error: Not Found for url: https://www.space.com/space-history
+2025-03-08 20:01:01,936 - INFO - Crawling https://airandspace.si.edu/ for category: space_history
+2025-03-08 20:01:02,314 - INFO - Found 6 article links for https://airandspace.si.edu/
+2025-03-08 20:01:02,314 - INFO - Processing article: https://airandspace.si.edu/collection-objects/command-module-apollo-11/nasm_A19700102000
+2025-03-08 20:01:04,730 - INFO - Processing article: https://airandspace.si.edu/collection-objects/1903-wright-flyer/nasm_A19610048000
+2025-03-08 20:01:07,215 - INFO - Processing article: https://airandspace.si.edu/collection-objects/model-starship-enterprise-television-show-star-trek/nasm_A19740668000
+2025-03-08 20:01:10,048 - INFO - Processing article: https://airandspace.si.edu/collection-objects/helmet-aviator-sally-k-ride/nasm_A20140337000
+2025-03-08 20:01:12,358 - INFO - Processing article: https://airandspace.si.edu/collection-objects/orbiter-space-shuttle-ov-103-discovery/nasm_A20120325000
+2025-03-08 20:01:15,188 - INFO - Processing article: https://airandspace.si.edu/collection-objects/lockheed-sr-71-blackbird/nasm_A19920072000
+2025-03-08 20:01:17,920 - WARNING - No articles found for category: space_history
+2025-03-08 20:01:17,920 - INFO - Completed crawl for category: space_history
+2025-03-08 20:01:17,920 - INFO - SpaceTextCorpus crawler completed
+2025-03-08 20:08:04,955 - INFO - Starting Improved SpaceTextCorpus crawler
+2025-03-08 20:08:04,955 - INFO - Starting crawl for category: planetary_science
+2025-03-08 20:08:04,970 - INFO - Skipping https://solarsystem.nasa.gov/ due to robots.txt restrictions from previous run
+2025-03-08 20:08:04,984 - INFO - Crawling https://www.nasa.gov/solar-system/ for category: planetary_science
+2025-03-08 20:08:06,297 - ERROR - Request error for https://www.nasa.gov/solar-system/: 404 Client Error: Not Found for url: https://www.nasa.gov/solar-system/
+2025-03-08 20:08:11,297 - INFO - Retrying request for https://www.nasa.gov/solar-system/
+2025-03-08 20:08:11,606 - WARNING - Failed to access https://www.nasa.gov/solar-system/. Trying an alternative approach...
+2025-03-08 20:08:11,606 - INFO - Trying alternative URL: https://www.nasa.gov/news/
+2025-03-08 20:08:12,423 - INFO - Found 20 article links for https://www.nasa.gov/news/
+2025-03-08 20:08:12,424 - INFO - Processing article: https://www.nasa.gov/missions/station/iss-research/nasas-spacex-crew-9-scientific-mission-on-space-station-concludes/
+2025-03-08 20:08:15,036 - INFO - Successfully extracted article: Ahead of Crew Return, NASA’s Crew-9 Concludes Science Mission
+2025-03-08 20:08:15,036 - INFO - Processing article: https://www.nasa.gov/missions/station/what-you-need-to-know-about-nasas-spacex-crew-10-mission/
+2025-03-08 20:08:17,539 - INFO - Successfully extracted article: What You Need to Know about NASA’s SpaceX Crew-10 Mission
+2025-03-08 20:08:17,540 - INFO - Processing article: https://www.nasa.gov/news/nasa-media-contacts/
+2025-03-08 20:08:21,339 - INFO - Successfully extracted article: NASA Media Contacts
+2025-03-08 20:08:21,339 - INFO - Processing article: https://science.nasa.gov/solar-system/oort-cloud/
+2025-03-08 20:08:24,600 - INFO - Successfully extracted article: Oort Cloud
+2025-03-08 20:08:24,600 - INFO - Processing article: https://www.nasa.gov/news/
+2025-03-08 20:08:27,157 - INFO - Successfully extracted article: NASA News
+2025-03-08 20:08:27,158 - INFO - Processing article: https://www.nasa.gov/images/
+2025-03-08 20:08:29,728 - INFO - Successfully extracted article: NASA Images
+2025-03-08 20:08:29,728 - INFO - Processing article: https://www.nasa.gov/missions/
+2025-03-08 20:08:32,493 - WARNING - Failed to extract meaningful content from https://www.nasa.gov/missions/
+2025-03-08 20:08:32,493 - INFO - Processing article: https://science.nasa.gov/solar-system/skywatching/whats-up-march-2025-skywatching-tips-from-nasa/
+2025-03-08 20:08:35,642 - INFO - Successfully extracted article: What’s Up: March 2025 Skywatching Tips from NASA
+2025-03-08 20:08:35,642 - INFO - Processing article: https://www.nasa.gov/news/recently-published/
+2025-03-08 20:08:38,328 - WARNING - Failed to extract meaningful content from https://www.nasa.gov/news/recently-published/
+2025-03-08 20:08:38,329 - INFO - Processing article: https://www.nasa.gov/feature/mejores-imagenes-de-ciencia-en-la-estacion-espacial-2024/
+2025-03-08 20:08:40,911 - WARNING - Failed to extract meaningful content from https://www.nasa.gov/feature/mejores-imagenes-de-ciencia-en-la-estacion-espacial-2024/
+2025-03-08 20:08:40,911 - INFO - Processing article: https://www.nasa.gov/news/media-contacts/
+2025-03-08 20:08:43,505 - INFO - Successfully extracted article: NASA Media Contacts
+2025-03-08 20:08:43,505 - INFO - Processing article: https://science.nasa.gov/mission/hubble/
+2025-03-08 20:08:46,799 - INFO - Successfully extracted article: Hubble Space Telescope
+2025-03-08 20:08:46,799 - INFO - Processing article: https://science.nasa.gov/solar-system/kuiper-belt/
+2025-03-08 20:08:49,975 - INFO - Successfully extracted article: The Kuiper Belt
+2025-03-08 20:08:49,976 - INFO - Processing article: https://www.nasa.gov/missions/station/preguntas-frecuentes-la-verdadera-historia-del-cuidado-de-la-salud-de-los-astronautas-en-el-espacio/
+2025-03-08 20:08:52,467 - INFO - Successfully extracted article: Preguntas frecuentes: La verdadera historia del cuidado de la salud de los astronautas en el espacio
+2025-03-08 20:08:52,467 - INFO - Processing article: https://science.nasa.gov/mission/webb/
+2025-03-08 20:08:55,201 - INFO - Successfully extracted article: James Webb Space Telescope
+2025-03-08 20:08:55,201 - INFO - Processing article: https://science.nasa.gov/missions/hubble/hubble-spies-a-spiral-in-the-water-snake/
+2025-03-08 20:08:57,773 - INFO - Successfully extracted article: Hubble Spies a Spiral in the Water Snake
+2025-03-08 20:08:57,773 - INFO - Processing article: https://science.nasa.gov/mission/osiris-rex/
+2025-03-08 20:09:00,923 - INFO - Successfully extracted article: OSIRIS-REx
+2025-03-08 20:09:00,924 - INFO - Processing article: https://www.nasa.gov/feature/naca-at-110-special-feature/
+2025-03-08 20:09:03,502 - INFO - Successfully extracted article: The NACA
+2025-03-08 20:09:03,504 - INFO - Processing article: https://www.nasa.gov/missions/spherex/cosmic-mapmaker-nasas-spherex-space-telescope-ready-to-launch/
+2025-03-08 20:09:06,136 - INFO - Successfully extracted article: Cosmic Mapmaker: NASA’s SPHEREx Space Telescope Ready to Launch
+2025-03-08 20:09:06,136 - INFO - Processing article: https://science.nasa.gov/missions/webb/nasa-webb-wows-with-incredible-detail-in-actively-forming-star-system/
+2025-03-08 20:09:08,674 - INFO - Successfully extracted article: NASA Webb Wows With Incredible Detail in Actively Forming Star System
+2025-03-08 20:09:08,691 - INFO - Skipping https://science.nasa.gov/solar-system/ due to robots.txt restrictions from previous run
+2025-03-08 20:09:08,709 - INFO - Crawling https://phys.org/space-news/astronomy/ for category: planetary_science
+2025-03-08 20:09:11,985 - INFO - Found 20 article links for https://phys.org/space-news/astronomy/
+2025-03-08 20:09:11,985 - INFO - Processing article: https://phys.org/news/2025-03-seismic-clues-marsquakes-liquid-life.html
+2025-03-08 20:09:14,889 - ERROR - Request error for https://phys.org/news/2025-03-seismic-clues-marsquakes-liquid-life.html: 422 Client Error: Unprocessable Content for url: https://phys.org/news/2025-03-seismic-clues-marsquakes-liquid-life.html
+2025-03-08 20:09:19,890 - INFO - Retrying request for https://phys.org/news/2025-03-seismic-clues-marsquakes-liquid-life.html
+2025-03-08 20:09:20,816 - INFO - Processing article: https://phys.org/news/2025-03-ghosts-radio-universe-astronomers-slew.html
+2025-03-08 20:09:23,698 - ERROR - Request error for https://phys.org/news/2025-03-ghosts-radio-universe-astronomers-slew.html: 422 Client Error: Unprocessable Content for url: https://phys.org/news/2025-03-ghosts-radio-universe-astronomers-slew.html
+2025-03-08 20:09:28,700 - INFO - Retrying request for https://phys.org/news/2025-03-ghosts-radio-universe-astronomers-slew.html
+2025-03-08 20:09:29,545 - INFO - Processing article: https://phys.org/news/2025-03-volunteers-galaxy-classifications-citizen-scientist.html
+2025-03-08 20:09:32,389 - ERROR - Request error for https://phys.org/news/2025-03-volunteers-galaxy-classifications-citizen-scientist.html: 422 Client Error: Unprocessable Content for url: https://phys.org/news/2025-03-volunteers-galaxy-classifications-citizen-scientist.html
+2025-03-08 20:09:37,390 - INFO - Retrying request for https://phys.org/news/2025-03-volunteers-galaxy-classifications-citizen-scientist.html
+2025-03-08 20:09:38,241 - INFO - Processing article: https://phys.org/news/2025-03-multiwavelength-variability-blazar-pks.html
+2025-03-08 20:09:41,099 - ERROR - Request error for https://phys.org/news/2025-03-multiwavelength-variability-blazar-pks.html: 422 Client Error: Unprocessable Content for url: https://phys.org/news/2025-03-multiwavelength-variability-blazar-pks.html
+2025-03-08 20:09:46,100 - INFO - Retrying request for https://phys.org/news/2025-03-multiwavelength-variability-blazar-pks.html
+2025-03-08 20:09:46,948 - INFO - Processing article: https://phys.org/news/2025-03-ogle-gd-wd-extremely-hot.html
+2025-03-08 20:09:50,332 - INFO - Successfully extracted article: OGLE-GD-WD-0001 is an extremely hot pulsating pre-white dwarf, observations find
+2025-03-08 20:09:50,333 - INFO - Processing article: https://phys.org/news/2025-03-astronomers-polar-cataclysmic-variable.html
+2025-03-08 20:09:53,206 - ERROR - Request error for https://phys.org/news/2025-03-astronomers-polar-cataclysmic-variable.html: 422 Client Error: Unprocessable Content for url: https://phys.org/news/2025-03-astronomers-polar-cataclysmic-variable.html
+2025-03-08 20:09:58,207 - INFO - Retrying request for https://phys.org/news/2025-03-astronomers-polar-cataclysmic-variable.html
+2025-03-08 20:09:59,083 - INFO - Processing article: https://phys.org/news/2025-03-sharper-image-optics-instrument-reveals.html
+2025-03-08 20:10:01,978 - ERROR - Request error for https://phys.org/news/2025-03-sharper-image-optics-instrument-reveals.html: 422 Client Error: Unprocessable Content for url: https://phys.org/news/2025-03-sharper-image-optics-instrument-reveals.html
+2025-03-08 20:10:06,980 - INFO - Retrying request for https://phys.org/news/2025-03-sharper-image-optics-instrument-reveals.html
+2025-03-08 20:10:07,869 - INFO - Processing article: https://phys.org/news/2025-03-clusters-astronomers.html
+2025-03-08 20:10:10,748 - ERROR - Request error for https://phys.org/news/2025-03-clusters-astronomers.html: 422 Client Error: Unprocessable Content for url: https://phys.org/news/2025-03-clusters-astronomers.html
+2025-03-08 20:10:15,749 - INFO - Retrying request for https://phys.org/news/2025-03-clusters-astronomers.html
+2025-03-08 20:10:16,625 - INFO - Processing article: https://phys.org/news/2025-03-neural-network-deciphers-gravitational-merging.html
+2025-03-08 20:10:19,956 - INFO - Successfully extracted article: Neural network deciphers gravitational waves from merging neutron stars in a second
+2025-03-08 20:10:19,956 - INFO - Processing article: https://phys.org/news/2025-03-dark-energy-driven-star-formation.html
+2025-03-08 20:10:22,838 - ERROR - Request error for https://phys.org/news/2025-03-dark-energy-driven-star-formation.html: 422 Client Error: Unprocessable Content for url: https://phys.org/news/2025-03-dark-energy-driven-star-formation.html
+2025-03-08 20:10:27,839 - INFO - Retrying request for https://phys.org/news/2025-03-dark-energy-driven-star-formation.html
+2025-03-08 20:10:28,728 - INFO - Processing article: https://phys.org/news/2025-03-scientists-date-ancient-child-resembles.html
+2025-03-08 20:10:31,606 - ERROR - Request error for https://phys.org/news/2025-03-scientists-date-ancient-child-resembles.html: 422 Client Error: Unprocessable Content for url: https://phys.org/news/2025-03-scientists-date-ancient-child-resembles.html
+2025-03-08 20:10:36,607 - INFO - Retrying request for https://phys.org/news/2025-03-scientists-date-ancient-child-resembles.html
+2025-03-08 20:10:37,459 - INFO - Processing article: https://phys.org/news/2025-03-gemini-south-ultra-hot-nova.html
+2025-03-08 20:10:40,786 - INFO - Successfully extracted article: Gemini South observes ultra-hot nova erupting with surprising chemical signature
+2025-03-08 20:10:40,787 - INFO - Processing article: https://phys.org/news/2025-03-older-thought-key-constituent-galaxies.html
+2025-03-08 20:10:43,671 - ERROR - Request error for https://phys.org/news/2025-03-older-thought-key-constituent-galaxies.html: 422 Client Error: Unprocessable Content for url: https://phys.org/news/2025-03-older-thought-key-constituent-galaxies.html
+2025-03-08 20:10:48,673 - INFO - Retrying request for https://phys.org/news/2025-03-older-thought-key-constituent-galaxies.html
+2025-03-08 20:10:49,562 - INFO - Processing article: https://phys.org/news/2025-03-ray-helix-nebula-planet-destroyed.html
+2025-03-08 20:10:52,450 - ERROR - Request error for https://phys.org/news/2025-03-ray-helix-nebula-planet-destroyed.html: 422 Client Error: Unprocessable Content for url: https://phys.org/news/2025-03-ray-helix-nebula-planet-destroyed.html
+2025-03-08 20:10:57,451 - INFO - Retrying request for https://phys.org/news/2025-03-ray-helix-nebula-planet-destroyed.html
+2025-03-08 20:10:58,362 - INFO - Processing article: https://phys.org/news/2025-03-fast-telescope-radio-quiet-nature.html
+2025-03-08 20:11:01,225 - ERROR - Request error for https://phys.org/news/2025-03-fast-telescope-radio-quiet-nature.html: 422 Client Error: Unprocessable Content for url: https://phys.org/news/2025-03-fast-telescope-radio-quiet-nature.html
+2025-03-08 20:11:06,226 - INFO - Retrying request for https://phys.org/news/2025-03-fast-telescope-radio-quiet-nature.html
+2025-03-08 20:11:07,148 - INFO - Processing article: https://phys.org/news/2025-03-hubble-captures-view-veil-nebula.html
+2025-03-08 20:11:10,040 - ERROR - Request error for https://phys.org/news/2025-03-hubble-captures-view-veil-nebula.html: 422 Client Error: Unprocessable Content for url: https://phys.org/news/2025-03-hubble-captures-view-veil-nebula.html
+2025-03-08 20:11:15,040 - INFO - Retrying request for https://phys.org/news/2025-03-hubble-captures-view-veil-nebula.html
+2025-03-08 20:11:15,892 - INFO - Processing article: https://phys.org/news/2025-03-highlights-flaws-cyclone.html
+2025-03-08 20:11:18,743 - ERROR - Request error for https://phys.org/news/2025-03-highlights-flaws-cyclone.html: 422 Client Error: Unprocessable Content for url: https://phys.org/news/2025-03-highlights-flaws-cyclone.html
+2025-03-08 20:11:23,744 - INFO - Retrying request for https://phys.org/news/2025-03-highlights-flaws-cyclone.html
+2025-03-08 20:11:24,645 - INFO - Processing article: https://phys.org/news/2025-03-small-mighty-tesseract-dark.html
+2025-03-08 20:11:27,496 - ERROR - Request error for https://phys.org/news/2025-03-small-mighty-tesseract-dark.html: 422 Client Error: Unprocessable Content for url: https://phys.org/news/2025-03-small-mighty-tesseract-dark.html
+2025-03-08 20:11:32,498 - INFO - Retrying request for https://phys.org/news/2025-03-small-mighty-tesseract-dark.html
+2025-03-08 20:11:33,383 - INFO - Processing article: https://phys.org/news/2025-03-saturday-citations-supermassive-black-hole.html
+2025-03-08 20:11:36,284 - ERROR - Request error for https://phys.org/news/2025-03-saturday-citations-supermassive-black-hole.html: 422 Client Error: Unprocessable Content for url: https://phys.org/news/2025-03-saturday-citations-supermassive-black-hole.html
+2025-03-08 20:11:41,285 - INFO - Retrying request for https://phys.org/news/2025-03-saturday-citations-supermassive-black-hole.html
+2025-03-08 20:11:42,187 - INFO - Processing article: https://phys.org/news/2025-03-hubble-kuiper-belt-duo-trio.html
+2025-03-08 20:11:45,042 - ERROR - Request error for https://phys.org/news/2025-03-hubble-kuiper-belt-duo-trio.html: 422 Client Error: Unprocessable Content for url: https://phys.org/news/2025-03-hubble-kuiper-belt-duo-trio.html
+2025-03-08 20:11:50,043 - INFO - Retrying request for https://phys.org/news/2025-03-hubble-kuiper-belt-duo-trio.html
+2025-03-08 20:11:50,897 - INFO - Saved 20 articles for category planetary_science to space_text_corpus\raw\planetary_science.json
+2025-03-08 20:11:50,897 - INFO - Completed crawl for category: planetary_science
+2025-03-08 20:11:50,898 - INFO - Starting crawl for category: exoplanets
+2025-03-08 20:11:50,912 - INFO - Skipping https://exoplanets.nasa.gov/ due to robots.txt restrictions from previous run
+2025-03-08 20:11:50,925 - INFO - Skipping http://exoplanet.eu/ due to robots.txt restrictions from previous run
+2025-03-08 20:11:50,938 - INFO - Skipping https://www.space.com/exoplanets due to robots.txt restrictions from previous run
+2025-03-08 20:11:50,952 - INFO - Crawling https://www.nasa.gov/missions/webb/exoplanets-explored-with-webb/ for category: exoplanets
+2025-03-08 20:11:52,011 - ERROR - Request error for https://www.nasa.gov/missions/webb/exoplanets-explored-with-webb/: 404 Client Error: Not Found for url: https://www.nasa.gov/missions/webb/exoplanets-explored-with-webb/
+2025-03-08 20:11:57,012 - INFO - Retrying request for https://www.nasa.gov/missions/webb/exoplanets-explored-with-webb/
+2025-03-08 20:11:57,272 - WARNING - Failed to access https://www.nasa.gov/missions/webb/exoplanets-explored-with-webb/. Trying an alternative approach...
+2025-03-08 20:11:57,273 - INFO - Trying alternative URL: https://www.nasa.gov/news/
+2025-03-08 20:11:58,075 - INFO - Found 20 article links for https://www.nasa.gov/news/
+2025-03-08 20:11:58,076 - WARNING - No articles found for category: exoplanets
+2025-03-08 20:11:58,076 - INFO - Completed crawl for category: exoplanets
+2025-03-08 20:11:58,076 - INFO - Starting crawl for category: space_history
+2025-03-08 20:11:58,090 - INFO - Skipping https://history.nasa.gov/ due to robots.txt restrictions from previous run
+2025-03-08 20:11:58,107 - INFO - Skipping https://www.space.com/space-history due to robots.txt restrictions from previous run
+2025-03-08 20:11:58,121 - INFO - Skipping https://airandspace.si.edu/ due to robots.txt restrictions from previous run
+2025-03-08 20:11:58,136 - INFO - Skipping https://www.nasa.gov/history/ due to robots.txt restrictions from previous run
+2025-03-08 20:11:58,136 - WARNING - No articles found for category: space_history
+2025-03-08 20:11:58,136 - INFO - Completed crawl for category: space_history
+2025-03-08 20:11:58,137 - INFO - SpaceTextCorpus crawler completed
