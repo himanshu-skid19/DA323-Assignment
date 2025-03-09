@@ -29,12 +29,11 @@ Analysis of visual characteristics of national flags and linguistic features of 
 
 ## Repository Structure
 ```
-├── Scalable_Data_Collection/
-│   ├── Image_Dataset/
-│   ├── Text_Dataset/
-│   ├── Audio_Dataset/
-│   ├── Weather_Dataset/
-│   └── Analyzing_India_with_Data/
+├── PokeVision_dataset
+├── AstroCorpus
+├── Audio_Dataset_Collection/
+├── Weather_Dataset_Collection/
+├── Analyzing_india_with_data/
 ├── Search_for_a_Match/
 └── Analyzing_Flags_and_Anthems/
 ├── Data_Collection/
