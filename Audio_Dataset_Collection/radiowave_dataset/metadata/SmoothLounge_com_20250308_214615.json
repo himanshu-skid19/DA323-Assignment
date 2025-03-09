@@ -1,0 +1,14 @@
+{
+  "station_name": "SmoothLounge.com",
+  "stream_url": "http://ais-edge91-dal03.cdnstream.com:80/2586_128.mp3",
+  "timestamp": "2025-03-08T21:46:52.317879",
+  "duration": 67,
+  "format": "mp3",
+  "codec": "audio/mpeg",
+  "bitrate": "128",
+  "country": "Unknown",
+  "tags": [
+    "Rock"
+  ],
+  "homepage": ""
+}

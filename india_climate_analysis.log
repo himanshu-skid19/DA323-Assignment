@@ -1,0 +1,29 @@
+2025-03-08 22:43:29,010 - ERROR - Data file not found: india_climate_watch_data\india_weather_master.csv
+2025-03-08 22:43:29,010 - INFO - Generating all analyses...
+2025-03-08 22:43:29,010 - INFO - All analyses completed
+2025-03-08 22:43:29,011 - INFO - Analysis completed. Results saved to C:\Users\himan\Desktop\mmdp\DA323-Assignment\india_climate_watch_data\analysis
+2025-03-08 22:43:47,283 - INFO - Loaded 20 records from Weather_Dataset_Collection\india_climate_watch_data\india_weather_master.csv
+2025-03-08 22:43:47,284 - INFO - Date range: 2025-03-08 to 2025-03-08
+2025-03-08 22:43:47,286 - INFO - Cities: Ahmedabad, Bangalore, Bhopal, Chennai, Delhi, Guwahati, Hyderabad, Indore, Jaipur, Kanpur, Kolkata, Lucknow, Mumbai, Nagpur, Patna, Pune, Surat, Thane, Vadodara, Visakhapatnam
+2025-03-08 22:43:47,286 - INFO - Generating all analyses...
+2025-03-08 22:43:53,680 - INFO - Loaded 20 records from Weather_Dataset_Collection\india_climate_watch_data\india_weather_master.csv
+2025-03-08 22:43:53,681 - INFO - Date range: 2025-03-08 to 2025-03-08
+2025-03-08 22:43:53,681 - INFO - Cities: Ahmedabad, Bangalore, Bhopal, Chennai, Delhi, Guwahati, Hyderabad, Indore, Jaipur, Kanpur, Kolkata, Lucknow, Mumbai, Nagpur, Patna, Pune, Surat, Thane, Vadodara, Visakhapatnam
+2025-03-08 22:43:53,681 - INFO - Generating all analyses...
+2025-03-08 22:48:25,201 - INFO - Loaded 20 records from Weather_Dataset_Collection\india_climate_watch_data\india_weather_master.csv
+2025-03-08 22:48:25,202 - INFO - Date range: 2025-03-08 to 2025-03-08
+2025-03-08 22:48:25,202 - INFO - Cities: Ahmedabad, Bangalore, Bhopal, Chennai, Delhi, Guwahati, Hyderabad, Indore, Jaipur, Kanpur, Kolkata, Lucknow, Mumbai, Nagpur, Patna, Pune, Surat, Thane, Vadodara, Visakhapatnam
+2025-03-08 22:48:25,202 - INFO - Generating all analyses...
+2025-03-08 22:48:52,349 - INFO - Loaded 20 records from Weather_Dataset_Collection/india_climate_watch_data\india_weather_master.csv
+2025-03-08 22:48:52,350 - INFO - Date range: 2025-03-08 to 2025-03-08
+2025-03-08 22:48:52,350 - INFO - Cities: Ahmedabad, Bangalore, Bhopal, Chennai, Delhi, Guwahati, Hyderabad, Indore, Jaipur, Kanpur, Kolkata, Lucknow, Mumbai, Nagpur, Patna, Pune, Surat, Thane, Vadodara, Visakhapatnam
+2025-03-08 22:48:52,350 - INFO - Generating all analyses...
+2025-03-08 22:51:07,359 - INFO - Loaded 20 records from Weather_Dataset_Collection/india_climate_watch_data\india_weather_master.csv
+2025-03-08 22:51:07,361 - INFO - Date range: 2025-03-08 to 2025-03-08
+2025-03-08 22:51:07,362 - INFO - Cities: Ahmedabad, Bangalore, Bhopal, Chennai, Delhi, Guwahati, Hyderabad, Indore, Jaipur, Kanpur, Kolkata, Lucknow, Mumbai, Nagpur, Patna, Pune, Surat, Thane, Vadodara, Visakhapatnam
+2025-03-08 22:51:07,362 - INFO - Generating all analyses...
+2025-03-08 22:51:07,386 - INFO - Summary statistics generated and saved to Weather_Dataset_Collection/india_climate_watch_data\analysis
+2025-03-08 22:51:08,041 - INFO - Temperature trend plots generated
+2025-03-08 22:51:08,334 - INFO - Temperature heatmap generated
+2025-03-08 22:51:08,897 - INFO - Humidity comparison plots generated
+2025-03-08 22:51:09,560 - INFO - Weather conditions plots generated

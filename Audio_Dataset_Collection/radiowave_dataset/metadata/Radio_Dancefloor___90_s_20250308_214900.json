@@ -1,0 +1,24 @@
+{
+  "station_name": "Radio Dancefloor - 90's",
+  "stream_url": "http://streaming.radiodancefloor.it:8000/live.mp3",
+  "timestamp": "2025-03-08T21:49:54.840954",
+  "duration": 57,
+  "format": "mp3",
+  "codec": "audio/mpeg",
+  "bitrate": "160",
+  "country": "Unknown",
+  "tags": [
+    "annees90",
+    "club",
+    "trance",
+    "techno",
+    "anni90",
+    "disco",
+    "eurodance",
+    "handsup",
+    "90s",
+    "house",
+    "dance"
+  ],
+  "homepage": ""
+}

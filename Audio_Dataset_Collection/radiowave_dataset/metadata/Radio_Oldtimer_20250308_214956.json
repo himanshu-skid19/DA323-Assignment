@@ -1,0 +1,14 @@
+{
+  "station_name": "Radio Oldtimer",
+  "stream_url": "http://188.138.9.183:80/oldtimerradio.mp3",
+  "timestamp": "2025-03-08T21:50:40.721232",
+  "duration": 51,
+  "format": "mp3",
+  "codec": "audio/mpeg",
+  "bitrate": "128",
+  "country": "Unknown",
+  "tags": [
+    "Oldies"
+  ],
+  "homepage": ""
+}

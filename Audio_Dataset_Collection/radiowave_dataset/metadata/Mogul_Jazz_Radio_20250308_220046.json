@@ -1,0 +1,14 @@
+{
+  "station_name": "Mogul Jazz Radio",
+  "stream_url": "http://pstnet4.shoutcastnet.com:40520/stream",
+  "timestamp": "2025-03-08T22:01:37.234353",
+  "duration": 61,
+  "format": "mp3",
+  "codec": "audio/mpeg",
+  "bitrate": "0",
+  "country": "Unknown",
+  "tags": [
+    "Misc"
+  ],
+  "homepage": ""
+}

@@ -1,0 +1,14 @@
+{
+  "station_name": "Dodra Brahm Bunga",
+  "stream_url": "http://s8.voscast.com:8474/stream",
+  "timestamp": "2025-03-08T21:40:12.335189",
+  "duration": 60,
+  "format": "mp3",
+  "codec": "audio/mpeg",
+  "bitrate": "64",
+  "country": "Unknown",
+  "tags": [
+    "various"
+  ],
+  "homepage": ""
+}

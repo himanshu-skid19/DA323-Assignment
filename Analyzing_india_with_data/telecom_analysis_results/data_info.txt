@@ -1,0 +1,42 @@
+Initial data shape: (71, 11)
+
+Checking for missing values:
+Year ending\n 31st March    0
+Month                       0
+Telephones - Public         0
+Telephones - Private        0
+Telephones - Total          0
+Additions - Public          0
+Additions - Private         0
+Share% age - Public         0
+Share% age - Private        0
+% age Growth - Public       0
+% age Growth - Private      0
+dtype: int64
+
+First 5 rows of the dataset:
+  Year ending\n 31st March   Month  Telephones - Public  Telephones - Private  Telephones - Total  Additions - Public  Additions - Private  Share% age - Public  Share% age - Private  % age Growth - Public  % age Growth - Private
+0                  2009-10   April             90429596             351045586           441475182              883213           10866788.0                20.48                 79.52                   0.99                    3.19
+1                  2009-10     May             90701937             362209228           452911165              272341           11163642.0                20.03                 79.97                   0.30                    3.18
+2                  2009-10    June             91315156             373510182           464825338              613219           11300954.0                19.65                 80.35                   0.68                    3.12
+3                  2009-10    July             92772794             386298111           479070905             1457638           12787929.0                19.37                 80.63                   1.60                    3.42
+4                  2009-10  August             93992411             400077487           494069898             1219617           13779376.0                19.02                 80.98                   1.31                    3.57
+
+Basic statistics of the numerical columns:
+       Telephones - Public  Telephones - Private  Telephones - Total  Additions - Public  Additions - Private  Share% age - Public  Share% age - Private  % age Growth - Public  % age Growth - Private
+count         7.100000e+01          7.100000e+01        7.100000e+01        7.100000e+01         7.100000e+01            71.000000             71.000000              71.000000               71.000000
+mean          1.174499e+08          7.085357e+08        8.259856e+08        1.652907e+05         7.688444e+06            14.626197             85.373803               0.180845                1.368732
+std           1.244410e+07          1.506183e+08        1.600391e+08        1.336482e+06         8.694457e+06             2.255242              2.255242               1.198638                1.538112
+min           9.042960e+07          3.510456e+08        4.414752e+08       -2.697405e+06        -2.588446e+07            10.260000             79.520000              -2.590000               -3.270000
+25%           1.079333e+08          6.182400e+08        7.327079e+08       -5.409855e+05         4.173618e+06            13.615000             84.375000              -0.430000                0.510000
+50%           1.223596e+08          7.753603e+08        9.000549e+08        2.233390e+05         7.514478e+06            14.090000             85.910000               0.170000                0.960000
+75%           1.287589e+08          8.122156e+08        9.369149e+08        9.673705e+05         1.501237e+07            15.625000             86.385000               0.990000                2.780000
+max           1.302708e+08          8.860583e+08        9.873403e+08        2.866175e+06         1.987894e+07            20.480000             89.740000               2.640000                3.870000
+
+Unique month values in the dataset:
+['April' 'May' 'June' 'July' 'August' 'September' 'October' 'November'
+ 'December' 'January' 'February' 'March' "January'11" "February'11"
+ "March'11" "January'12" "February'12" "March'12" "January'13"
+ "February'13" "March'13" "January'14" "February'14" "March'14"
+ "January'15" "February'15"]
+

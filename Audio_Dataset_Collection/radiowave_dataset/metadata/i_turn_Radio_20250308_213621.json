@@ -1,0 +1,18 @@
+{
+  "station_name": "i-turn Radio",
+  "stream_url": "http://live3.i-turnradio.nl:80/320",
+  "timestamp": "2025-03-08T21:36:50.583615",
+  "duration": 30,
+  "format": "mp3",
+  "codec": "audio/mpeg",
+  "bitrate": "320",
+  "country": "Unknown",
+  "tags": [
+    "pop",
+    "soul",
+    "funk",
+    "rock",
+    "disco"
+  ],
+  "homepage": ""
+}

@@ -1,0 +1,472 @@
+{
+  "name": "RadioWave Dataset",
+  "description": "A collection of AM/FM radio station recordings",
+  "created_date": "2025-03-08T22:02:46.376553",
+  "num_recordings": 30,
+  "format": "mp3",
+  "recordings": [
+    {
+      "station_name": "MB STUDIO",
+      "stream_url": "http://nr12.newradio.it:8804/stream",
+      "timestamp": "2025-03-08T21:35:37.185049",
+      "duration": 53,
+      "format": "mp3",
+      "codec": "audio/mpeg",
+      "bitrate": "256",
+      "country": "Unknown",
+      "tags": [
+        "Pop"
+      ],
+      "homepage": ""
+    },
+    {
+      "station_name": "Parlamenti ad\u00e1sok (mp3)",
+      "stream_url": "http://stream002.radio.hu:80/mr5.mp3",
+      "timestamp": "2025-03-08T21:36:10.856511",
+      "duration": 47,
+      "format": "mp3",
+      "codec": "audio/mpeg",
+      "bitrate": "64",
+      "country": "Unknown",
+      "tags": [
+        "News",
+        "Parliament",
+        "Hungary"
+      ],
+      "homepage": ""
+    },
+    {
+      "station_name": "i-turn Radio",
+      "stream_url": "http://live3.i-turnradio.nl:80/320",
+      "timestamp": "2025-03-08T21:36:50.583615",
+      "duration": 30,
+      "format": "mp3",
+      "codec": "audio/mpeg",
+      "bitrate": "320",
+      "country": "Unknown",
+      "tags": [
+        "pop",
+        "soul",
+        "funk",
+        "rock",
+        "disco"
+      ],
+      "homepage": ""
+    },
+    {
+      "station_name": "Retro Country 890",
+      "stream_url": "http://www.tuneintoradio1.com:8050/192kbps.mp3",
+      "timestamp": "2025-03-08T21:38:18.971486",
+      "duration": 88,
+      "format": "mp3",
+      "codec": "audio/mpeg",
+      "bitrate": "192",
+      "country": "Unknown",
+      "tags": [
+        "Classic",
+        "2000s",
+        "Classic",
+        "Country",
+        "Contemporary",
+        "Country",
+        "Honky",
+        "Tonk",
+        "90s",
+        "Country",
+        "80s"
+      ],
+      "homepage": ""
+    },
+    {
+      "station_name": "Rockin Rhtym And Blues Radio",
+      "stream_url": "http://ais-edge148-pit01.cdnstream.com:80/2522_128.mp3",
+      "timestamp": "2025-03-08T21:39:16.933795",
+      "duration": 86,
+      "format": "mp3",
+      "codec": "audio/mpeg",
+      "bitrate": "128",
+      "country": "Unknown",
+      "tags": [
+        "60s",
+        "Soul",
+        "Doo",
+        "Wop",
+        "Rock",
+        "And",
+        "Roll",
+        "Rhythm",
+        "And",
+        "Blues"
+      ],
+      "homepage": ""
+    },
+    {
+      "station_name": "Dodra Brahm Bunga",
+      "stream_url": "http://s8.voscast.com:8474/stream",
+      "timestamp": "2025-03-08T21:40:12.335189",
+      "duration": 60,
+      "format": "mp3",
+      "codec": "audio/mpeg",
+      "bitrate": "64",
+      "country": "Unknown",
+      "tags": [
+        "various"
+      ],
+      "homepage": ""
+    },
+    {
+      "station_name": "Online Radio",
+      "stream_url": "http://tecnoservix.stream:8018/stream",
+      "timestamp": "2025-03-08T21:41:34.609651",
+      "duration": 83,
+      "format": "mp3",
+      "codec": "audio/mpeg",
+      "bitrate": "128",
+      "country": "Unknown",
+      "tags": [
+        "NULL"
+      ],
+      "homepage": ""
+    },
+    {
+      "station_name": "Unspecified name",
+      "stream_url": "http://www.gclef320k.online:18006/stream",
+      "timestamp": "2025-03-08T21:42:20.861149",
+      "duration": 47,
+      "format": "mp3",
+      "codec": "audio/mpeg",
+      "bitrate": "128",
+      "country": "Unknown",
+      "tags": [
+        "various"
+      ],
+      "homepage": ""
+    },
+    {
+      "station_name": "studio344",
+      "stream_url": "http://cast5.magicstreams.gr:8083/autodj",
+      "timestamp": "2025-03-08T21:42:59.398383",
+      "duration": 37,
+      "format": "mp3",
+      "codec": "audio/mpeg",
+      "bitrate": "320",
+      "country": "Unknown",
+      "tags": [
+        "Greek"
+      ],
+      "homepage": ""
+    },
+    {
+      "station_name": "\u041b\u042e\u0411\u0418\u041c\u042b\u0415 \u0425\u0418\u0422\u042b",
+      "stream_url": "http://online.lyubimyehity.ru:1040/stream",
+      "timestamp": "2025-03-08T21:43:45.304470",
+      "duration": 48,
+      "format": "mp3",
+      "codec": "audio/mpeg",
+      "bitrate": "192",
+      "country": "Unknown",
+      "tags": [
+        "\u0420\u0415\u0422\u0420\u041e"
+      ],
+      "homepage": ""
+    },
+    {
+      "station_name": "VRI (Vox Radio International)",
+      "stream_url": "http://quincy.torontocast.com:2640/stream",
+      "timestamp": "2025-03-08T21:44:58.024264",
+      "duration": 75,
+      "format": "mp3",
+      "codec": "audio/mpeg",
+      "bitrate": "192",
+      "country": "Unknown",
+      "tags": [
+        "JAZZ",
+        "and",
+        "POP"
+      ],
+      "homepage": ""
+    },
+    {
+      "station_name": "Spot",
+      "stream_url": "http://live.myradio.yt:1170/stream",
+      "timestamp": "2025-03-08T21:45:45.001515",
+      "duration": 43,
+      "format": "mp3",
+      "codec": "audio/mpeg",
+      "bitrate": "128",
+      "country": "Unknown",
+      "tags": [
+        "pub"
+      ],
+      "homepage": ""
+    },
+    {
+      "station_name": "SmoothLounge.com",
+      "stream_url": "http://ais-edge91-dal03.cdnstream.com:80/2586_128.mp3",
+      "timestamp": "2025-03-08T21:46:52.317879",
+      "duration": 67,
+      "format": "mp3",
+      "codec": "audio/mpeg",
+      "bitrate": "128",
+      "country": "Unknown",
+      "tags": [
+        "Rock"
+      ],
+      "homepage": ""
+    },
+    {
+      "station_name": "Brumside Radio",
+      "stream_url": "http://carol.epichosts.co.uk:8440/live.mp3",
+      "timestamp": "2025-03-08T21:47:56.127846",
+      "duration": 73,
+      "format": "mp3",
+      "codec": "audio/mpeg",
+      "bitrate": "128",
+      "country": "Unknown",
+      "tags": [
+        "Gold"
+      ],
+      "homepage": ""
+    },
+    {
+      "station_name": "Stockholm FM 88.0 MHz Sweden - webbradio@narradio.se - community affairs & culture mp3 P R O",
+      "stream_url": "http://radiostreamthree.mine.nu:80/18000",
+      "timestamp": "2025-03-08T21:48:44.553597",
+      "duration": 50,
+      "format": "mp3",
+      "codec": "audio/mpeg",
+      "bitrate": "75",
+      "country": "Unknown",
+      "tags": [
+        "International"
+      ],
+      "homepage": ""
+    },
+    {
+      "station_name": ".113FM Alt-X",
+      "stream_url": "http://stage-das-edge02-lax02.cdnstream.com:80/1740_128?fromyp=true",
+      "timestamp": "2025-03-08T21:48:58.132973",
+      "duration": 42,
+      "format": "mp3",
+      "codec": "audio/mpeg",
+      "bitrate": "128",
+      "country": "Unknown",
+      "tags": [
+        "Alternative",
+        "Rock"
+      ],
+      "homepage": ""
+    },
+    {
+      "station_name": "Radio Dancefloor - 90's",
+      "stream_url": "http://streaming.radiodancefloor.it:8000/live.mp3",
+      "timestamp": "2025-03-08T21:49:54.840954",
+      "duration": 57,
+      "format": "mp3",
+      "codec": "audio/mpeg",
+      "bitrate": "160",
+      "country": "Unknown",
+      "tags": [
+        "annees90",
+        "club",
+        "trance",
+        "techno",
+        "anni90",
+        "disco",
+        "eurodance",
+        "handsup",
+        "90s",
+        "house",
+        "dance"
+      ],
+      "homepage": ""
+    },
+    {
+      "station_name": "Radio Oldtimer",
+      "stream_url": "http://188.138.9.183:80/oldtimerradio.mp3",
+      "timestamp": "2025-03-08T21:50:40.721232",
+      "duration": 51,
+      "format": "mp3",
+      "codec": "audio/mpeg",
+      "bitrate": "128",
+      "country": "Unknown",
+      "tags": [
+        "Oldies"
+      ],
+      "homepage": ""
+    },
+    {
+      "station_name": "POWERHITZ.COM - GLORY 107",
+      "stream_url": "http://ais-edge180-jbmedia-nyc03.cdnstream.com:80/gospel",
+      "timestamp": "2025-03-08T21:51:06.331178",
+      "duration": 44,
+      "format": "mp3",
+      "codec": "audio/mpeg",
+      "bitrate": "128",
+      "country": "Unknown",
+      "tags": [
+        "Inspirational"
+      ],
+      "homepage": ""
+    },
+    {
+      "station_name": "Omaha, Nebraska Weather Radio",
+      "stream_url": "http://radio.weatherusa.net:80/NWR/KIH61.mp3",
+      "timestamp": "2025-03-08T21:52:37.462732",
+      "duration": 89,
+      "format": "mp3",
+      "codec": "audio/mpeg",
+      "bitrate": "64",
+      "country": "Unknown",
+      "tags": [
+        "Weather"
+      ],
+      "homepage": ""
+    },
+    {
+      "station_name": "Mandelieu international",
+      "stream_url": "http://radio-online.fr:4000/stream",
+      "timestamp": "2025-03-08T21:53:54.827248",
+      "duration": 75,
+      "format": "mp3",
+      "codec": "audio/mpeg",
+      "bitrate": "320",
+      "country": "Unknown",
+      "tags": [
+        "pop"
+      ],
+      "homepage": ""
+    },
+    {
+      "station_name": "RadioCaster Stream",
+      "stream_url": "http://topradio.pro:8039/live",
+      "timestamp": "2025-03-08T21:55:16.448671",
+      "duration": 83,
+      "format": "mp3",
+      "codec": "audio/mpeg",
+      "bitrate": "128",
+      "country": "Unknown",
+      "tags": [
+        "Other"
+      ],
+      "homepage": ""
+    },
+    {
+      "station_name": "CARLA RADIO",
+      "stream_url": "http://stream.vestaradio.com:8190/liveCarlaRadio",
+      "timestamp": "2025-03-08T21:56:28.620763",
+      "duration": 67,
+      "format": "mp3",
+      "codec": "audio/mpeg",
+      "bitrate": "320",
+      "country": "Unknown",
+      "tags": [
+        "HITS",
+        "POP"
+      ],
+      "homepage": ""
+    },
+    {
+      "station_name": "Online Radio",
+      "stream_url": "http://live.onevoicefm.com:1890/stream",
+      "timestamp": "2025-03-08T21:56:58.904637",
+      "duration": 35,
+      "format": "mp3",
+      "codec": "audio/mpeg",
+      "bitrate": "128",
+      "country": "Unknown",
+      "tags": [
+        "various"
+      ],
+      "homepage": ""
+    },
+    {
+      "station_name": "Radio Samagra",
+      "stream_url": "http://live.itech.host:9389/live",
+      "timestamp": "2025-03-08T21:57:17.891489",
+      "duration": 32,
+      "format": "mp3",
+      "codec": "audio/mpeg",
+      "bitrate": "128",
+      "country": "Unknown",
+      "tags": [
+        "Genre2",
+        "Genre1"
+      ],
+      "homepage": ""
+    },
+    {
+      "station_name": "La Ley 106.3",
+      "stream_url": "http://audio.livecastnet.com:2550/stream",
+      "timestamp": "2025-03-08T21:58:33.695205",
+      "duration": 81,
+      "format": "mp3",
+      "codec": "audio/mpeg",
+      "bitrate": "128",
+      "country": "Unknown",
+      "tags": [
+        "various"
+      ],
+      "homepage": ""
+    },
+    {
+      "station_name": "R\u00e1di\u00f3 Groove",
+      "stream_url": "http://s03.diazol.hu:35110/live.mp3",
+      "timestamp": "2025-03-08T21:59:29.531457",
+      "duration": 61,
+      "format": "mp3",
+      "codec": "audio/mpeg",
+      "bitrate": "192",
+      "country": "Unknown",
+      "tags": [
+        "90's",
+        "Hot",
+        "AC",
+        "80's"
+      ],
+      "homepage": ""
+    },
+    {
+      "station_name": "STREAM 10380",
+      "stream_url": "http://pstnet1.shoutcastnet.com:10380/stream",
+      "timestamp": "2025-03-08T22:00:44.446814",
+      "duration": 76,
+      "format": "mp3",
+      "codec": "audio/mpeg",
+      "bitrate": "0",
+      "country": "Unknown",
+      "tags": [
+        "MISC"
+      ],
+      "homepage": ""
+    },
+    {
+      "station_name": "Mogul Jazz Radio",
+      "stream_url": "http://pstnet4.shoutcastnet.com:40520/stream",
+      "timestamp": "2025-03-08T22:01:37.234353",
+      "duration": 61,
+      "format": "mp3",
+      "codec": "audio/mpeg",
+      "bitrate": "0",
+      "country": "Unknown",
+      "tags": [
+        "Misc"
+      ],
+      "homepage": ""
+    },
+    {
+      "station_name": "Radio Extremix",
+      "stream_url": "http://srv.webradiomanager.fr:1270/stream",
+      "timestamp": "2025-03-08T22:02:44.373856",
+      "duration": 60,
+      "format": "mp3",
+      "codec": "audio/mpeg",
+      "bitrate": "320",
+      "country": "Unknown",
+      "tags": [
+        "various"
+      ],
+      "homepage": ""
+    }
+  ]
+}

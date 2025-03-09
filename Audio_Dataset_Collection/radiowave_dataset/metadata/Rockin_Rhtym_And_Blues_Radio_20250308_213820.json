@@ -1,0 +1,23 @@
+{
+  "station_name": "Rockin Rhtym And Blues Radio",
+  "stream_url": "http://ais-edge148-pit01.cdnstream.com:80/2522_128.mp3",
+  "timestamp": "2025-03-08T21:39:16.933795",
+  "duration": 86,
+  "format": "mp3",
+  "codec": "audio/mpeg",
+  "bitrate": "128",
+  "country": "Unknown",
+  "tags": [
+    "60s",
+    "Soul",
+    "Doo",
+    "Wop",
+    "Rock",
+    "And",
+    "Roll",
+    "Rhythm",
+    "And",
+    "Blues"
+  ],
+  "homepage": ""
+}

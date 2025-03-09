@@ -1,0 +1,55 @@
+2025-03-08 22:08:05,567 - INFO - Starting RadioWave dataset analysis
+2025-03-08 22:08:05,784 - INFO - Loaded metadata for 30 audio files
+2025-03-08 22:08:05,785 - INFO - Analyzing Brumside_Radio_20250308_214654.mp3
+2025-03-08 22:09:40,208 - INFO - Analyzing CARLA_RADIO_20250308_215521.mp3
+2025-03-08 22:09:47,196 - INFO - Analyzing Dodra_Brahm_Bunga_20250308_213918.mp3
+2025-03-08 22:09:52,980 - INFO - Analyzing i_turn_Radio_20250308_213621.mp3
+2025-03-08 22:09:55,833 - INFO - Analyzing La_Ley_106_3_20250308_215719.mp3
+2025-03-08 22:10:04,592 - INFO - Analyzing Mandelieu_international_20250308_215239.mp3
+2025-03-08 22:10:13,262 - INFO - Analyzing MB_STUDIO_20250308_213445.mp3
+2025-03-08 22:10:18,613 - INFO - Analyzing Mogul_Jazz_Radio_20250308_220046.mp3
+2025-03-08 22:10:25,129 - INFO - Analyzing Omaha__Nebraska_Weather_Radio_20250308_215114.mp3
+2025-03-08 22:10:34,926 - INFO - Analyzing Online_Radio_20250308_214014.mp3
+2025-03-08 22:10:43,398 - INFO - Analyzing Online_Radio_20250308_215630.mp3
+2025-03-08 22:10:46,794 - INFO - Analyzing Parlamenti_adások__mp3__20250308_213539.mp3
+2025-03-08 22:10:52,163 - INFO - Analyzing POWERHITZ_COM___GLORY_107_20250308_215052.mp3
+2025-03-08 22:10:57,013 - INFO - Analyzing RadioCaster_Stream_20250308_215356.mp3
+2025-03-08 22:11:05,595 - INFO - Analyzing Radio_Dancefloor___90_s_20250308_214900.mp3
+2025-03-08 22:11:11,639 - INFO - Analyzing Radio_Extremix_20250308_220146.mp3
+2025-03-08 22:11:18,038 - INFO - Analyzing Radio_Oldtimer_20250308_214956.mp3
+2025-03-08 22:11:23,376 - INFO - Analyzing Radio_Samagra_20250308_215700.mp3
+2025-03-08 22:11:24,884 - INFO - Analyzing Retro_Country_890_20250308_213652.mp3
+2025-03-08 22:11:37,320 - INFO - Starting RadioWave dataset analysis
+2025-03-08 22:11:37,325 - INFO - Loaded metadata for 30 audio files
+2025-03-08 22:11:37,325 - INFO - Analyzing Brumside_Radio_20250308_214654.mp3
+2025-03-08 22:11:50,701 - INFO - Analyzing CARLA_RADIO_20250308_215521.mp3
+2025-03-08 22:11:57,160 - INFO - Analyzing Dodra_Brahm_Bunga_20250308_213918.mp3
+2025-03-08 22:12:02,683 - INFO - Analyzing i_turn_Radio_20250308_213621.mp3
+2025-03-08 22:12:05,542 - INFO - Analyzing La_Ley_106_3_20250308_215719.mp3
+2025-03-08 22:12:13,912 - INFO - Analyzing Mandelieu_international_20250308_215239.mp3
+2025-03-08 22:12:21,479 - INFO - Analyzing MB_STUDIO_20250308_213445.mp3
+2025-03-08 22:12:27,143 - INFO - Analyzing Mogul_Jazz_Radio_20250308_220046.mp3
+2025-03-08 22:12:34,198 - INFO - Analyzing Omaha__Nebraska_Weather_Radio_20250308_215114.mp3
+2025-03-08 22:12:45,404 - INFO - Analyzing Online_Radio_20250308_214014.mp3
+2025-03-08 22:12:54,976 - INFO - Analyzing Online_Radio_20250308_215630.mp3
+2025-03-08 22:12:58,665 - INFO - Analyzing Parlamenti_adások__mp3__20250308_213539.mp3
+2025-03-08 22:13:04,029 - INFO - Analyzing POWERHITZ_COM___GLORY_107_20250308_215052.mp3
+2025-03-08 22:13:08,986 - INFO - Analyzing RadioCaster_Stream_20250308_215356.mp3
+2025-03-08 22:13:19,023 - INFO - Analyzing Radio_Dancefloor___90_s_20250308_214900.mp3
+2025-03-08 22:13:26,253 - INFO - Analyzing Radio_Extremix_20250308_220146.mp3
+2025-03-08 22:13:33,199 - INFO - Analyzing Radio_Oldtimer_20250308_214956.mp3
+2025-03-08 22:13:38,728 - INFO - Analyzing Radio_Samagra_20250308_215700.mp3
+2025-03-08 22:13:40,508 - INFO - Analyzing Retro_Country_890_20250308_213652.mp3
+2025-03-08 22:13:50,527 - INFO - Analyzing Rockin_Rhtym_And_Blues_Radio_20250308_213820.mp3
+2025-03-08 22:14:00,929 - INFO - Analyzing Rádió_Groove_20250308_215835.mp3
+2025-03-08 22:14:07,032 - INFO - Analyzing SmoothLounge_com_20250308_214615.mp3
+2025-03-08 22:14:13,547 - INFO - Analyzing Spot_20250308_214509.mp3
+2025-03-08 22:14:17,815 - INFO - Analyzing Stockholm_FM_88_0_MHz_Sweden___webbradio_narradio_se___community_affairs___culture_mp3_P_R_O_20250308_214800.mp3
+2025-03-08 22:14:25,362 - INFO - Analyzing STREAM_10380_20250308_215938.mp3
+2025-03-08 22:14:34,958 - INFO - Analyzing studio344_20250308_214222.mp3
+2025-03-08 22:14:38,723 - INFO - Analyzing Unspecified_name_20250308_214136.mp3
+2025-03-08 22:14:43,695 - INFO - Analyzing VRI__Vox_Radio_International__20250308_214347.mp3
+2025-03-08 22:14:52,545 - INFO - Analyzing _113FM_Alt_X_20250308_214846.mp3
+2025-03-08 22:15:02,148 - INFO - Analysis completed for 30 audio files
+2025-03-08 22:15:02,158 - INFO - Analysis results saved to Audio_Dataset_Collection/radiowave_dataset\analysis\analysis_results.csv
+2025-03-08 22:15:04,549 - WARNING - WordCloud package not installed, skipping tag cloud visualization

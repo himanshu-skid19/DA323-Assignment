@@ -1,0 +1,14 @@
+{
+  "station_name": "Spot",
+  "stream_url": "http://live.myradio.yt:1170/stream",
+  "timestamp": "2025-03-08T21:45:45.001515",
+  "duration": 43,
+  "format": "mp3",
+  "codec": "audio/mpeg",
+  "bitrate": "128",
+  "country": "Unknown",
+  "tags": [
+    "pub"
+  ],
+  "homepage": ""
+}

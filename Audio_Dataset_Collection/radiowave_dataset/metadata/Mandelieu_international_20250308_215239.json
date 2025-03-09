@@ -1,0 +1,14 @@
+{
+  "station_name": "Mandelieu international",
+  "stream_url": "http://radio-online.fr:4000/stream",
+  "timestamp": "2025-03-08T21:53:54.827248",
+  "duration": 75,
+  "format": "mp3",
+  "codec": "audio/mpeg",
+  "bitrate": "320",
+  "country": "Unknown",
+  "tags": [
+    "pop"
+  ],
+  "homepage": ""
+}

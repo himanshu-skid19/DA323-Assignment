@@ -1,0 +1,24 @@
+{
+  "station_name": "Retro Country 890",
+  "stream_url": "http://www.tuneintoradio1.com:8050/192kbps.mp3",
+  "timestamp": "2025-03-08T21:38:18.971486",
+  "duration": 88,
+  "format": "mp3",
+  "codec": "audio/mpeg",
+  "bitrate": "192",
+  "country": "Unknown",
+  "tags": [
+    "Classic",
+    "2000s",
+    "Classic",
+    "Country",
+    "Contemporary",
+    "Country",
+    "Honky",
+    "Tonk",
+    "90s",
+    "Country",
+    "80s"
+  ],
+  "homepage": ""
+}

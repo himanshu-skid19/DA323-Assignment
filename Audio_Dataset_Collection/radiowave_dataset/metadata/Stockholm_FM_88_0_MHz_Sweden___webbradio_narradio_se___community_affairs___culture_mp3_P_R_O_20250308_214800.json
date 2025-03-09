@@ -1,0 +1,14 @@
+{
+  "station_name": "Stockholm FM 88.0 MHz Sweden - webbradio@narradio.se - community affairs & culture mp3 P R O",
+  "stream_url": "http://radiostreamthree.mine.nu:80/18000",
+  "timestamp": "2025-03-08T21:48:44.553597",
+  "duration": 50,
+  "format": "mp3",
+  "codec": "audio/mpeg",
+  "bitrate": "75",
+  "country": "Unknown",
+  "tags": [
+    "International"
+  ],
+  "homepage": ""
+}

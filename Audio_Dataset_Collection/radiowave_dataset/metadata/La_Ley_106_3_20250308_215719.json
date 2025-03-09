@@ -1,0 +1,14 @@
+{
+  "station_name": "La Ley 106.3",
+  "stream_url": "http://audio.livecastnet.com:2550/stream",
+  "timestamp": "2025-03-08T21:58:33.695205",
+  "duration": 81,
+  "format": "mp3",
+  "codec": "audio/mpeg",
+  "bitrate": "128",
+  "country": "Unknown",
+  "tags": [
+    "various"
+  ],
+  "homepage": ""
+}

@@ -1,0 +1,14 @@
+{
+  "station_name": "Unspecified name",
+  "stream_url": "http://www.gclef320k.online:18006/stream",
+  "timestamp": "2025-03-08T21:42:20.861149",
+  "duration": 47,
+  "format": "mp3",
+  "codec": "audio/mpeg",
+  "bitrate": "128",
+  "country": "Unknown",
+  "tags": [
+    "various"
+  ],
+  "homepage": ""
+}

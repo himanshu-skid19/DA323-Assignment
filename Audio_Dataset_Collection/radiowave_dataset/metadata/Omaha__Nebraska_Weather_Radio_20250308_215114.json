@@ -1,0 +1,14 @@
+{
+  "station_name": "Omaha, Nebraska Weather Radio",
+  "stream_url": "http://radio.weatherusa.net:80/NWR/KIH61.mp3",
+  "timestamp": "2025-03-08T21:52:37.462732",
+  "duration": 89,
+  "format": "mp3",
+  "codec": "audio/mpeg",
+  "bitrate": "64",
+  "country": "Unknown",
+  "tags": [
+    "Weather"
+  ],
+  "homepage": ""
+}

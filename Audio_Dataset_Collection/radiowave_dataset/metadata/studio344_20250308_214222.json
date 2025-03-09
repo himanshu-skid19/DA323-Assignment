@@ -1,0 +1,14 @@
+{
+  "station_name": "studio344",
+  "stream_url": "http://cast5.magicstreams.gr:8083/autodj",
+  "timestamp": "2025-03-08T21:42:59.398383",
+  "duration": 37,
+  "format": "mp3",
+  "codec": "audio/mpeg",
+  "bitrate": "320",
+  "country": "Unknown",
+  "tags": [
+    "Greek"
+  ],
+  "homepage": ""
+}

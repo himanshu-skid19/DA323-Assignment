@@ -1,0 +1,15 @@
+{
+  "station_name": ".113FM Alt-X",
+  "stream_url": "http://stage-das-edge02-lax02.cdnstream.com:80/1740_128?fromyp=true",
+  "timestamp": "2025-03-08T21:48:58.132973",
+  "duration": 42,
+  "format": "mp3",
+  "codec": "audio/mpeg",
+  "bitrate": "128",
+  "country": "Unknown",
+  "tags": [
+    "Alternative",
+    "Rock"
+  ],
+  "homepage": ""
+}

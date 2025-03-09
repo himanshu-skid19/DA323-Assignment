@@ -1,0 +1,14 @@
+{
+  "station_name": "POWERHITZ.COM - GLORY 107",
+  "stream_url": "http://ais-edge180-jbmedia-nyc03.cdnstream.com:80/gospel",
+  "timestamp": "2025-03-08T21:51:06.331178",
+  "duration": 44,
+  "format": "mp3",
+  "codec": "audio/mpeg",
+  "bitrate": "128",
+  "country": "Unknown",
+  "tags": [
+    "Inspirational"
+  ],
+  "homepage": ""
+}

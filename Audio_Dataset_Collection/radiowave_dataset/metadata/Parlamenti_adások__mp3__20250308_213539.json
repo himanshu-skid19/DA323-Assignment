@@ -1,0 +1,16 @@
+{
+  "station_name": "Parlamenti ad\u00e1sok (mp3)",
+  "stream_url": "http://stream002.radio.hu:80/mr5.mp3",
+  "timestamp": "2025-03-08T21:36:10.856511",
+  "duration": 47,
+  "format": "mp3",
+  "codec": "audio/mpeg",
+  "bitrate": "64",
+  "country": "Unknown",
+  "tags": [
+    "News",
+    "Parliament",
+    "Hungary"
+  ],
+  "homepage": ""
+}

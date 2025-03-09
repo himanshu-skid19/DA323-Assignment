@@ -1,0 +1,15 @@
+{
+  "station_name": "CARLA RADIO",
+  "stream_url": "http://stream.vestaradio.com:8190/liveCarlaRadio",
+  "timestamp": "2025-03-08T21:56:28.620763",
+  "duration": 67,
+  "format": "mp3",
+  "codec": "audio/mpeg",
+  "bitrate": "320",
+  "country": "Unknown",
+  "tags": [
+    "HITS",
+    "POP"
+  ],
+  "homepage": ""
+}

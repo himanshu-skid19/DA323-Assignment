@@ -1,0 +1,16 @@
+{
+  "station_name": "VRI (Vox Radio International)",
+  "stream_url": "http://quincy.torontocast.com:2640/stream",
+  "timestamp": "2025-03-08T21:44:58.024264",
+  "duration": 75,
+  "format": "mp3",
+  "codec": "audio/mpeg",
+  "bitrate": "192",
+  "country": "Unknown",
+  "tags": [
+    "JAZZ",
+    "and",
+    "POP"
+  ],
+  "homepage": ""
+}

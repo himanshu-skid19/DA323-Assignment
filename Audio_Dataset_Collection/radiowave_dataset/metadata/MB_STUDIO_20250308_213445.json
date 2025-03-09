@@ -1,0 +1,14 @@
+{
+  "station_name": "MB STUDIO",
+  "stream_url": "http://nr12.newradio.it:8804/stream",
+  "timestamp": "2025-03-08T21:35:37.185049",
+  "duration": 53,
+  "format": "mp3",
+  "codec": "audio/mpeg",
+  "bitrate": "256",
+  "country": "Unknown",
+  "tags": [
+    "Pop"
+  ],
+  "homepage": ""
+}

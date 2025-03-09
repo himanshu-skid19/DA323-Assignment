@@ -1,0 +1,21 @@
+IndiaClimateWatch - Weather Summary Report
+=======================================
+
+Analysis Period: 2025-03-08 to 2025-03-08
+Number of Records: 20
+Cities Covered: 20
+
+Overall Weather Statistics:
+Average Temperature: 24.8°C
+Temperature Range: 19.6°C to 29.4°C
+Average Humidity: 32.5%
+Average Wind Speed: 2.6 m/s
+Average Pressure: 1010.0 hPa
+
+City-wise Temperature Extremes:
+Hottest City: Ahmedabad (29.4°C)
+Coolest City: Guwahati (19.6°C)
+Temperature Variability: Not enough data points to calculate
+
+Weather Conditions Summary:
+Clear: 100.0% of observations

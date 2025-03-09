@@ -1,0 +1,14 @@
+{
+  "station_name": "Online Radio",
+  "stream_url": "http://live.onevoicefm.com:1890/stream",
+  "timestamp": "2025-03-08T21:56:58.904637",
+  "duration": 35,
+  "format": "mp3",
+  "codec": "audio/mpeg",
+  "bitrate": "128",
+  "country": "Unknown",
+  "tags": [
+    "various"
+  ],
+  "homepage": ""
+}

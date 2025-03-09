@@ -1,0 +1,14 @@
+{
+  "station_name": "STREAM 10380",
+  "stream_url": "http://pstnet1.shoutcastnet.com:10380/stream",
+  "timestamp": "2025-03-08T22:00:44.446814",
+  "duration": 76,
+  "format": "mp3",
+  "codec": "audio/mpeg",
+  "bitrate": "0",
+  "country": "Unknown",
+  "tags": [
+    "MISC"
+  ],
+  "homepage": ""
+}

@@ -1,0 +1,14 @@
+{
+  "station_name": "Online Radio",
+  "stream_url": "http://tecnoservix.stream:8018/stream",
+  "timestamp": "2025-03-08T21:41:34.609651",
+  "duration": 83,
+  "format": "mp3",
+  "codec": "audio/mpeg",
+  "bitrate": "128",
+  "country": "Unknown",
+  "tags": [
+    "NULL"
+  ],
+  "homepage": ""
+}

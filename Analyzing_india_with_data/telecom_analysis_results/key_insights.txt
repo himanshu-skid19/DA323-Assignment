@@ -1,0 +1,49 @@
+================================================================================
+                              KEY INSIGHTS
+================================================================================
+
+Time Period: Apr 2008 to Feb 2014 (71 months)
+
+1. Overall Growth:
+   - Public telephones increased from 90,429,596 to 101,282,022
+   - Change: +10,852,426 (12.00%)
+   - Private telephones increased from 351,045,586 to 886,058,291
+   - Change: +535,012,705 (152.41%)
+
+2. Market Share Shift:
+   - Public sector: 20.48% -> 10.26% (-10.22%)
+   - Private sector: 79.52% -> 89.74% (+10.22%)
+
+3. Growth Rates:
+   - Average monthly growth rate (Public): 0.18%
+   - Average monthly growth rate (Private): 1.37%
+
+4. Key Correlations:
+   - Correlation between Public and Private telephones: 0.74
+   - Correlation between Public and Private growth rates: 0.60
+
+5. Monthly Patterns:
+   - Best month for public sector growth: March
+   - Best month for private sector growth: May
+
+================================================================================
+                              CONCLUSIONS
+================================================================================
+
+1. Private telephones showed stronger overall growth during the analysis period.
+   - Private growth: 152.41%
+   - Public growth: 12.00%
+
+2. Market share has shifted towards the private sector.
+   - Public sector share change: -10.22%
+   - Private sector share change: +10.22%
+
+3. Average monthly growth was higher in the private sector compared to the public sector.
+
+4. The private sector is growing faster than the public sector, suggesting a shift towards privatization.
+   - This trend indicates increasing competition in the telecommunications industry.
+
+5. Business Implications:
+   - The telecommunications market is showing steady growth overall.
+   - The private sector is gaining market share.
+   - Understanding seasonal patterns can help with strategic marketing and infrastructure planning.

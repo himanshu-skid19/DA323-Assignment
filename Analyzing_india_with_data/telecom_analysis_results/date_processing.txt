@@ -1,0 +1,45 @@
+Month numbers after mapping:
+       Month Month_Name  Month_Num
+0      April      April          4
+1        May        May          5
+2       June       June          6
+3       July       July          7
+4     August     August          8
+5  September  September          9
+6    October    October         10
+7   November   November         11
+8   December   December         12
+9    January    January          1
+
+Month number data type: int64
+
+Date components before datetime conversion:
+   Year_Num  Month_Num
+0      2008          4
+1      2008          5
+2      2008          6
+3      2008          7
+4      2008          8
+5      2008          9
+6      2008         10
+7      2008         11
+8      2008         12
+9      2009          1
+
+Date strings created:
+0     2008-4-01
+1     2008-5-01
+2     2008-6-01
+3     2008-7-01
+4     2008-8-01
+5     2008-9-01
+6    2008-10-01
+7    2008-11-01
+8    2008-12-01
+9     2009-1-01
+
+Date conversion successful!
+
+Date range of the dataset: Apr 2008 to Feb 2014
+
+Successfully processed the dates!

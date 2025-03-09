@@ -1,0 +1,15 @@
+{
+  "station_name": "Radio Samagra",
+  "stream_url": "http://live.itech.host:9389/live",
+  "timestamp": "2025-03-08T21:57:17.891489",
+  "duration": 32,
+  "format": "mp3",
+  "codec": "audio/mpeg",
+  "bitrate": "128",
+  "country": "Unknown",
+  "tags": [
+    "Genre2",
+    "Genre1"
+  ],
+  "homepage": ""
+}

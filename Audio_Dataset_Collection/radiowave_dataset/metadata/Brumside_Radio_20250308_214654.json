@@ -1,0 +1,14 @@
+{
+  "station_name": "Brumside Radio",
+  "stream_url": "http://carol.epichosts.co.uk:8440/live.mp3",
+  "timestamp": "2025-03-08T21:47:56.127846",
+  "duration": 73,
+  "format": "mp3",
+  "codec": "audio/mpeg",
+  "bitrate": "128",
+  "country": "Unknown",
+  "tags": [
+    "Gold"
+  ],
+  "homepage": ""
+}

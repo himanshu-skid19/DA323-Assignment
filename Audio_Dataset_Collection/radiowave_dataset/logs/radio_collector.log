@@ -1,0 +1,542 @@
+2025-03-08 21:33:52,002 - INFO - Building RadioWave dataset with 30 recordings
+2025-03-08 21:33:52,003 - INFO - Fetching 150 radio stations from Radio Browser API
+2025-03-08 21:33:53,588 - ERROR - Error fetching radio stations: HTTPSConnectionPool(host='all.api.radio-browser.info', port=443): Max retries exceeded with url: /json/servers (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'all.api.radio-browser.info'. (_ssl.c:1000)")))
+2025-03-08 21:33:53,588 - INFO - Fetching Icecast directory stations
+2025-03-08 21:34:08,664 - INFO - Successfully retrieved 99 Icecast stations
+2025-03-08 21:34:45,347 - INFO - Found 83 valid stations out of 99
+2025-03-08 21:34:45,349 - INFO - Recording MB STUDIO for 53 seconds to MB_STUDIO_20250308_213445.mp3
+2025-03-08 21:35:37,186 - INFO - Successfully recorded MB STUDIO to MB_STUDIO_20250308_213445.mp3
+2025-03-08 21:35:37,186 - INFO - Recording 1/30 completed
+2025-03-08 21:35:39,187 - INFO - Recording Parlamenti adások (mp3) for 47 seconds to Parlamenti_adások__mp3__20250308_213539.mp3
+2025-03-08 21:36:10,857 - INFO - Successfully recorded Parlamenti adások (mp3) to Parlamenti_adások__mp3__20250308_213539.mp3
+2025-03-08 21:36:10,857 - INFO - Recording 2/30 completed
+2025-03-08 21:36:15,603 - INFO - Recording Dance Wave Retro! for 32 seconds to Dance_Wave_Retro__20250308_213615.mp3
+2025-03-08 21:36:16,803 - ERROR - Failed to record Dance Wave Retro!: ffmpeg version 4.2.2 Copyright (c) 2000-2019 the FFmpeg developers
+  built with gcc 9.2.1 (GCC) 20200122
+  configuration: --disable-static --enable-shared --enable-gpl --enable-version3 --enable-sdl2 --enable-fontconfig --enable-gnutls --enable-iconv --enable-libass --enable-libdav1d --enable-libbluray --enable-libfreetype --enable-libmp3lame --enable-libopencore-amrnb --enable-libopencore-amrwb --enable-libopenjpeg --enable-libopus --enable-libshine --enable-libsnappy --enable-libsoxr --enable-libtheora --enable-libtwolame --enable-libvpx --enable-libwavpack --enable-libwebp --enable-libx264 --enable-libx265 --enable-libxml2 --enable-libzimg --enable-lzma --enable-zlib --enable-gmp --enable-libvidstab --enable-libvorbis --enable-libvo-amrwbenc --enable-libmysofa --enable-libspeex --enable-libxvid --enable-libaom --enable-libmfx --enable-amf --enable-ffnvcodec --enable-cuvid --enable-d3d11va --enable-nvenc --enable-nvdec --enable-dxva2 --enable-avisynth --enable-libopenmpt
+  libavutil      56. 31.100 / 56. 31.100
+  libavcodec     58. 54.100 / 58. 54.100
+  libavformat    58. 29.100 / 58. 29.100
+  libavdevice    58.  8.100 / 58.  8.100
+  libavfilter     7. 57.100 /  7. 57.100
+  libswscale      5.  5.100 /  5.  5.100
+  libswresample   3.  5.100 /  3.  5.100
+  libpostproc    55.  5.100 / 55.  5.100
+Input #0, ogg, from 'http://stream3.dancewave.online:8080/retrodance.ogg':
+  Metadata:
+    icy-index-metadata: 1
+    icy-main-stream-url: https://retro.dancewave.online/retrodance.ogg
+    icy-logo        : https://dancewave.online/dwr_logo.png
+  Duration: N/A, start: 50440.778594, bitrate: 160 kb/s
+    Stream #0:0: Audio: vorbis, 44100 Hz, stereo, fltp, 160 kb/s
+    Metadata:
+      title           : Dance Wave Retro!
+      genre           : 90s Dance
+[mp3 @ 000002737273cc40] Invalid audio stream. Exactly one MP3 audio stream is required.
+Could not write header for output file #0 (incorrect codec parameters ?): Invalid argument
+Stream mapping:
+  Stream #0:0 -> #0:0 (copy)
+    Last message repeated 1 times
+
+2025-03-08 21:36:16,805 - WARNING - Failed to record Dance Wave Retro!, trying next station
+2025-03-08 21:36:18,805 - INFO - Recording Lideranca 103 (Jaguarari-BA) for 32 seconds to Lideranca_103__Jaguarari_BA__20250308_213618.mp3
+2025-03-08 21:36:19,707 - ERROR - Failed to record Lideranca 103 (Jaguarari-BA): ffmpeg version 4.2.2 Copyright (c) 2000-2019 the FFmpeg developers
+  built with gcc 9.2.1 (GCC) 20200122
+  configuration: --disable-static --enable-shared --enable-gpl --enable-version3 --enable-sdl2 --enable-fontconfig --enable-gnutls --enable-iconv --enable-libass --enable-libdav1d --enable-libbluray --enable-libfreetype --enable-libmp3lame --enable-libopencore-amrnb --enable-libopencore-amrwb --enable-libopenjpeg --enable-libopus --enable-libshine --enable-libsnappy --enable-libsoxr --enable-libtheora --enable-libtwolame --enable-libvpx --enable-libwavpack --enable-libwebp --enable-libx264 --enable-libx265 --enable-libxml2 --enable-libzimg --enable-lzma --enable-zlib --enable-gmp --enable-libvidstab --enable-libvorbis --enable-libvo-amrwbenc --enable-libmysofa --enable-libspeex --enable-libxvid --enable-libaom --enable-libmfx --enable-amf --enable-ffnvcodec --enable-cuvid --enable-d3d11va --enable-nvenc --enable-nvdec --enable-dxva2 --enable-avisynth --enable-libopenmpt
+  libavutil      56. 31.100 / 56. 31.100
+  libavcodec     58. 54.100 / 58. 54.100
+  libavformat    58. 29.100 / 58. 29.100
+  libavdevice    58.  8.100 / 58.  8.100
+  libavfilter     7. 57.100 /  7. 57.100
+  libswscale      5.  5.100 /  5.  5.100
+  libswresample   3.  5.100 /  3.  5.100
+  libpostproc    55.  5.100 / 55.  5.100
+http://stm1.glaudiotecnology.uk:7108/stream: Unknown error
+
+2025-03-08 21:36:19,708 - WARNING - Failed to record Lideranca 103 (Jaguarari-BA), trying next station
+2025-03-08 21:36:21,709 - INFO - Recording i-turn Radio for 30 seconds to i_turn_Radio_20250308_213621.mp3
+2025-03-08 21:36:50,585 - INFO - Successfully recorded i-turn Radio to i_turn_Radio_20250308_213621.mp3
+2025-03-08 21:36:50,586 - INFO - Recording 3/30 completed
+2025-03-08 21:36:52,586 - INFO - Recording Retro Country 890 for 88 seconds to Retro_Country_890_20250308_213652.mp3
+2025-03-08 21:38:18,972 - INFO - Successfully recorded Retro Country 890 to Retro_Country_890_20250308_213652.mp3
+2025-03-08 21:38:18,973 - INFO - Recording 4/30 completed
+2025-03-08 21:38:20,973 - INFO - Recording Rockin Rhtym And Blues Radio for 86 seconds to Rockin_Rhtym_And_Blues_Radio_20250308_213820.mp3
+2025-03-08 21:39:16,933 - INFO - Successfully recorded Rockin Rhtym And Blues Radio to Rockin_Rhtym_And_Blues_Radio_20250308_213820.mp3
+2025-03-08 21:39:16,934 - INFO - Recording 5/30 completed
+2025-03-08 21:39:18,935 - INFO - Recording Dodra Brahm Bunga for 60 seconds to Dodra_Brahm_Bunga_20250308_213918.mp3
+2025-03-08 21:40:12,335 - INFO - Successfully recorded Dodra Brahm Bunga to Dodra_Brahm_Bunga_20250308_213918.mp3
+2025-03-08 21:40:12,336 - INFO - Recording 6/30 completed
+2025-03-08 21:40:14,336 - INFO - Recording Online Radio for 83 seconds to Online_Radio_20250308_214014.mp3
+2025-03-08 21:41:34,609 - INFO - Successfully recorded Online Radio to Online_Radio_20250308_214014.mp3
+2025-03-08 21:41:34,610 - INFO - Recording 7/30 completed
+2025-03-08 21:41:36,611 - INFO - Recording Unspecified name for 47 seconds to Unspecified_name_20250308_214136.mp3
+2025-03-08 21:42:20,861 - INFO - Successfully recorded Unspecified name to Unspecified_name_20250308_214136.mp3
+2025-03-08 21:42:20,862 - INFO - Recording 8/30 completed
+2025-03-08 21:42:22,862 - INFO - Recording studio344 for 37 seconds to studio344_20250308_214222.mp3
+2025-03-08 21:42:59,398 - INFO - Successfully recorded studio344 to studio344_20250308_214222.mp3
+2025-03-08 21:42:59,399 - INFO - Recording 9/30 completed
+2025-03-08 21:43:45,307 - INFO - Recording 10/30 completed
+2025-03-08 21:43:47,308 - INFO - Recording VRI (Vox Radio International) for 75 seconds to VRI__Vox_Radio_International__20250308_214347.mp3
+2025-03-08 21:44:58,025 - INFO - Successfully recorded VRI (Vox Radio International) to VRI__Vox_Radio_International__20250308_214347.mp3
+2025-03-08 21:44:58,025 - INFO - Recording 11/30 completed
+2025-03-08 21:45:00,026 - INFO - Recording IJmond Radio for 88 seconds to IJmond_Radio_20250308_214500.mp3
+2025-03-08 21:45:02,736 - ERROR - Failed to record IJmond Radio: ffmpeg version 4.2.2 Copyright (c) 2000-2019 the FFmpeg developers
+  built with gcc 9.2.1 (GCC) 20200122
+  configuration: --disable-static --enable-shared --enable-gpl --enable-version3 --enable-sdl2 --enable-fontconfig --enable-gnutls --enable-iconv --enable-libass --enable-libdav1d --enable-libbluray --enable-libfreetype --enable-libmp3lame --enable-libopencore-amrnb --enable-libopencore-amrwb --enable-libopenjpeg --enable-libopus --enable-libshine --enable-libsnappy --enable-libsoxr --enable-libtheora --enable-libtwolame --enable-libvpx --enable-libwavpack --enable-libwebp --enable-libx264 --enable-libx265 --enable-libxml2 --enable-libzimg --enable-lzma --enable-zlib --enable-gmp --enable-libvidstab --enable-libvorbis --enable-libvo-amrwbenc --enable-libmysofa --enable-libspeex --enable-libxvid --enable-libaom --enable-libmfx --enable-amf --enable-ffnvcodec --enable-cuvid --enable-d3d11va --enable-nvenc --enable-nvdec --enable-dxva2 --enable-avisynth --enable-libopenmpt
+  libavutil      56. 31.100 / 56. 31.100
+  libavcodec     58. 54.100 / 58. 54.100
+  libavformat    58. 29.100 / 58. 29.100
+  libavdevice    58.  8.100 / 58.  8.100
+  libavfilter     7. 57.100 /  7. 57.100
+  libswscale      5.  5.100 /  5.  5.100
+  libswresample   3.  5.100 /  3.  5.100
+  libpostproc    55.  5.100 / 55.  5.100
+Input #0, aac, from 'https://stream.ijmondradio.nl/listen/ijmondradio/ijmondradio.aac':
+  Metadata:
+    icy-br          : 256
+    icy-genre       : Hits
+    icy-name        : IJmond Radio
+    icy-pub         : 1
+    icy-url         : https://www.ijmondradio.nl
+    StreamTitle     : Bob Marley & The Wailers - Could You Be Loved
+  Duration: N/A, bitrate: 241 kb/s
+    Stream #0:0: Audio: aac (LC), 44100 Hz, stereo, fltp, 241 kb/s
+[mp3 @ 000002bd1b9e9a00] Invalid audio stream. Exactly one MP3 audio stream is required.
+Could not write header for output file #0 (incorrect codec parameters ?): Invalid argument
+Stream mapping:
+  Stream #0:0 -> #0:0 (copy)
+    Last message repeated 1 times
+
+2025-03-08 21:45:02,737 - WARNING - Failed to record IJmond Radio, trying next station
+2025-03-08 21:45:04,738 - INFO - Recording SMC Radio for 55 seconds to SMC_Radio_20250308_214504.mp3
+2025-03-08 21:45:06,997 - ERROR - Failed to record SMC Radio: ffmpeg version 4.2.2 Copyright (c) 2000-2019 the FFmpeg developers
+  built with gcc 9.2.1 (GCC) 20200122
+  configuration: --disable-static --enable-shared --enable-gpl --enable-version3 --enable-sdl2 --enable-fontconfig --enable-gnutls --enable-iconv --enable-libass --enable-libdav1d --enable-libbluray --enable-libfreetype --enable-libmp3lame --enable-libopencore-amrnb --enable-libopencore-amrwb --enable-libopenjpeg --enable-libopus --enable-libshine --enable-libsnappy --enable-libsoxr --enable-libtheora --enable-libtwolame --enable-libvpx --enable-libwavpack --enable-libwebp --enable-libx264 --enable-libx265 --enable-libxml2 --enable-libzimg --enable-lzma --enable-zlib --enable-gmp --enable-libvidstab --enable-libvorbis --enable-libvo-amrwbenc --enable-libmysofa --enable-libspeex --enable-libxvid --enable-libaom --enable-libmfx --enable-amf --enable-ffnvcodec --enable-cuvid --enable-d3d11va --enable-nvenc --enable-nvdec --enable-dxva2 --enable-avisynth --enable-libopenmpt
+  libavutil      56. 31.100 / 56. 31.100
+  libavcodec     58. 54.100 / 58. 54.100
+  libavformat    58. 29.100 / 58. 29.100
+  libavdevice    58.  8.100 / 58.  8.100
+  libavfilter     7. 57.100 /  7. 57.100
+  libswscale      5.  5.100 /  5.  5.100
+  libswresample   3.  5.100 /  3.  5.100
+  libpostproc    55.  5.100 / 55.  5.100
+Input #0, aac, from 'https://a2.asurahosting.com/listen/smc_radio/radio.mp3':
+  Metadata:
+    icy-br          : 192
+    icy-genre       : Music
+    icy-name        : Asura 192k
+    icy-pub         : 1
+    icy-url         : https://www.smcradio.it
+    StreamTitle     : UB40 - I Cant Help Falling In Love With You
+  Duration: N/A, bitrate: 198 kb/s
+    Stream #0:0: Audio: aac (LC), 44100 Hz, stereo, fltp, 198 kb/s
+[mp3 @ 00000275ea077140] Invalid audio stream. Exactly one MP3 audio stream is required.
+Could not write header for output file #0 (incorrect codec parameters ?): Invalid argument
+Stream mapping:
+  Stream #0:0 -> #0:0 (copy)
+    Last message repeated 1 times
+
+2025-03-08 21:45:06,999 - WARNING - Failed to record SMC Radio, trying next station
+2025-03-08 21:45:09,000 - INFO - Recording Spot for 43 seconds to Spot_20250308_214509.mp3
+2025-03-08 21:45:45,002 - INFO - Successfully recorded Spot to Spot_20250308_214509.mp3
+2025-03-08 21:45:45,002 - INFO - Recording 12/30 completed
+2025-03-08 21:45:47,004 - INFO - Recording HearMe.fm - Alternative Rock for 85 seconds to HearMe_fm___Alternative_Rock_20250308_214547.mp3
+2025-03-08 21:46:01,936 - ERROR - Failed to record HearMe.fm - Alternative Rock: ffmpeg version 4.2.2 Copyright (c) 2000-2019 the FFmpeg developers
+  built with gcc 9.2.1 (GCC) 20200122
+  configuration: --disable-static --enable-shared --enable-gpl --enable-version3 --enable-sdl2 --enable-fontconfig --enable-gnutls --enable-iconv --enable-libass --enable-libdav1d --enable-libbluray --enable-libfreetype --enable-libmp3lame --enable-libopencore-amrnb --enable-libopencore-amrwb --enable-libopenjpeg --enable-libopus --enable-libshine --enable-libsnappy --enable-libsoxr --enable-libtheora --enable-libtwolame --enable-libvpx --enable-libwavpack --enable-libwebp --enable-libx264 --enable-libx265 --enable-libxml2 --enable-libzimg --enable-lzma --enable-zlib --enable-gmp --enable-libvidstab --enable-libvorbis --enable-libvo-amrwbenc --enable-libmysofa --enable-libspeex --enable-libxvid --enable-libaom --enable-libmfx --enable-amf --enable-ffnvcodec --enable-cuvid --enable-d3d11va --enable-nvenc --enable-nvdec --enable-dxva2 --enable-avisynth --enable-libopenmpt
+  libavutil      56. 31.100 / 56. 31.100
+  libavcodec     58. 54.100 / 58. 54.100
+  libavformat    58. 29.100 / 58. 29.100
+  libavdevice    58.  8.100 / 58.  8.100
+  libavfilter     7. 57.100 /  7. 57.100
+  libswscale      5.  5.100 /  5.  5.100
+  libswresample   3.  5.100 /  3.  5.100
+  libpostproc    55.  5.100 / 55.  5.100
+http://radio.hearme.fm:8520/stream: Unknown error
+
+2025-03-08 21:46:01,937 - WARNING - Failed to record HearMe.fm - Alternative Rock, trying next station
+2025-03-08 21:46:03,937 - INFO - Recording Dance Classics for 45 seconds to Dance_Classics_20250308_214603.mp3
+2025-03-08 21:46:05,478 - ERROR - Failed to record Dance Classics: ffmpeg version 4.2.2 Copyright (c) 2000-2019 the FFmpeg developers
+  built with gcc 9.2.1 (GCC) 20200122
+  configuration: --disable-static --enable-shared --enable-gpl --enable-version3 --enable-sdl2 --enable-fontconfig --enable-gnutls --enable-iconv --enable-libass --enable-libdav1d --enable-libbluray --enable-libfreetype --enable-libmp3lame --enable-libopencore-amrnb --enable-libopencore-amrwb --enable-libopenjpeg --enable-libopus --enable-libshine --enable-libsnappy --enable-libsoxr --enable-libtheora --enable-libtwolame --enable-libvpx --enable-libwavpack --enable-libwebp --enable-libx264 --enable-libx265 --enable-libxml2 --enable-libzimg --enable-lzma --enable-zlib --enable-gmp --enable-libvidstab --enable-libvorbis --enable-libvo-amrwbenc --enable-libmysofa --enable-libspeex --enable-libxvid --enable-libaom --enable-libmfx --enable-amf --enable-ffnvcodec --enable-cuvid --enable-d3d11va --enable-nvenc --enable-nvdec --enable-dxva2 --enable-avisynth --enable-libopenmpt
+  libavutil      56. 31.100 / 56. 31.100
+  libavcodec     58. 54.100 / 58. 54.100
+  libavformat    58. 29.100 / 58. 29.100
+  libavdevice    58.  8.100 / 58.  8.100
+  libavfilter     7. 57.100 /  7. 57.100
+  libswscale      5.  5.100 /  5.  5.100
+  libswresample   3.  5.100 /  3.  5.100
+  libpostproc    55.  5.100 / 55.  5.100
+Input #0, aac, from 'http://stream3.jdsnet.co.uk:8000/danceclassics':
+  Metadata:
+    icy-br          : 192
+    icy-channels    : 2
+    icy-description : The Internet's Number 1 Dance Classics Station
+    icy-genre       : Dance, House
+    icy-name        : Dance Classics
+    icy-pub         : 1
+    icy-samplerate  : 44100
+    icy-url         : https://danceclassics.co.uk
+    StreamTitle     : Sir Mix A Lot - Baby Got Back
+  Duration: N/A, bitrate: 132 kb/s
+    Stream #0:0: Audio: aac (HE-AACv2), 44100 Hz, stereo, fltp, 132 kb/s
+[mp3 @ 000001c40f736200] Invalid audio stream. Exactly one MP3 audio stream is required.
+Could not write header for output file #0 (incorrect codec parameters ?): Invalid argument
+Stream mapping:
+  Stream #0:0 -> #0:0 (copy)
+    Last message repeated 1 times
+
+2025-03-08 21:46:05,479 - WARNING - Failed to record Dance Classics, trying next station
+2025-03-08 21:46:07,480 - INFO - Recording Cafe 80s FM for 49 seconds to Cafe_80s_FM_20250308_214607.mp3
+2025-03-08 21:46:09,077 - ERROR - Failed to record Cafe 80s FM: ffmpeg version 4.2.2 Copyright (c) 2000-2019 the FFmpeg developers
+  built with gcc 9.2.1 (GCC) 20200122
+  configuration: --disable-static --enable-shared --enable-gpl --enable-version3 --enable-sdl2 --enable-fontconfig --enable-gnutls --enable-iconv --enable-libass --enable-libdav1d --enable-libbluray --enable-libfreetype --enable-libmp3lame --enable-libopencore-amrnb --enable-libopencore-amrwb --enable-libopenjpeg --enable-libopus --enable-libshine --enable-libsnappy --enable-libsoxr --enable-libtheora --enable-libtwolame --enable-libvpx --enable-libwavpack --enable-libwebp --enable-libx264 --enable-libx265 --enable-libxml2 --enable-libzimg --enable-lzma --enable-zlib --enable-gmp --enable-libvidstab --enable-libvorbis --enable-libvo-amrwbenc --enable-libmysofa --enable-libspeex --enable-libxvid --enable-libaom --enable-libmfx --enable-amf --enable-ffnvcodec --enable-cuvid --enable-d3d11va --enable-nvenc --enable-nvdec --enable-dxva2 --enable-avisynth --enable-libopenmpt
+  libavutil      56. 31.100 / 56. 31.100
+  libavcodec     58. 54.100 / 58. 54.100
+  libavformat    58. 29.100 / 58. 29.100
+  libavdevice    58.  8.100 / 58.  8.100
+  libavfilter     7. 57.100 /  7. 57.100
+  libswscale      5.  5.100 /  5.  5.100
+  libswresample   3.  5.100 /  3.  5.100
+  libpostproc    55.  5.100 / 55.  5.100
+Input #0, aac, from 'http://cafe80s.eu:8000/mobile.aac':
+  Metadata:
+    icy-br          : 48
+    icy-description : Das erste deutsche 80er Radio. Mit dem Besten der Achtziger, denn wir waren dabei.
+    icy-genre       : 80s
+    icy-name        : Cafe 80s FM
+    icy-pub         : 1
+    icy-url         : www.cafe80s.de
+  Duration: N/A, bitrate: 47 kb/s
+    Stream #0:0: Audio: aac (HE-AAC), 44100 Hz, stereo, fltp, 47 kb/s
+[mp3 @ 00000191f879de80] Invalid audio stream. Exactly one MP3 audio stream is required.
+Could not write header for output file #0 (incorrect codec parameters ?): Invalid argument
+Stream mapping:
+  Stream #0:0 -> #0:0 (copy)
+    Last message repeated 1 times
+
+2025-03-08 21:46:09,078 - WARNING - Failed to record Cafe 80s FM, trying next station
+2025-03-08 21:46:11,079 - INFO - Recording https://stream.valenzuelasistemas.net.ar/rogeliodj/ for 55 seconds to https___stream_valenzuelasistemas_net_ar_rogeliodj__20250308_214611.mp3
+2025-03-08 21:46:13,628 - ERROR - Failed to record https://stream.valenzuelasistemas.net.ar/rogeliodj/: ffmpeg version 4.2.2 Copyright (c) 2000-2019 the FFmpeg developers
+  built with gcc 9.2.1 (GCC) 20200122
+  configuration: --disable-static --enable-shared --enable-gpl --enable-version3 --enable-sdl2 --enable-fontconfig --enable-gnutls --enable-iconv --enable-libass --enable-libdav1d --enable-libbluray --enable-libfreetype --enable-libmp3lame --enable-libopencore-amrnb --enable-libopencore-amrwb --enable-libopenjpeg --enable-libopus --enable-libshine --enable-libsnappy --enable-libsoxr --enable-libtheora --enable-libtwolame --enable-libvpx --enable-libwavpack --enable-libwebp --enable-libx264 --enable-libx265 --enable-libxml2 --enable-libzimg --enable-lzma --enable-zlib --enable-gmp --enable-libvidstab --enable-libvorbis --enable-libvo-amrwbenc --enable-libmysofa --enable-libspeex --enable-libxvid --enable-libaom --enable-libmfx --enable-amf --enable-ffnvcodec --enable-cuvid --enable-d3d11va --enable-nvenc --enable-nvdec --enable-dxva2 --enable-avisynth --enable-libopenmpt
+  libavutil      56. 31.100 / 56. 31.100
+  libavcodec     58. 54.100 / 58. 54.100
+  libavformat    58. 29.100 / 58. 29.100
+  libavdevice    58.  8.100 / 58.  8.100
+  libavfilter     7. 57.100 /  7. 57.100
+  libswscale      5.  5.100 /  5.  5.100
+  libswresample   3.  5.100 /  3.  5.100
+  libpostproc    55.  5.100 / 55.  5.100
+Input #0, aac, from 'http://stream.valenzuelasistemas.net.ar:8000/rogeliodj':
+  Metadata:
+    icy-br          : 32 
+    icy-description : Hi-Fi Internet Audio
+    icy-genre       : Various
+    icy-name        : https://stream.valenzuelasistemas.net.ar/rogeliodj/
+    icy-pub         : 1
+    icy-url         : https://stream.valenzuelasistemas.net.ar/rogeliodj/ 
+  Duration: N/A, bitrate: 31 kb/s
+    Stream #0:0: Audio: aac (HE-AACv2), 44100 Hz, stereo, fltp, 31 kb/s
+[mp3 @ 0000022b0066c000] Invalid audio stream. Exactly one MP3 audio stream is required.
+Could not write header for output file #0 (incorrect codec parameters ?): Invalid argument
+Stream mapping:
+  Stream #0:0 -> #0:0 (copy)
+    Last message repeated 1 times
+
+2025-03-08 21:46:13,629 - WARNING - Failed to record https://stream.valenzuelasistemas.net.ar/rogeliodj/, trying next station
+2025-03-08 21:46:15,630 - INFO - Recording SmoothLounge.com for 67 seconds to SmoothLounge_com_20250308_214615.mp3
+2025-03-08 21:46:52,318 - INFO - Successfully recorded SmoothLounge.com to SmoothLounge_com_20250308_214615.mp3
+2025-03-08 21:46:52,318 - INFO - Recording 13/30 completed
+2025-03-08 21:46:54,319 - INFO - Recording Brumside Radio for 73 seconds to Brumside_Radio_20250308_214654.mp3
+2025-03-08 21:47:56,128 - INFO - Successfully recorded Brumside Radio to Brumside_Radio_20250308_214654.mp3
+2025-03-08 21:47:56,128 - INFO - Recording 14/30 completed
+2025-03-08 21:47:58,129 - INFO - Recording Miteree FM for 72 seconds to Miteree_FM_20250308_214758.mp3
+2025-03-08 21:47:58,698 - ERROR - Failed to record Miteree FM: ffmpeg version 4.2.2 Copyright (c) 2000-2019 the FFmpeg developers
+  built with gcc 9.2.1 (GCC) 20200122
+  configuration: --disable-static --enable-shared --enable-gpl --enable-version3 --enable-sdl2 --enable-fontconfig --enable-gnutls --enable-iconv --enable-libass --enable-libdav1d --enable-libbluray --enable-libfreetype --enable-libmp3lame --enable-libopencore-amrnb --enable-libopencore-amrwb --enable-libopenjpeg --enable-libopus --enable-libshine --enable-libsnappy --enable-libsoxr --enable-libtheora --enable-libtwolame --enable-libvpx --enable-libwavpack --enable-libwebp --enable-libx264 --enable-libx265 --enable-libxml2 --enable-libzimg --enable-lzma --enable-zlib --enable-gmp --enable-libvidstab --enable-libvorbis --enable-libvo-amrwbenc --enable-libmysofa --enable-libspeex --enable-libxvid --enable-libaom --enable-libmfx --enable-amf --enable-ffnvcodec --enable-cuvid --enable-d3d11va --enable-nvenc --enable-nvdec --enable-dxva2 --enable-avisynth --enable-libopenmpt
+  libavutil      56. 31.100 / 56. 31.100
+  libavcodec     58. 54.100 / 58. 54.100
+  libavformat    58. 29.100 / 58. 29.100
+  libavdevice    58.  8.100 / 58.  8.100
+  libavfilter     7. 57.100 /  7. 57.100
+  libswscale      5.  5.100 /  5.  5.100
+  libswresample   3.  5.100 /  3.  5.100
+  libpostproc    55.  5.100 / 55.  5.100
+[http @ 00000230922225c0] HTTP error 404 Not Available
+http://live.itech.host:2700/live: Server returned 404 Not Found
+
+2025-03-08 21:47:58,699 - WARNING - Failed to record Miteree FM, trying next station
+2025-03-08 21:48:00,700 - INFO - Recording Stockholm FM 88.0 MHz Sweden - webbradio@narradio.se - community affairs & culture mp3 P R O for 50 seconds to Stockholm_FM_88_0_MHz_Sweden___webbradio_narradio_se___community_affairs___culture_mp3_P_R_O_20250308_214800.mp3
+2025-03-08 21:48:44,553 - INFO - Successfully recorded Stockholm FM 88.0 MHz Sweden - webbradio@narradio.se - community affairs & culture mp3 P R O to Stockholm_FM_88_0_MHz_Sweden___webbradio_narradio_se___community_affairs___culture_mp3_P_R_O_20250308_214800.mp3
+2025-03-08 21:48:44,554 - INFO - Recording 15/30 completed
+2025-03-08 21:48:46,555 - INFO - Recording .113FM Alt-X for 42 seconds to _113FM_Alt_X_20250308_214846.mp3
+2025-03-08 21:48:58,132 - INFO - Successfully recorded .113FM Alt-X to _113FM_Alt_X_20250308_214846.mp3
+2025-03-08 21:48:58,134 - INFO - Recording 16/30 completed
+2025-03-08 21:49:00,135 - INFO - Recording Radio Dancefloor - 90's for 57 seconds to Radio_Dancefloor___90_s_20250308_214900.mp3
+2025-03-08 21:49:54,841 - INFO - Successfully recorded Radio Dancefloor - 90's to Radio_Dancefloor___90_s_20250308_214900.mp3
+2025-03-08 21:49:54,842 - INFO - Recording 17/30 completed
+2025-03-08 21:49:56,843 - INFO - Recording Radio Oldtimer for 51 seconds to Radio_Oldtimer_20250308_214956.mp3
+2025-03-08 21:50:40,722 - INFO - Successfully recorded Radio Oldtimer to Radio_Oldtimer_20250308_214956.mp3
+2025-03-08 21:50:40,723 - INFO - Recording 18/30 completed
+2025-03-08 21:50:42,723 - INFO - Recording Radio Kamchatka Live Dance for 35 seconds to Radio_Kamchatka_Live_Dance_20250308_215042.mp3
+2025-03-08 21:50:45,077 - ERROR - Failed to record Radio Kamchatka Live Dance: ffmpeg version 4.2.2 Copyright (c) 2000-2019 the FFmpeg developers
+  built with gcc 9.2.1 (GCC) 20200122
+  configuration: --disable-static --enable-shared --enable-gpl --enable-version3 --enable-sdl2 --enable-fontconfig --enable-gnutls --enable-iconv --enable-libass --enable-libdav1d --enable-libbluray --enable-libfreetype --enable-libmp3lame --enable-libopencore-amrnb --enable-libopencore-amrwb --enable-libopenjpeg --enable-libopus --enable-libshine --enable-libsnappy --enable-libsoxr --enable-libtheora --enable-libtwolame --enable-libvpx --enable-libwavpack --enable-libwebp --enable-libx264 --enable-libx265 --enable-libxml2 --enable-libzimg --enable-lzma --enable-zlib --enable-gmp --enable-libvidstab --enable-libvorbis --enable-libvo-amrwbenc --enable-libmysofa --enable-libspeex --enable-libxvid --enable-libaom --enable-libmfx --enable-amf --enable-ffnvcodec --enable-cuvid --enable-d3d11va --enable-nvenc --enable-nvdec --enable-dxva2 --enable-avisynth --enable-libopenmpt
+  libavutil      56. 31.100 / 56. 31.100
+  libavcodec     58. 54.100 / 58. 54.100
+  libavformat    58. 29.100 / 58. 29.100
+  libavdevice    58.  8.100 / 58.  8.100
+  libavfilter     7. 57.100 /  7. 57.100
+  libswscale      5.  5.100 /  5.  5.100
+  libswresample   3.  5.100 /  3.  5.100
+  libpostproc    55.  5.100 / 55.  5.100
+Input #0, aac, from 'http://home.kamchatkalive.ru:8000/nonstop-dance':
+  Metadata:
+    icy-br          : 160
+    icy-genre       : Dance
+    icy-name        : Radio Kamchatka Live Dance
+    icy-pub         : 0
+    icy-url         : http://kamchatkalive.ru
+    StreamTitle     : Christina Monoxrom - Bad trip 125
+  Duration: N/A, bitrate: 159 kb/s
+    Stream #0:0: Audio: aac (LC), 44100 Hz, stereo, fltp, 159 kb/s
+[mp3 @ 0000016c0b65c4c0] Invalid audio stream. Exactly one MP3 audio stream is required.
+Could not write header for output file #0 (incorrect codec parameters ?): Invalid argument
+Stream mapping:
+  Stream #0:0 -> #0:0 (copy)
+    Last message repeated 1 times
+
+2025-03-08 21:50:45,078 - WARNING - Failed to record Radio Kamchatka Live Dance, trying next station
+2025-03-08 21:50:47,079 - INFO - Recording Mix FM 87.9, Wellington, New Zealand for 56 seconds to Mix_FM_87_9__Wellington__New_Zealand_20250308_215047.mp3
+2025-03-08 21:50:50,330 - ERROR - Failed to record Mix FM 87.9, Wellington, New Zealand: ffmpeg version 4.2.2 Copyright (c) 2000-2019 the FFmpeg developers
+  built with gcc 9.2.1 (GCC) 20200122
+  configuration: --disable-static --enable-shared --enable-gpl --enable-version3 --enable-sdl2 --enable-fontconfig --enable-gnutls --enable-iconv --enable-libass --enable-libdav1d --enable-libbluray --enable-libfreetype --enable-libmp3lame --enable-libopencore-amrnb --enable-libopencore-amrwb --enable-libopenjpeg --enable-libopus --enable-libshine --enable-libsnappy --enable-libsoxr --enable-libtheora --enable-libtwolame --enable-libvpx --enable-libwavpack --enable-libwebp --enable-libx264 --enable-libx265 --enable-libxml2 --enable-libzimg --enable-lzma --enable-zlib --enable-gmp --enable-libvidstab --enable-libvorbis --enable-libvo-amrwbenc --enable-libmysofa --enable-libspeex --enable-libxvid --enable-libaom --enable-libmfx --enable-amf --enable-ffnvcodec --enable-cuvid --enable-d3d11va --enable-nvenc --enable-nvdec --enable-dxva2 --enable-avisynth --enable-libopenmpt
+  libavutil      56. 31.100 / 56. 31.100
+  libavcodec     58. 54.100 / 58. 54.100
+  libavformat    58. 29.100 / 58. 29.100
+  libavdevice    58.  8.100 / 58.  8.100
+  libavfilter     7. 57.100 /  7. 57.100
+  libswscale      5.  5.100 /  5.  5.100
+  libswresample   3.  5.100 /  3.  5.100
+  libpostproc    55.  5.100 / 55.  5.100
+[http @ 0000016712cc25c0] HTTP error 401 Authentication Required
+http://stream.mixfm.nz:8000/mixfm: Server returned 401 Unauthorized (authorization failed)
+
+2025-03-08 21:50:50,331 - WARNING - Failed to record Mix FM 87.9, Wellington, New Zealand, trying next station
+2025-03-08 21:50:52,332 - INFO - Recording POWERHITZ.COM - GLORY 107 for 44 seconds to POWERHITZ_COM___GLORY_107_20250308_215052.mp3
+2025-03-08 21:51:06,332 - INFO - Successfully recorded POWERHITZ.COM - GLORY 107 to POWERHITZ_COM___GLORY_107_20250308_215052.mp3
+2025-03-08 21:51:06,332 - INFO - Recording 19/30 completed
+2025-03-08 21:51:08,333 - INFO - Recording Super FM for 40 seconds to Super_FM_20250308_215108.mp3
+2025-03-08 21:51:12,363 - ERROR - Failed to record Super FM: ffmpeg version 4.2.2 Copyright (c) 2000-2019 the FFmpeg developers
+  built with gcc 9.2.1 (GCC) 20200122
+  configuration: --disable-static --enable-shared --enable-gpl --enable-version3 --enable-sdl2 --enable-fontconfig --enable-gnutls --enable-iconv --enable-libass --enable-libdav1d --enable-libbluray --enable-libfreetype --enable-libmp3lame --enable-libopencore-amrnb --enable-libopencore-amrwb --enable-libopenjpeg --enable-libopus --enable-libshine --enable-libsnappy --enable-libsoxr --enable-libtheora --enable-libtwolame --enable-libvpx --enable-libwavpack --enable-libwebp --enable-libx264 --enable-libx265 --enable-libxml2 --enable-libzimg --enable-lzma --enable-zlib --enable-gmp --enable-libvidstab --enable-libvorbis --enable-libvo-amrwbenc --enable-libmysofa --enable-libspeex --enable-libxvid --enable-libaom --enable-libmfx --enable-amf --enable-ffnvcodec --enable-cuvid --enable-d3d11va --enable-nvenc --enable-nvdec --enable-dxva2 --enable-avisynth --enable-libopenmpt
+  libavutil      56. 31.100 / 56. 31.100
+  libavcodec     58. 54.100 / 58. 54.100
+  libavformat    58. 29.100 / 58. 29.100
+  libavdevice    58.  8.100 / 58.  8.100
+  libavfilter     7. 57.100 /  7. 57.100
+  libswscale      5.  5.100 /  5.  5.100
+  libswresample   3.  5.100 /  3.  5.100
+  libpostproc    55.  5.100 / 55.  5.100
+Input #0, aac, from 'http://radio.viaflux.com:1530/radio.aac':
+  Metadata:
+    icy-br          : 24
+    icy-description : Viaflux Encoder (www.viaflux.com)
+    icy-genre       : Pop
+    icy-name        : Super FM
+    icy-pub         : 1
+    icy-url         : http://www.viaflux.com
+  Duration: N/A, bitrate: 23 kb/s
+    Stream #0:0: Audio: aac (HE-AACv2), 44100 Hz, stereo, fltp, 23 kb/s
+[mp3 @ 00000227dd349140] Invalid audio stream. Exactly one MP3 audio stream is required.
+Could not write header for output file #0 (incorrect codec parameters ?): Invalid argument
+Stream mapping:
+  Stream #0:0 -> #0:0 (copy)
+    Last message repeated 1 times
+
+2025-03-08 21:51:12,364 - WARNING - Failed to record Super FM, trying next station
+2025-03-08 21:51:14,365 - INFO - Recording Omaha, Nebraska Weather Radio for 89 seconds to Omaha__Nebraska_Weather_Radio_20250308_215114.mp3
+2025-03-08 21:52:37,463 - INFO - Successfully recorded Omaha, Nebraska Weather Radio to Omaha__Nebraska_Weather_Radio_20250308_215114.mp3
+2025-03-08 21:52:37,463 - INFO - Recording 20/30 completed
+2025-03-08 21:52:39,464 - INFO - Recording Mandelieu international for 75 seconds to Mandelieu_international_20250308_215239.mp3
+2025-03-08 21:53:54,828 - INFO - Successfully recorded Mandelieu international to Mandelieu_international_20250308_215239.mp3
+2025-03-08 21:53:54,828 - INFO - Recording 21/30 completed
+2025-03-08 21:53:56,829 - INFO - Recording RadioCaster Stream for 83 seconds to RadioCaster_Stream_20250308_215356.mp3
+2025-03-08 21:55:16,448 - INFO - Successfully recorded RadioCaster Stream to RadioCaster_Stream_20250308_215356.mp3
+2025-03-08 21:55:16,449 - INFO - Recording 22/30 completed
+2025-03-08 21:55:18,450 - INFO - Recording Radio 2ME for 84 seconds to Radio_2ME_20250308_215518.mp3
+2025-03-08 21:55:19,818 - ERROR - Failed to record Radio 2ME: ffmpeg version 4.2.2 Copyright (c) 2000-2019 the FFmpeg developers
+  built with gcc 9.2.1 (GCC) 20200122
+  configuration: --disable-static --enable-shared --enable-gpl --enable-version3 --enable-sdl2 --enable-fontconfig --enable-gnutls --enable-iconv --enable-libass --enable-libdav1d --enable-libbluray --enable-libfreetype --enable-libmp3lame --enable-libopencore-amrnb --enable-libopencore-amrwb --enable-libopenjpeg --enable-libopus --enable-libshine --enable-libsnappy --enable-libsoxr --enable-libtheora --enable-libtwolame --enable-libvpx --enable-libwavpack --enable-libwebp --enable-libx264 --enable-libx265 --enable-libxml2 --enable-libzimg --enable-lzma --enable-zlib --enable-gmp --enable-libvidstab --enable-libvorbis --enable-libvo-amrwbenc --enable-libmysofa --enable-libspeex --enable-libxvid --enable-libaom --enable-libmfx --enable-amf --enable-ffnvcodec --enable-cuvid --enable-d3d11va --enable-nvenc --enable-nvdec --enable-dxva2 --enable-avisynth --enable-libopenmpt
+  libavutil      56. 31.100 / 56. 31.100
+  libavcodec     58. 54.100 / 58. 54.100
+  libavformat    58. 29.100 / 58. 29.100
+  libavdevice    58.  8.100 / 58.  8.100
+  libavfilter     7. 57.100 /  7. 57.100
+  libswscale      5.  5.100 /  5.  5.100
+  libswresample   3.  5.100 /  3.  5.100
+  libpostproc    55.  5.100 / 55.  5.100
+Input #0, aac, from 'http://streaming.2me.com.au:80/2me':
+  Metadata:
+    icy-br          : 64
+    icy-description : Radio 2ME
+    icy-name        : Radio 2ME
+    icy-pub         : 1
+    icy-url         : http://www.2me.com.au
+    StreamTitle     : Wadi El Safi - Natrik Sahran
+  Duration: N/A, bitrate: 61 kb/s
+    Stream #0:0: Audio: aac (HE-AAC), 48000 Hz, stereo, fltp, 61 kb/s
+[mp3 @ 0000021a54edd7c0] Invalid audio stream. Exactly one MP3 audio stream is required.
+Could not write header for output file #0 (incorrect codec parameters ?): Invalid argument
+Stream mapping:
+  Stream #0:0 -> #0:0 (copy)
+    Last message repeated 1 times
+
+2025-03-08 21:55:19,819 - WARNING - Failed to record Radio 2ME, trying next station
+2025-03-08 21:55:21,820 - INFO - Recording CARLA RADIO for 67 seconds to CARLA_RADIO_20250308_215521.mp3
+2025-03-08 21:56:28,621 - INFO - Successfully recorded CARLA RADIO to CARLA_RADIO_20250308_215521.mp3
+2025-03-08 21:56:28,621 - INFO - Recording 23/30 completed
+2025-03-08 21:56:30,623 - INFO - Recording Online Radio for 35 seconds to Online_Radio_20250308_215630.mp3
+2025-03-08 21:56:58,905 - INFO - Successfully recorded Online Radio to Online_Radio_20250308_215630.mp3
+2025-03-08 21:56:58,905 - INFO - Recording 24/30 completed
+2025-03-08 21:57:00,906 - INFO - Recording Radio Samagra for 32 seconds to Radio_Samagra_20250308_215700.mp3
+2025-03-08 21:57:17,892 - INFO - Successfully recorded Radio Samagra to Radio_Samagra_20250308_215700.mp3
+2025-03-08 21:57:17,892 - INFO - Recording 25/30 completed
+2025-03-08 21:57:19,893 - INFO - Recording La Ley 106.3 for 81 seconds to La_Ley_106_3_20250308_215719.mp3
+2025-03-08 21:58:33,695 - INFO - Successfully recorded La Ley 106.3 to La_Ley_106_3_20250308_215719.mp3
+2025-03-08 21:58:33,696 - INFO - Recording 26/30 completed
+2025-03-08 21:58:35,696 - INFO - Recording Rádió Groove for 61 seconds to Rádió_Groove_20250308_215835.mp3
+2025-03-08 21:59:29,531 - INFO - Successfully recorded Rádió Groove to Rádió_Groove_20250308_215835.mp3
+2025-03-08 21:59:29,532 - INFO - Recording 27/30 completed
+2025-03-08 21:59:31,532 - INFO - Recording Unspecified name for 88 seconds to Unspecified_name_20250308_215931.mp3
+2025-03-08 21:59:33,185 - ERROR - Failed to record Unspecified name: ffmpeg version 4.2.2 Copyright (c) 2000-2019 the FFmpeg developers
+  built with gcc 9.2.1 (GCC) 20200122
+  configuration: --disable-static --enable-shared --enable-gpl --enable-version3 --enable-sdl2 --enable-fontconfig --enable-gnutls --enable-iconv --enable-libass --enable-libdav1d --enable-libbluray --enable-libfreetype --enable-libmp3lame --enable-libopencore-amrnb --enable-libopencore-amrwb --enable-libopenjpeg --enable-libopus --enable-libshine --enable-libsnappy --enable-libsoxr --enable-libtheora --enable-libtwolame --enable-libvpx --enable-libwavpack --enable-libwebp --enable-libx264 --enable-libx265 --enable-libxml2 --enable-libzimg --enable-lzma --enable-zlib --enable-gmp --enable-libvidstab --enable-libvorbis --enable-libvo-amrwbenc --enable-libmysofa --enable-libspeex --enable-libxvid --enable-libaom --enable-libmfx --enable-amf --enable-ffnvcodec --enable-cuvid --enable-d3d11va --enable-nvenc --enable-nvdec --enable-dxva2 --enable-avisynth --enable-libopenmpt
+  libavutil      56. 31.100 / 56. 31.100
+  libavcodec     58. 54.100 / 58. 54.100
+  libavformat    58. 29.100 / 58. 29.100
+  libavdevice    58.  8.100 / 58.  8.100
+  libavfilter     7. 57.100 /  7. 57.100
+  libswscale      5.  5.100 /  5.  5.100
+  libswresample   3.  5.100 /  3.  5.100
+  libpostproc    55.  5.100 / 55.  5.100
+Input #0, aac, from 'http://s1.citrus3.com:18060/stream':
+  Metadata:
+    icy-br          : 128
+    icy-pub         : 1
+    StreamTitle     : Laura Leighe - Howlin' at the Moon by Swanky
+  Duration: N/A, bitrate: 125 kb/s
+    Stream #0:0: Audio: aac (LC), 44100 Hz, stereo, fltp, 125 kb/s
+[mp3 @ 0000022332b3c700] Invalid audio stream. Exactly one MP3 audio stream is required.
+Could not write header for output file #0 (incorrect codec parameters ?): Invalid argument
+Stream mapping:
+  Stream #0:0 -> #0:0 (copy)
+    Last message repeated 1 times
+
+2025-03-08 21:59:33,186 - WARNING - Failed to record Unspecified name, trying next station
+2025-03-08 21:59:35,187 - INFO - Recording OOo EKO DES GARRIGUES oOO Live from Montpellier [f] [96] [ogg] for 65 seconds to OOo_EKO_DES_GARRIGUES_oOO_Live_from_Montpellier__f___96___ogg__20250308_215935.mp3
+2025-03-08 21:59:36,439 - ERROR - Failed to record OOo EKO DES GARRIGUES oOO Live from Montpellier [f] [96] [ogg]: ffmpeg version 4.2.2 Copyright (c) 2000-2019 the FFmpeg developers
+  built with gcc 9.2.1 (GCC) 20200122
+  configuration: --disable-static --enable-shared --enable-gpl --enable-version3 --enable-sdl2 --enable-fontconfig --enable-gnutls --enable-iconv --enable-libass --enable-libdav1d --enable-libbluray --enable-libfreetype --enable-libmp3lame --enable-libopencore-amrnb --enable-libopencore-amrwb --enable-libopenjpeg --enable-libopus --enable-libshine --enable-libsnappy --enable-libsoxr --enable-libtheora --enable-libtwolame --enable-libvpx --enable-libwavpack --enable-libwebp --enable-libx264 --enable-libx265 --enable-libxml2 --enable-libzimg --enable-lzma --enable-zlib --enable-gmp --enable-libvidstab --enable-libvorbis --enable-libvo-amrwbenc --enable-libmysofa --enable-libspeex --enable-libxvid --enable-libaom --enable-libmfx --enable-amf --enable-ffnvcodec --enable-cuvid --enable-d3d11va --enable-nvenc --enable-nvdec --enable-dxva2 --enable-avisynth --enable-libopenmpt
+  libavutil      56. 31.100 / 56. 31.100
+  libavcodec     58. 54.100 / 58. 54.100
+  libavformat    58. 29.100 / 58. 29.100
+  libavdevice    58.  8.100 / 58.  8.100
+  libavfilter     7. 57.100 /  7. 57.100
+  libswscale      5.  5.100 /  5.  5.100
+  libswresample   3.  5.100 /  3.  5.100
+  libpostproc    55.  5.100 / 55.  5.100
+Input #0, ogg, from 'http://91.121.159.124:8000/eko-des-garrigues-96k.ogg':
+  Metadata:
+    icy-br          : 96
+    icy-description : L'unique alternative aux radios soupes depuis 1977
+    icy-genre       : Electronica Alternative Techno
+    icy-name        : OOo EKO DES GARRIGUES oOO Live from Montpellier [f] [96] [ogg]
+    icy-pub         : 1
+    icy-url         : http://www.ekodesgarrigues.com
+  Duration: N/A, start: 196.693333, bitrate: 96 kb/s
+    Stream #0:0: Audio: vorbis, 44100 Hz, stereo, fltp, 96 kb/s
+    Metadata:
+      title           : En ce moment : Somatic Responses 
+      server          : Icecast 2.3.2
+[mp3 @ 000001dd356d9f40] Invalid audio stream. Exactly one MP3 audio stream is required.
+Could not write header for output file #0 (incorrect codec parameters ?): Invalid argument
+Stream mapping:
+  Stream #0:0 -> #0:0 (copy)
+    Last message repeated 1 times
+
+2025-03-08 21:59:36,440 - WARNING - Failed to record OOo EKO DES GARRIGUES oOO Live from Montpellier [f] [96] [ogg], trying next station
+2025-03-08 21:59:38,441 - INFO - Recording STREAM 10380 for 76 seconds to STREAM_10380_20250308_215938.mp3
+2025-03-08 22:00:44,446 - INFO - Successfully recorded STREAM 10380 to STREAM_10380_20250308_215938.mp3
+2025-03-08 22:00:44,446 - INFO - Recording 28/30 completed
+2025-03-08 22:00:46,448 - INFO - Recording Mogul Jazz Radio for 61 seconds to Mogul_Jazz_Radio_20250308_220046.mp3
+2025-03-08 22:01:37,235 - INFO - Successfully recorded Mogul Jazz Radio to Mogul_Jazz_Radio_20250308_220046.mp3
+2025-03-08 22:01:37,235 - INFO - Recording 29/30 completed
+2025-03-08 22:01:39,236 - INFO - Recording 1Radio.mk - Oldies for 55 seconds to 1Radio_mk___Oldies_20250308_220139.mp3
+2025-03-08 22:01:40,226 - ERROR - Failed to record 1Radio.mk - Oldies: ffmpeg version 4.2.2 Copyright (c) 2000-2019 the FFmpeg developers
+  built with gcc 9.2.1 (GCC) 20200122
+  configuration: --disable-static --enable-shared --enable-gpl --enable-version3 --enable-sdl2 --enable-fontconfig --enable-gnutls --enable-iconv --enable-libass --enable-libdav1d --enable-libbluray --enable-libfreetype --enable-libmp3lame --enable-libopencore-amrnb --enable-libopencore-amrwb --enable-libopenjpeg --enable-libopus --enable-libshine --enable-libsnappy --enable-libsoxr --enable-libtheora --enable-libtwolame --enable-libvpx --enable-libwavpack --enable-libwebp --enable-libx264 --enable-libx265 --enable-libxml2 --enable-libzimg --enable-lzma --enable-zlib --enable-gmp --enable-libvidstab --enable-libvorbis --enable-libvo-amrwbenc --enable-libmysofa --enable-libspeex --enable-libxvid --enable-libaom --enable-libmfx --enable-amf --enable-ffnvcodec --enable-cuvid --enable-d3d11va --enable-nvenc --enable-nvdec --enable-dxva2 --enable-avisynth --enable-libopenmpt
+  libavutil      56. 31.100 / 56. 31.100
+  libavcodec     58. 54.100 / 58. 54.100
+  libavformat    58. 29.100 / 58. 29.100
+  libavdevice    58.  8.100 / 58.  8.100
+  libavfilter     7. 57.100 /  7. 57.100
+  libswscale      5.  5.100 /  5.  5.100
+  libswresample   3.  5.100 /  3.  5.100
+  libpostproc    55.  5.100 / 55.  5.100
+Input #0, aac, from 'http://ais-edge65-lon01.cdnstream.com:80/1radio_oldies_64?fromyp=true':
+  Metadata:
+    icy-br          : 64
+    icy-pub         : 
+    icy-description : 1Radio.mk - Oldies
+    icy-url         : http://1radio.mk
+    icy-genre       : Oldies
+    icy-name        : 1Radio.mk - Oldies
+    StreamTitle     : The Beatles - 12 Bar Original (Unedited Take 2) (Turn Me On Deadman (CD1) / 1963)
+    StreamUrl       : &artist=The%20Beatles&title=12%20Bar%20Original%20%28Unedited%20Take%202%29&album=Turn%20Me%20On%20Deadman%20%28CD1%29&duration=405000&songtype=S&overlay=&buycd=&website=&picture=
+  Duration: N/A, bitrate: 75 kb/s
+    Stream #0:0: Audio: aac (HE-AAC), 44100 Hz, stereo, fltp, 75 kb/s
+[mp3 @ 000001d59caed2c0] Invalid audio stream. Exactly one MP3 audio stream is required.
+Could not write header for output file #0 (incorrect codec parameters ?): Invalid argument
+Stream mapping:
+  Stream #0:0 -> #0:0 (copy)
+    Last message repeated 1 times
+
+2025-03-08 22:01:40,227 - WARNING - Failed to record 1Radio.mk - Oldies, trying next station
+2025-03-08 22:01:42,229 - INFO - Recording Radyo Natin Calauag for 75 seconds to Radyo_Natin_Calauag_20250308_220142.mp3
+2025-03-08 22:01:44,768 - ERROR - Failed to record Radyo Natin Calauag: ffmpeg version 4.2.2 Copyright (c) 2000-2019 the FFmpeg developers
+  built with gcc 9.2.1 (GCC) 20200122
+  configuration: --disable-static --enable-shared --enable-gpl --enable-version3 --enable-sdl2 --enable-fontconfig --enable-gnutls --enable-iconv --enable-libass --enable-libdav1d --enable-libbluray --enable-libfreetype --enable-libmp3lame --enable-libopencore-amrnb --enable-libopencore-amrwb --enable-libopenjpeg --enable-libopus --enable-libshine --enable-libsnappy --enable-libsoxr --enable-libtheora --enable-libtwolame --enable-libvpx --enable-libwavpack --enable-libwebp --enable-libx264 --enable-libx265 --enable-libxml2 --enable-libzimg --enable-lzma --enable-zlib --enable-gmp --enable-libvidstab --enable-libvorbis --enable-libvo-amrwbenc --enable-libmysofa --enable-libspeex --enable-libxvid --enable-libaom --enable-libmfx --enable-amf --enable-ffnvcodec --enable-cuvid --enable-d3d11va --enable-nvenc --enable-nvdec --enable-dxva2 --enable-avisynth --enable-libopenmpt
+  libavutil      56. 31.100 / 56. 31.100
+  libavcodec     58. 54.100 / 58. 54.100
+  libavformat    58. 29.100 / 58. 29.100
+  libavdevice    58.  8.100 / 58.  8.100
+  libavfilter     7. 57.100 /  7. 57.100
+  libswscale      5.  5.100 /  5.  5.100
+  libswresample   3.  5.100 /  3.  5.100
+  libpostproc    55.  5.100 / 55.  5.100
+Input #0, aac, from 'https://audio.amfm.link/listen/radyonatincalauag/calauag':
+  Metadata:
+    icy-br          : 64
+    icy-description : 100.9 Radyo Natin FM - Calauag, Quezon, Philippines
+    icy-genre       : News, Talk, Music, Tagalog, Filipino, Pinoy, Quezon
+    icy-name        : Radyo Natin Calauag
+    icy-pub         : 1
+    icy-url         : https://radyonatinfm.com/calauag
+    StreamTitle     : Radyo Natin - Your Friend, Your Radio!
+  Duration: N/A, bitrate: 59 kb/s
+    Stream #0:0: Audio: aac (HE-AACv2), 44100 Hz, stereo, fltp, 59 kb/s
+[mp3 @ 0000023daa439340] Invalid audio stream. Exactly one MP3 audio stream is required.
+Could not write header for output file #0 (incorrect codec parameters ?): Invalid argument
+Stream mapping:
+  Stream #0:0 -> #0:0 (copy)
+    Last message repeated 1 times
+
+2025-03-08 22:01:44,769 - WARNING - Failed to record Radyo Natin Calauag, trying next station
+2025-03-08 22:01:46,770 - INFO - Recording Radio Extremix for 60 seconds to Radio_Extremix_20250308_220146.mp3
+2025-03-08 22:02:44,374 - INFO - Successfully recorded Radio Extremix to Radio_Extremix_20250308_220146.mp3
+2025-03-08 22:02:44,374 - INFO - Recording 30/30 completed
+2025-03-08 22:02:46,376 - INFO - Completed dataset with 30 recordings
+2025-03-08 22:02:46,378 - INFO - Successfully created RadioWave dataset with 30 recordings
+2025-03-08 22:02:46,378 - INFO - Dataset is stored in C:\Users\himan\Desktop\mmdp\DA323-Assignment\radiowave_dataset

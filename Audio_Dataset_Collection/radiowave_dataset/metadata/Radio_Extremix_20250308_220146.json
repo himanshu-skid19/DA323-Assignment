@@ -1,0 +1,14 @@
+{
+  "station_name": "Radio Extremix",
+  "stream_url": "http://srv.webradiomanager.fr:1270/stream",
+  "timestamp": "2025-03-08T22:02:44.373856",
+  "duration": 60,
+  "format": "mp3",
+  "codec": "audio/mpeg",
+  "bitrate": "320",
+  "country": "Unknown",
+  "tags": [
+    "various"
+  ],
+  "homepage": ""
+}
