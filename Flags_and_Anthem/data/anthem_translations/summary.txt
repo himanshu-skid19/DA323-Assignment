@@ -1,0 +1,160 @@
+National Anthem Translations Summary
+==================================
+
+Total anthems scraped: 154
+
+Countries with translations:
+- Algeria (dz): 17 verses
+- Andorra (ad): 16 verses
+- Angola (ao): 18 verses
+- Argentina (ar): 17 verses
+- Armenia (am): 19 verses
+- Australia (au): 5 verses
+- Azerbaijan (az): 13 verses
+- Bahamas (bs): 1 verses
+- Bahrain (bh): 14 verses
+- Bangladesh (bd): 15 verses
+- Belarus (by): 23 verses
+- Belgium (be): 22 verses
+- Benin (bj): 15 verses
+- Bolivia (bo): 15 verses
+- Bosnia and Herzegovina (ba): 4 verses
+- Botswana (bw): 16 verses
+- Brazil (br): 20 verses
+- Bulgaria (bg): 17 verses
+- Burkina Faso (bf): 16 verses
+- Burundi (bi): 17 verses
+- Cameroon (cm): 16 verses
+- Cape Verde (cv): 15 verses
+- Central African Republic (cf): 15 verses
+- Chad (td): 16 verses
+- Chile (cl): 20 verses
+- China (cn): 19 verses
+- Colombia (co): 14 verses
+- Comoros (km): 14 verses
+- Costa Rica (cr): 19 verses
+- Croatia (hr): 16 verses
+- Cyprus (cy): 4 verses
+- Czech Republic (cz): 16 verses
+- Djibouti (dj): 13 verses
+- Dominican Republic (do): 17 verses
+- East Timor (tl): 16 verses
+- Ecuador (ec): 15 verses
+- Egypt (eg): 19 verses
+- El Salvador (sv): 16 verses
+- Equatorial Guinea (gq): 14 verses
+- Eritrea (er): 15 verses
+- Estonia (ee): 19 verses
+- Eswatini (sz): 1 verses
+- Ethiopia (et): 14 verses
+- Fiji (fj): 16 verses
+- Finland (fi): 22 verses
+- France (fr): 23 verses
+- Gabon (ga): 12 verses
+- Gambia (gm): 1 verses
+- Ghana (gh): 2 verses
+- Greece (gr): 3 verses
+- Grenada (gd): 2 verses
+- Guatemala (gt): 20 verses
+- Guinea-Bissau (gw): 13 verses
+- Haiti (ht): 12 verses
+- Honduras (hn): 16 verses
+- Hungary (hu): 16 verses
+- Iceland (is): 4 verses
+- India (in): 18 verses
+- Iran (ir): 17 verses
+- Ireland (ie): 4 verses
+- Israel (il): 23 verses
+- Italy (it): 21 verses
+- Ivory Coast (ci): 16 verses
+- Japan (jp): 22 verses
+- Jordan (jo): 19 verses
+- Kazakhstan (kz): 20 verses
+- Kenya (ke): 3 verses
+- Kiribati (ki): 15 verses
+- Kuwait (kw): 22 verses
+- Kyrgyzstan (kg): 16 verses
+- Laos (la): 20 verses
+- Lebanon (lb): 20 verses
+- Lesotho (ls): 17 verses
+- Libya (ly): 22 verses
+- Lithuania (lt): 18 verses
+- Luxembourg (lu): 14 verses
+- Madagascar (mg): 15 verses
+- Malawi (mw): 2 verses
+- Malaysia (my): 23 verses
+- Maldives (mv): 24 verses
+- Mali (ml): 13 verses
+- Malta (mt): 16 verses
+- Marshall Islands (mh): 1 verses
+- Mauritania (mr): 13 verses
+- Mauritius (mu): 2 verses
+- Moldova (md): 12 verses
+- Monaco (mc): 17 verses
+- Mongolia (mn): 20 verses
+- Montenegro (me): 20 verses
+- Morocco (ma): 16 verses
+- Mozambique (mz): 11 verses
+- Myanmar (mm): 23 verses
+- Namibia (na): 1 verses
+- Nauru (nr): 2 verses
+- Nepal (np): 20 verses
+- Netherlands (nl): 5 verses
+- Nicaragua (ni): 20 verses
+- Niger (ne): 16 verses
+- Nigeria (ng): 4 verses
+- North Korea (kp): 18 verses
+- North Macedonia (mk): 18 verses
+- Norway (no): 18 verses
+- Oman (om): 20 verses
+- Pakistan (pk): 21 verses
+- Palau (pw): 1 verses
+- Paraguay (py): 20 verses
+- Peru (pe): 18 verses
+- Philippines (ph): 20 verses
+- Poland (pl): 17 verses
+- Qatar (qa): 17 verses
+- Republic of the Congo (cg): 16 verses
+- Romania (ro): 12 verses
+- Russia (ru): 24 verses
+- Rwanda (rw): 17 verses
+- Saint Lucia (lc): 1 verses
+- Samoa (ws): 16 verses
+- San Marino (sm): 13 verses
+- Saudi Arabia (sa): 19 verses
+- Senegal (sn): 15 verses
+- Serbia (rs): 4 verses
+- Seychelles (sc): 14 verses
+- Sierra Leone (sl): 1 verses
+- Singapore (sg): 14 verses
+- Slovakia (sk): 15 verses
+- Somalia (so): 12 verses
+- South Africa (za): 22 verses
+- South Korea (kr): 20 verses
+- Sri Lanka (lk): 22 verses
+- Sudan (sd): 17 verses
+- Suriname (sr): 19 verses
+- Switzerland (ch): 5 verses
+- Taiwan (tw): 5 verses
+- Tajikistan (tj): 19 verses
+- Tanzania (tz): 17 verses
+- Thailand (th): 24 verses
+- Togo (tg): 16 verses
+- Tonga (to): 18 verses
+- Trinidad and Tobago (tt): 2 verses
+- Tunisia (tn): 18 verses
+- Turkmenistan (tm): 13 verses
+- Tuvalu (tv): 2 verses
+- Uganda (ug): 2 verses
+- Ukraine (ua): 23 verses
+- United Arab Emirates (ae): 20 verses
+- United Kingdom (gb): 6 verses
+- United States (us): 4 verses
+- Uruguay (uy): 20 verses
+- Uzbekistan (uz): 15 verses
+- Vanuatu (vu): 12 verses
+- Vatican City (va): 17 verses
+- Vietnam (vn): 14 verses
+- Yemen (ye): 19 verses
+- Zambia (zm): 4 verses
+- Zimbabwe (zw): 2 verses
