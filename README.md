@@ -21,11 +21,11 @@ Computational approach to match audio tracks with corresponding muted video clip
 ### 3. Task 3
 Analysis of visual characteristics of national flags and linguistic features of national anthems to identify potential correlations:
 
-- [**Data Collection**](./Analyzing_Flags_and_Anthems/): Collection of flag images, anthem texts, and music files
-- [**Visual Analysis**](./Analyzing_Flags_and_Anthems/): Analysis of flag images using data analysis techniques
-- [**Textual Analysis**](./Analyzing_Flags_and_Anthems/): Processing and analysis of anthem translations
-- [**Audio Analysis**](./Analyzing_Flags_and_Anthems/): Analysis of anthem music compositions
-- [**Multimodal Correlation**](./Analyzing_Flags_and_Anthems/): Exploration of correlations between visual, textual, and audio modalities
+- [**Data Collection**](./Flags_and_Anthems/): Collection of flag images, anthem texts, and music files
+- [**Visual Analysis**](./Flags_and_Anthems/): Analysis of flag images using data analysis techniques
+- [**Textual Analysis**](./Flags_and_Anthems/): Processing and analysis of anthem translations
+- [**Audio Analysis**](./Flags_and_Anthems/): Analysis of anthem music compositions
+- [**Multimodal Correlation**](./Flags_and_Anthems/): Exploration of correlations between visual, textual, and audio modalities
 
 ## Repository Structure
 ```
