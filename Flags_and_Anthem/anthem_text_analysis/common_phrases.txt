@@ -1,0 +1,43 @@
+=== COMMON BIGRAMS ===
+english translation: 719
+national anthem: 482
+toggle website: 244
+website search: 244
+sheet music: 192
+special thanks: 170
+lyric english: 166
+work licensed: 122
+licensed see: 122
+see faq: 122
+faq detail: 122
+detail faq: 122
+faq toggle: 122
+lyric romanization: 118
+arabic lyric: 113
+translation lyricist: 107
+music music: 98
+arabic script: 94
+unofficial title: 88
+romanization english: 86
+
+=== COMMON TRIGRAMS ===
+toggle website search: 244
+lyric english translation: 163
+work licensed see: 122
+licensed see faq: 122
+see faq detail: 122
+faq detail faq: 122
+detail faq toggle: 122
+faq toggle website: 122
+english translation lyricist: 107
+sheet music music: 98
+romanization english translation: 86
+lyric romanization english: 74
+arabic lyric arabic: 56
+lyric arabic script: 56
+arabic lyric romanization: 55
+arabic script arabic: 52
+script arabic lyric: 49
+hyo roe sheet: 48
+roe sheet music: 48
+title english translation: 44
